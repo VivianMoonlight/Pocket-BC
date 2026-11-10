@@ -202,10 +202,22 @@ class BcRoomChatPreparationTest {
     }
 
     @Test
-    fun unavailableSelfAccountAndOwnerRulesRemainDistinctRejections() {
+    fun unavailableSelfAndAccountRemainDistinctRejections() {
         assertRejected(BcRoomChatRejectionReason.SelfStateUnavailable, prepare(self = null))
         assertRejected(BcRoomChatRejectionReason.AccountStateUnavailable, prepare(state = null))
-        assertRejected(BcRoomChatRejectionReason.OwnerRulesUnavailable, prepare(state = privateState().copy(ruleLog = null)))
+    }
+
+    @Test
+    fun unavailableOwnerRulesAllowChatEmoteAndWhisperWithoutChangingPrivateState() {
+        val state = privateState().copy(ruleLog = null)
+        for (self in listOf(owned(), unowned)) {
+            for (kind in listOf(BcMessageKind.Chat, BcMessageKind.Emote, BcMessageKind.Whisper)) {
+                val result = assertPrepared(prepare("Hello (OOC", kind = kind, self = self, state = state))
+                assertEquals(if (kind == BcMessageKind.Emote) "Hello (OOC" else "Hello (OOC)", result.text)
+                assertNull(result.logMutation)
+            }
+        }
+        assertNull(state.ruleLog)
     }
 
     @Test

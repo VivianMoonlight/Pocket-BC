@@ -115,15 +115,27 @@ class RazorPreparedChatGatewayTest {
     }
 
     @Test
-    fun unavailablePrivateRulesStillPreventSending() = runBlocking {
-        val fixture = Fixture()
-        try {
-            fixture.initialize(logJson = null)
-            val failure = runCatching { fixture.gateway.sendPrepared(command()) }.exceptionOrNull()
-            assertRejection(BcRoomChatRejectionReason.OwnerRulesUnavailable, failure)
-            assertTrue(fixture.chatPayloads().isEmpty())
-        } finally {
-            fixture.close()
+    fun unavailablePrivateRulesAllowPreflightAndSendingWithoutOverwritingAccountLog() = runBlocking {
+        for (logJson in listOf(null, """[{"Name":"Other","Group":"Other","Value":"unknown"}]""")) {
+            for (kind in listOf(BcMessageKind.Chat, BcMessageKind.Emote, BcMessageKind.Whisper)) {
+                val fixture = Fixture()
+                try {
+                    fixture.initialize(logJson = logJson)
+                    val original = fixture.privateChat()
+                    assertNull(original.ruleLog)
+                    val command = command(kind)
+                    fixture.gateway.validateRoomChat(kind, command.text, command.targetMemberNumber)
+                    assertTrue(fixture.chatPayloads().isEmpty())
+
+                    val receipt = fixture.gateway.sendPrepared(command)
+
+                    assertEquals("hello", receipt.content)
+                    assertEquals("hello", fixture.chatPayloads().single().get("Content").asString)
+                    assertEquals(original, fixture.privateChat())
+                } finally {
+                    fixture.close()
+                }
+            }
         }
     }
 

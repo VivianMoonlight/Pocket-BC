@@ -34,7 +34,7 @@ fun prepareBcRoomChat(
     }
     self ?: return rejected(BcRoomChatRejectionReason.SelfStateUnavailable)
     privateState ?: return rejected(BcRoomChatRejectionReason.AccountStateUnavailable)
-    val logs = privateState.ruleLog ?: return rejected(BcRoomChatRejectionReason.OwnerRulesUnavailable)
+    val logs = privateState.ruleLog.orEmpty()
     val owner = self.ownership?.memberNumber?.takeIf { it > 0 }
     val ownerPresent = owner != null && (self.ownership?.stage ?: 0) >= 1 &&
         roomCharacters.any { it.memberNumber == owner }
