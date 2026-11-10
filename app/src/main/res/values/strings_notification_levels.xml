@@ -1,0 +1,6 @@
+<resources>
+    <string name="notification_level_normal">Normal</string>
+    <string name="notification_level_important">Important</string>
+    <string name="notification_level_critical">Critical</string>
+    <string name="notification_levels_description">Classified by the identity matrix and custom rules. Android settings control sound, vibration and banners.</string>
+</resources>

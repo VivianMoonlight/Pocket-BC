@@ -1,0 +1,32 @@
+<resources>
+    <string name="advanced_show">Advanced appearance</string>
+    <string name="advanced_hide">Hide advanced appearance</string>
+    <string name="background_room">Room chat background</string>
+    <string name="background_direct">Private chat background</string>
+    <string name="background_choose">Choose image</string>
+    <string name="background_remove">Remove image</string>
+    <string name="background_access_failed">Could not keep access to this image. Choose another image.</string>
+    <string name="background_preview">Message preview</string>
+    <string name="background_overlay">Background tint: %1$d%%</string>
+    <string name="custom_colors">Custom colors</string>
+    <string name="custom_colors_help">Colors apply across components using the same theme role. Check text contrast when choosing colors.</string>
+    <string name="color_reset">Reset</string>
+    <string name="colors_reset_all">Reset all colors</string>
+    <string name="color_hex">Hex color (RRGGBB)</string>
+    <string name="color_red">Red: %1$d</string>
+    <string name="color_green">Green: %1$d</string>
+    <string name="color_blue">Blue: %1$d</string>
+    <string name="color_preview">Background and text</string>
+    <string name="color_preview_message">Message and surface text</string>
+    <string name="color_preview_button">Button</string>
+    <string name="color_preview_composer">Message input area</string>
+    <string name="color_apply">Apply</string>
+    <string name="color_cancel">Cancel</string>
+    <string-array name="theme_color_roles">
+        <item>Primary / buttons</item><item>Primary text</item><item>Primary container / sent messages</item><item>Primary container text</item>
+        <item>Secondary / whispers</item><item>Secondary text</item><item>Whisper background</item><item>Whisper text</item>
+        <item>Background</item><item>Background text</item><item>Surface / panels</item><item>Surface text</item><item>Secondary surface</item><item>Secondary surface text</item>
+        <item>Outline</item><item>Error</item><item>Error text</item>
+        <item>Chat header</item><item>Chat header text</item><item>Chat composer</item><item>Chat composer text</item><item>Chat message background</item><item>Chat message text</item>
+    </string-array>
+</resources>

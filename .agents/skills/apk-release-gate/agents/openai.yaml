@@ -1,0 +1,4 @@
+interface:
+  display_name: "APK Release Gate"
+  short_description: "Run conservative Android APK release checks"
+  default_prompt: "Use $apk-release-gate to assess this Android build for release readiness."

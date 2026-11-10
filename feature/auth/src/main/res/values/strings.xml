@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_tagline">Native lightweight BC session</string>
+    <string name="back_to_settings">Back to settings</string>
+    <string name="new_account">New account</string>
+    <string name="new_account_named">New account: %1$s</string>
+    <string name="saved_accounts">Saved accounts</string>
+    <string name="account">Account</string>
+    <string name="password">Password</string>
+    <string name="show_password">Show</string>
+    <string name="hide_password">Hide</string>
+    <string name="bc_version">App-wide BC version</string>
+    <string name="bc_version_hint">Enter a BC version, such as R130, R131Beta2, or R132Alpha.</string>
+    <string name="account_required">Enter your account name.</string>
+    <string name="password_required">Enter your password.</string>
+    <string name="connection_options">Connection options</string>
+    <string name="hide_connection_options">Hide connection options</string>
+    <string name="server_url">Server address</string>
+    <string name="server_url_hint">Leave blank to use the default BC server.</string>
+    <string name="server_url_invalid">Enter a complete http or https server address.</string>
+    <string name="use_default_server">Use default server</string>
+    <string name="login_in_progress">Logging in…</string>
+    <string name="delete_in_progress">Removing saved account…</string>
+    <string name="save_account_password">Save account and password</string>
+    <string name="delete_saved_account">Delete saved account</string>
+    <string name="login">Login</string>
+    <string name="status_format">Status: %1$s</string>
+    <string name="delete_saved_account_title">Delete saved account?</string>
+    <string name="delete_saved_account_message">Remove the saved account and password for %1$s from this device?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>

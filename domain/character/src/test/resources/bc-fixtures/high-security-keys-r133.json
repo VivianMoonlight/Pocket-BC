@@ -1,0 +1,12 @@
+[
+  {"id":"replace-deduplicate-and-discard-invalid","input":" 10, 20,10,bad,,30 ","before":"10,40","owner":90,"lovers":[80,90],"whitelist":[70],"appendOwner":false,"appendLovers":false,"expected":"10,20,30"},
+  {"id":"append-actors-relations-in-native-order","input":"20,10","before":"10","owner":90,"lovers":[80,90],"whitelist":[70,80],"appendOwner":true,"appendLovers":true,"appendWhitelist":true,"expected":"20,10,90,80,70"},
+  {"id":"deposit-removes-self-before-appending","input":"10,20,10","before":"10","deposited":true,"appendOwner":false,"appendLovers":false,"expected":"20"},
+  {"id":"deposit-still-appends-whitelist","input":"10,20","before":"10","deposited":true,"whitelist":[10,30],"appendOwner":false,"appendLovers":false,"appendWhitelist":true,"expected":"20,10,30"},
+  {"id":"native-number-formats","input":"1e1,0x14,0b11110,0o50,10.0,+20,5e-1,-0, ,NaN,2d,Infinity","before":"1e1","appendOwner":false,"appendLovers":false,"expected":"10,20,30,40,0.5,0,Infinity"},
+  {"id":"empty-replacement","input":"","before":"10","appendOwner":false,"appendLovers":false,"expected":""},
+  {"id":"ecmascript-whitespace","input":"\uFEFF10\u00A0,20\u001C,\u300030","before":"10","appendOwner":false,"appendLovers":false,"expected":"10,30"},
+  {"id":"unlisted-actor-cannot-edit","input":"10,20","before":"30","appendOwner":false,"appendLovers":false,"expected":"30"},
+  {"id":"blocked-group-cannot-edit","input":"10,20","before":"10","blocked":true,"appendOwner":false,"appendLovers":false,"expected":"10"},
+  {"id":"exponent-and-small-decimal-serialization","input":"1e-7,0.000001,1e21,-Infinity,+Infinity","before":"10","appendOwner":false,"appendLovers":false,"expected":"1e-7,0.000001,1e+21,-Infinity,Infinity"}
+]

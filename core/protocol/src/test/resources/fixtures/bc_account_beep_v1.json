@@ -1,0 +1,9 @@
+{
+  "memberNumber": 1001,
+  "memberName": "Alice",
+  "chatRoomName": "Lounge",
+  "chatRoomSpace": "X",
+  "private": true,
+  "beepType": "",
+  "message": "hello direct"
+}

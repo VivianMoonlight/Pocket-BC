@@ -1,0 +1,6 @@
+{
+  "sender": 1001,
+  "senderName": "Alice",
+  "type": "Chat",
+  "content": "hello room"
+}

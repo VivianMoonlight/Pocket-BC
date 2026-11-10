@@ -1,0 +1,9 @@
+{
+  "clientMsgId": "cm_beep_1",
+  "conversationId": "message:1001",
+  "kind": "Beep",
+  "transport": "AccountBeep",
+  "text": "hello direct",
+  "targetMemberNumber": 1001,
+  "createdAtMillis": 1782460800123
+}

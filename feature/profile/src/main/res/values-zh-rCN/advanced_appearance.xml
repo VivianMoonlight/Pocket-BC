@@ -1,0 +1,32 @@
+<resources>
+    <string name="advanced_show">进阶外观设置</string>
+    <string name="advanced_hide">收起进阶外观设置</string>
+    <string name="background_room">聊天室背景</string>
+    <string name="background_direct">私聊背景</string>
+    <string name="background_choose">选择图片</string>
+    <string name="background_remove">移除图片</string>
+    <string name="background_access_failed">无法持续访问这张图片，请选择其他图片。</string>
+    <string name="background_preview">消息预览</string>
+    <string name="background_overlay">背景遮罩：%1$d%%</string>
+    <string name="custom_colors">自定义颜色</string>
+    <string name="custom_colors_help">使用同一主题颜色的组件会一起变化。选择颜色时请注意文字对比度。</string>
+    <string name="color_reset">重置</string>
+    <string name="colors_reset_all">重置所有颜色</string>
+    <string name="color_hex">十六进制颜色（RRGGBB）</string>
+    <string name="color_red">红：%1$d</string>
+    <string name="color_green">绿：%1$d</string>
+    <string name="color_blue">蓝：%1$d</string>
+    <string name="color_preview">背景与文字</string>
+    <string name="color_preview_message">消息与面板文字</string>
+    <string name="color_preview_button">按钮</string>
+    <string name="color_preview_composer">消息输入区域</string>
+    <string name="color_apply">应用</string>
+    <string name="color_cancel">取消</string>
+    <string-array name="theme_color_roles">
+        <item>主色 / 按钮</item><item>主色上的文字</item><item>主色容器 / 发出的消息</item><item>主色容器上的文字</item>
+        <item>次要色 / 私语</item><item>次要色上的文字</item><item>私语背景</item><item>私语文字</item>
+        <item>背景</item><item>背景文字</item><item>面板背景</item><item>面板文字</item><item>次要面板背景</item><item>次要面板文字</item>
+        <item>边框</item><item>错误提示</item><item>错误提示上的文字</item>
+        <item>聊天顶部栏</item><item>聊天顶部栏文字</item><item>聊天输入区域</item><item>聊天输入区域文字</item><item>聊天消息背景</item><item>聊天消息文字</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7627 @@
+{
+  "revision": "4478e33044a6d87a4d1b0c6ed8d38a549e1d4204",
+  "groups": [
+    {
+      "group": "左眼_Luzi",
+      "translation": {
+        "CN": "🍔左眼(覆盖)",
+        "EN": "🍔Left Eye (Over)"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "translation": {
+        "CN": "🍔右眼(覆盖)",
+        "EN": "🍔Right Eye (Over)"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "translation": {
+        "CN": "🍔前发(覆盖)",
+        "EN": "🍔Front Hair (Over)",
+        "RU": "🍔новые волосы на лице"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "translation": {
+        "CN": "🍔后发(覆盖)",
+        "EN": "🍔Back Hair (Over)",
+        "RU": "🍔новые волосы на спине"
+      }
+    },
+    {
+      "group": "额外头发_Luzi",
+      "translation": {
+        "CN": "🍔额外头发",
+        "EN": "🍔Extra hair",
+        "RU": "🍔дополнительные волосы"
+      }
+    },
+    {
+      "group": "Liquid2_Luzi",
+      "translation": {
+        "CN": "🍔液体",
+        "EN": "🍔Liquid",
+        "RU": "🍔Жидкость"
+      }
+    },
+    {
+      "group": "身体痕迹_Luzi",
+      "translation": {
+        "CN": "🍔鞭痕",
+        "EN": "🍔Whip Marks",
+        "RU": "🍔Побои от плети"
+      }
+    },
+    {
+      "group": "动物身体_Luzi",
+      "translation": {
+        "CN": "🍔替用身体",
+        "EN": "🍔Alter Body",
+        "RU": "🍔Замена тела"
+      }
+    },
+    {
+      "group": "额外身高_Luzi",
+      "translation": {
+        "CN": "🍔身高调整",
+        "EN": "🍔Height Adjustment",
+        "RU": "🍔Регулировка высоты"
+      }
+    },
+    {
+      "group": "长袖子_Luzi",
+      "translation": {
+        "CN": "🍔长袖子",
+        "EN": "🍔Long Sleeves",
+        "RU": "🍔Длинные рукава"
+      }
+    },
+    {
+      "group": "外观工具",
+      "translation": {
+        "CN": "🍔外观工具",
+        "EN": "🍔Appearance Tool"
+      }
+    },
+    {
+      "group": "新前发_Luzi_stack",
+      "translation": {
+        "CN": "🍔前发(叠加)",
+        "EN": "🍔Front Hair (Stack)"
+      }
+    },
+    {
+      "group": "新后发_Luzi_stack",
+      "translation": {
+        "CN": "🍔后发(叠加)",
+        "EN": "🍔Back Hair (Stack)"
+      }
+    },
+    {
+      "group": "BodyMarkings2_Luzi",
+      "translation": {
+        "CN": "🍔身体涂画 2",
+        "EN": "🍔Body Markings 2",
+        "RU": "🍔Нарисованные отметины на теле 2"
+      }
+    },
+    {
+      "group": "Cloth_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔衣服 2",
+        "EN": "🍔Cloth 2",
+        "RU": "🍔Одежда 2"
+      }
+    },
+    {
+      "group": "Cloth_笨笨笨蛋Luzi2",
+      "translation": {
+        "CN": "🍔衣服 3",
+        "EN": "🍔Cloth 3",
+        "RU": "🍔Одежда 3"
+      }
+    },
+    {
+      "group": "ClothLower_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔下装 2",
+        "EN": "🍔Bottom 2",
+        "RU": "🍔Нижняя одежда 2"
+      }
+    },
+    {
+      "group": "ClothLower_笨笨笨蛋Luzi2",
+      "translation": {
+        "CN": "🍔下装 3",
+        "EN": "🍔Bottom 3",
+        "RU": "🍔Нижняя одежда 3"
+      }
+    },
+    {
+      "group": "Bra_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔胸罩 2",
+        "EN": "🍔Bra 2",
+        "RU": "🍔Бюстгальтер 2"
+      }
+    },
+    {
+      "group": "Panties_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔内裤 2",
+        "EN": "🍔Panties 2",
+        "RU": "🍔Трусики 2"
+      }
+    },
+    {
+      "group": "Suit_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔套装(上身) 2",
+        "EN": "🍔Suit Upper 2"
+      }
+    },
+    {
+      "group": "SuitLower_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔套装(下身) 2",
+        "EN": "🍔Suit Lower 2"
+      }
+    },
+    {
+      "group": "ClothAccessory_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔服装配饰 2",
+        "EN": "🍔Cloth Accessory 2",
+        "RU": "🍔Аксессуары одежды 2"
+      }
+    },
+    {
+      "group": "ClothAccessory_笨笨笨蛋Luzi2",
+      "translation": {
+        "CN": "🍔服装配饰 3",
+        "EN": "🍔Cloth Accessory 3",
+        "RU": "🍔Аксессуары одежды 3"
+      }
+    },
+    {
+      "group": "Necklace_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔项链 2",
+        "EN": "🍔Necklace 2",
+        "RU": "🍔Цепочка 2"
+      }
+    },
+    {
+      "group": "Luzi_Jewelry_0",
+      "translation": {
+        "CN": "🍔珠宝 1",
+        "EN": "🍔Jewelry 1"
+      }
+    },
+    {
+      "group": "Shoes_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔鞋子 2",
+        "EN": "🍔Shoes 2",
+        "RU": "🍔Обувь 2"
+      }
+    },
+    {
+      "group": "Hat_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔帽子 2",
+        "EN": "🍔Hat 2",
+        "RU": "🍔Шляпа 2"
+      }
+    },
+    {
+      "group": "HairAccessory3_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔发饰 +1",
+        "EN": "🍔Hair Accessory +1",
+        "RU": "🍔Головной убор +1"
+      }
+    },
+    {
+      "group": "Luzi_HairAccessory3_1",
+      "translation": {
+        "CN": "🍔发饰 +2",
+        "EN": "🍔Hair Accessory +2",
+        "RU": "🍔Головной убор +2"
+      }
+    },
+    {
+      "group": "Luzi_HairAccessory3_2",
+      "translation": {
+        "CN": "🍔发饰 +3",
+        "EN": "🍔Hair Accessory +3",
+        "RU": "🍔Головной убор +3"
+      }
+    },
+    {
+      "group": "Gloves_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔手套 2",
+        "EN": "🍔Gloves 2",
+        "RU": "🍔Перчатки 2"
+      }
+    },
+    {
+      "group": "Mask_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔面具 2",
+        "EN": "🍔Mask 2",
+        "RU": "🍔Маска 2"
+      }
+    },
+    {
+      "group": "Wings_笨笨蛋Luzi",
+      "translation": {
+        "CN": "🍔翅膀 2",
+        "EN": "🍔Wings 2",
+        "RU": "🍔Крылья 2"
+      }
+    },
+    {
+      "group": "Luzi_TailStraps_0",
+      "translation": {
+        "CN": "🍔尾巴 2",
+        "EN": "🍔Tail 2",
+        "RU": "🍔Хвост 2"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "group": "ItemAddon",
+      "name": "后背",
+      "translation": {
+        "CN": "后背",
+        "EN": "Back-body",
+        "RU": "Спина"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "EFGlass",
+      "translation": {
+        "CN": "EvilFall 护目镜",
+        "EN": "EvilFall Visor"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "EFGlass",
+      "translation": {
+        "CN": "EvilFall 护目镜",
+        "EN": "EvilFall Visor"
+      }
+    },
+    {
+      "group": "ItemHead",
+      "name": "EFGlass",
+      "translation": {
+        "CN": "EvilFall 护目镜",
+        "EN": "EvilFall Visor"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "EFMask",
+      "translation": {
+        "CN": "EvilFall 面具",
+        "EN": "EvilFall Mask"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "EFMask",
+      "translation": {
+        "CN": "EvilFall 面具",
+        "EN": "EvilFall Mask"
+      }
+    },
+    {
+      "group": "ItemMouth2",
+      "name": "EFMask",
+      "translation": {
+        "CN": "EvilFall 面具",
+        "EN": "EvilFall Mask"
+      }
+    },
+    {
+      "group": "ItemMouth3",
+      "name": "EFMask",
+      "translation": {
+        "CN": "EvilFall 面具",
+        "EN": "EvilFall Mask"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "榨汁枪",
+      "translation": {
+        "CN": "榨汁枪",
+        "EN": "Cup Gun"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "警棍",
+      "translation": {
+        "CN": "R18警棍",
+        "EN": "R18 Baton"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "裤子1",
+      "translation": {
+        "CN": "吊带式裤",
+        "EN": "Suspender Pants"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "小西装S",
+      "translation": {
+        "CN": "小西装衬衫",
+        "EN": "Little Formal Shirt"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "小西装T",
+      "translation": {
+        "CN": "小西装外套",
+        "EN": "Little Formal Suit"
+      }
+    },
+    {
+      "group": "ClothOuter",
+      "name": "小西装T",
+      "translation": {
+        "CN": "小西装外套",
+        "EN": "Little Formal Suit"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "DamseletteHA",
+      "translation": {
+        "CN": "翅膀头饰",
+        "EN": "Winged Headpiece"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "DamseletteHA",
+      "translation": {
+        "CN": "翅膀头饰",
+        "EN": "Winged Headpiece"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "DamseletteM",
+      "translation": {
+        "CN": "透明网格面纱",
+        "EN": "Transparent Grid Veil"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "敞夹克",
+      "translation": {
+        "CN": "随意敞开机能夹克",
+        "EN": "Casual Open Functional Jacket"
+      }
+    },
+    {
+      "group": "ClothOuter",
+      "name": "敞夹克",
+      "translation": {
+        "CN": "随意敞开机能夹克",
+        "EN": "Casual Open Functional Jacket"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "蝴蝶结鞋子",
+      "translation": {
+        "CN": "蝴蝶结鞋子",
+        "EN": "Bow Shoes"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "粉蓝白裙",
+      "translation": {
+        "CN": "粉蓝白裙 (制作中)",
+        "EN": "PBW Skirt (WIP)"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "蓬松卷发1",
+      "translation": {
+        "CN": "蓬松卷发1",
+        "EN": "Fluffy Curls 1"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "蓬松卷发1",
+      "translation": {
+        "CN": "蓬松卷发1",
+        "EN": "Fluffy Curls 1"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "蓬松卷发2",
+      "translation": {
+        "CN": "蓬松卷发2",
+        "EN": "Fluffy Curls 2"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "蓬松卷发2",
+      "translation": {
+        "CN": "蓬松卷发2",
+        "EN": "Fluffy Curls 2"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "姬发公主切前",
+      "translation": {
+        "CN": "姬发公主切(前)",
+        "EN": "Hime Cut (Front)"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "姬发公主切后",
+      "translation": {
+        "CN": "姬发公主切(后)",
+        "EN": "Hime Cut (Back)"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "树叶发饰",
+      "translation": {
+        "CN": "树叶发饰",
+        "EN": "Leaf Hairpin"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "树叶发饰",
+      "translation": {
+        "CN": "树叶发饰",
+        "EN": "Leaf Hairpin"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "金属发卡",
+      "translation": {
+        "CN": "金属发卡",
+        "EN": "Metal Hairpin"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "金属发卡",
+      "translation": {
+        "CN": "金属发卡",
+        "EN": "Metal Hairpin"
+      }
+    },
+    {
+      "group": "Garters",
+      "name": "枪套",
+      "translation": {
+        "CN": "枪套",
+        "EN": "Holster"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "枪套",
+      "translation": {
+        "CN": "枪套",
+        "EN": "Holster"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛11",
+      "translation": {
+        "CN": "夜色",
+        "EN": "Amber"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛11",
+      "translation": {
+        "CN": "夜色",
+        "EN": "Amber"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "长裙",
+      "translation": {
+        "CN": "夜空银海礼服裙",
+        "EN": "Starry Ocean Evening Gown"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "羽毛内衣",
+      "translation": {
+        "CN": "羽毛内衣",
+        "EN": "Feather Lingerie"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "羽毛内衣",
+      "translation": {
+        "CN": "羽毛内衣",
+        "EN": "Feather Lingerie"
+      }
+    },
+    {
+      "group": "Suit",
+      "name": "羽毛内衣",
+      "translation": {
+        "CN": "羽毛内衣",
+        "EN": "Feather Lingerie"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "西装露肩",
+      "translation": {
+        "CN": "随意滑落西装",
+        "EN": "Casual Dropped Suit"
+      }
+    },
+    {
+      "group": "ClothOuter",
+      "name": "西装露肩",
+      "translation": {
+        "CN": "随意滑落西装",
+        "EN": "Casual Dropped Suit"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "拉链皮靴",
+      "translation": {
+        "CN": "拉链皮靴",
+        "EN": "Zipper Leather Boots"
+      }
+    },
+    {
+      "group": "Necklace",
+      "name": "SND项链",
+      "translation": {
+        "CN": "SND项链",
+        "EN": "SND Necklace"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "SND项链",
+      "translation": {
+        "CN": "SND项链",
+        "EN": "SND Necklace"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "乳胶带床",
+      "translation": {
+        "CN": "乳胶带床",
+        "EN": "Latex-belt Bed",
+        "RU": "Кровать с латексным ремнем",
+        "UA": "Латексне ліжко із ремнями"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "垃圾桶",
+      "translation": {
+        "CN": "垃圾桶",
+        "EN": "Trash Can",
+        "UA": "Смітник"
+      }
+    },
+    {
+      "group": "ItemAddon",
+      "name": "被子左边",
+      "translation": {
+        "CN": "被子左边",
+        "EN": "Quilt Left"
+      }
+    },
+    {
+      "group": "ItemAddon",
+      "name": "被子右边",
+      "translation": {
+        "CN": "被子右边",
+        "EN": "Quilt Right"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "床左边",
+      "translation": {
+        "CN": "床左边",
+        "EN": "Bed Left"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "床右边",
+      "translation": {
+        "CN": "床右边",
+        "EN": "Bed Right"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "巨型玩偶",
+      "translation": {
+        "CN": "巨型玩偶",
+        "EN": "Giant Stuffed Toy",
+        "UA": "Гіганська Іграшка"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "开腿展示架",
+      "translation": {
+        "CN": "开腿展示架",
+        "EN": "Leg-Spread Display Stand",
+        "UA": "Розширювач ніг",
+        "RU": "Leg-Spread Display Stand"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "拳击袋",
+      "translation": {
+        "CN": "拳击袋",
+        "EN": "Boxing Bag",
+        "UA": "Боксерський мішок"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "木狗屋",
+      "translation": {
+        "CN": "木狗屋",
+        "EN": "Wooden Dog House"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "架子鼓",
+      "translation": {
+        "CN": "架子鼓",
+        "EN": "Drum Set"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "树",
+      "translation": {
+        "CN": "树",
+        "EN": "Tree"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "正坐椅",
+      "translation": {
+        "CN": "正坐椅",
+        "EN": "Seizaisu"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "正坐椅L",
+      "translation": {
+        "CN": "正坐椅 (传统)",
+        "EN": "Seizaisu (Traditional)"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "独角兽玩偶",
+      "translation": {
+        "CN": "独角兽玩偶",
+        "EN": "Unicorn Stuffed Toy",
+        "UA": "Лялька єдинорога",
+        "RU": "Кукла единорога"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "玻璃罐子",
+      "translation": {
+        "CN": "玻璃罐子",
+        "EN": "Glass Jar",
+        "RU": "Стеклянная банка",
+        "UA": "Скляний контейнер"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "电钢琴",
+      "translation": {
+        "CN": "电钢琴",
+        "EN": "Electric Piano"
+      }
+    },
+    {
+      "group": "ItemNeckRestraints",
+      "name": "监控机器人",
+      "translation": {
+        "CN": "监控机器人",
+        "EN": "Surveillance Robot"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "铁架台",
+      "translation": {
+        "CN": "铁架台",
+        "EN": "Buret Stand"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "单监",
+      "translation": {
+        "CN": "镣铐单竖杠监狱",
+        "EN": "Shackled One-Bar Prison"
+      }
+    },
+    {
+      "group": "BodyMarkings",
+      "name": "刻度尺",
+      "translation": {
+        "CN": "刻度尺",
+        "EN": "Ruler"
+      }
+    },
+    {
+      "group": "外观工具",
+      "name": "兼容工具",
+      "translation": {
+        "CN": "兼容工具",
+        "EN": "Compatibility Tools"
+      }
+    },
+    {
+      "group": "ItemAddon",
+      "name": "调整高度",
+      "translation": {
+        "CN": "调整高度",
+        "EN": "Height Tool"
+      }
+    },
+    {
+      "group": "ItemNipplesPiercings",
+      "name": "U钉链",
+      "translation": {
+        "CN": "U钉",
+        "EN": "U Piercing"
+      }
+    },
+    {
+      "group": "ItemNipples",
+      "name": "乳夹",
+      "translation": {
+        "CN": "乳夹",
+        "EN": "Nipple Clamps",
+        "RU": "Зажимы для сосков",
+        "UA": "Зажими для сосків"
+      }
+    },
+    {
+      "group": "ItemNipplesPiercings",
+      "name": "短穿环",
+      "translation": {
+        "CN": "短穿环",
+        "EN": "Short Straight Piercings"
+      }
+    },
+    {
+      "group": "ItemNipples",
+      "name": "铃铛P",
+      "translation": {
+        "CN": "圣诞铃铛",
+        "EN": "Xmas Bell"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "铃铛C",
+      "translation": {
+        "CN": "圣诞铃铛",
+        "EN": "Xmas Bell"
+      }
+    },
+    {
+      "group": "ItemNeckAccessories",
+      "name": "铃铛C",
+      "translation": {
+        "CN": "圣诞铃铛",
+        "EN": "Xmas Bell"
+      }
+    },
+    {
+      "group": "ItemNipples",
+      "name": "穿环胸牌",
+      "translation": {
+        "CN": "穿环胸牌",
+        "EN": "Piercing Name Badge"
+      }
+    },
+    {
+      "group": "ItemNipplesPiercings",
+      "name": "穿环胸牌",
+      "translation": {
+        "CN": "穿环胸牌",
+        "EN": "Piercing Name Badge"
+      }
+    },
+    {
+      "group": "ItemNipplesPiercings",
+      "name": "贯穿穿刺",
+      "translation": {
+        "CN": "贯穿穿刺",
+        "EN": "Through Piercings"
+      }
+    },
+    {
+      "group": "ItemMisc",
+      "name": "拉紧的牵绳",
+      "translation": {
+        "CN": "拉紧的牵绳",
+        "EN": "Pulled Leash",
+        "RU": "Потянутый повод"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "拉紧的牵绳",
+      "translation": {
+        "CN": "拉紧的牵绳",
+        "EN": "Pulled Leash",
+        "RU": "Потянутый повод"
+      }
+    },
+    {
+      "group": "ItemMisc",
+      "name": "拉紧的链子",
+      "translation": {
+        "CN": "拉紧的链子",
+        "EN": "Pulled Chain",
+        "RU": "Потянутая цепь"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "拉紧的链子",
+      "translation": {
+        "CN": "拉紧的链子",
+        "EN": "Pulled Chain",
+        "RU": "Потянутая цепь"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "缰绳",
+      "translation": {
+        "CN": "缰绳",
+        "EN": "Reins",
+        "RU": "Уздечка"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "缰绳",
+      "translation": {
+        "CN": "缰绳",
+        "EN": "Reins",
+        "RU": "Уздечка"
+      }
+    },
+    {
+      "group": "ItemHood",
+      "name": "毛毯头部",
+      "translation": {
+        "CN": "毛毯头部",
+        "EN": "Head Blanket",
+        "UA": "Обв'язка з ковдри",
+        "RU": "Покрывало на голову"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "胶带全身",
+      "translation": {
+        "CN": "胶带全身",
+        "EN": "Tape Full Body",
+        "UA": "Скотч на все тіло",
+        "RU": "Лента на всё тело"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "胶带全身",
+      "translation": {
+        "CN": "胶带全身",
+        "EN": "Tape Full Body",
+        "UA": "Скотч на все тіло",
+        "RU": "Лента на всё тело"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "睡袋改",
+      "translation": {
+        "CN": "睡袋改",
+        "EN": "Modified Sleeping Bag",
+        "UA": "Модифікований спальний мішок",
+        "RU": "Изменённый спальный мешок"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "睡袋改",
+      "translation": {
+        "CN": "睡袋改",
+        "EN": "Modified Sleeping Bag",
+        "UA": "Модифікований спальний мішок",
+        "RU": "Изменённый спальный мешок"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "全包毛毯改",
+      "translation": {
+        "CN": "全包毛毯改",
+        "EN": "Fully Wrapped Blanket",
+        "UA": "Повністю обгорнення ковдрою",
+        "RU": "Полностью завёрнутое покрывало"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "全包毛毯改",
+      "translation": {
+        "CN": "全包毛毯改",
+        "EN": "Fully Wrapped Blanket",
+        "UA": "Повністю обгорнення ковдрою",
+        "RU": "Полностью завёрнутое покрывало"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "全包毛毯",
+      "translation": {
+        "CN": "全包毛毯",
+        "EN": "Fully Wrapped Blanket",
+        "UA": "Повністю обгорнення ковдрою",
+        "RU": "Полностью завёрнутое покрывало"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "全包毛毯",
+      "translation": {
+        "CN": "全包毛毯",
+        "EN": "Fully Wrapped Blanket",
+        "UA": "Повністю обгорнення ковдрою",
+        "RU": "Полностью завёрнутое покрывало"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "大号拉珠",
+      "translation": {
+        "CN": "大号拉珠",
+        "EN": "Large beads",
+        "RU": "Большие бусины"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "大号拉珠",
+      "translation": {
+        "CN": "大号拉珠",
+        "EN": "Large beads",
+        "RU": "Большие бусины"
+      }
+    },
+    {
+      "group": "ItemButt",
+      "name": "大号拉珠",
+      "translation": {
+        "CN": "大号拉珠",
+        "EN": "Large Anal Beads"
+      }
+    },
+    {
+      "group": "ItemVulva",
+      "name": "更多有线跳蛋",
+      "translation": {
+        "CN": "更多有线跳蛋",
+        "EN": "More Wired Vibrators",
+        "RU": "Больше проводных вибраторов",
+        "UA": "Більше провідних вібраторів"
+      }
+    },
+    {
+      "group": "ItemLegs",
+      "name": "电击器",
+      "translation": {
+        "CN": "电击器",
+        "EN": "Shock Device"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "肛鞭",
+      "translation": {
+        "CN": "肛鞭",
+        "EN": "Long Anal Plug"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "肛鞭",
+      "translation": {
+        "CN": "肛鞭",
+        "EN": "Long Anal Plug"
+      }
+    },
+    {
+      "group": "ItemButt",
+      "name": "肛鞭",
+      "translation": {
+        "CN": "肛鞭",
+        "EN": "Large pull beads"
+      }
+    },
+    {
+      "group": "ItemMisc",
+      "name": "南瓜盆",
+      "translation": {
+        "CN": "南瓜盆",
+        "EN": "Pumpkin Pot",
+        "RU": "Тыквенный горшок"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "可移动玻璃柜",
+      "translation": {
+        "CN": "可移动玻璃柜",
+        "EN": "Movable glass cabinet",
+        "RU": "Перемещаемый стеклянный шкаф",
+        "UA": "Рухомий скляний шаф"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "宠物箱",
+      "translation": {
+        "CN": "宠物箱",
+        "EN": "Pet Crate"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "猪猪",
+      "translation": {
+        "CN": "猪猪",
+        "EN": "Piggy",
+        "RU": "Поросёнок",
+        "UA": "Свинка"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "硬壳行李箱",
+      "translation": {
+        "CN": "硬壳行李箱",
+        "EN": "Hard-shell Luggage"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "窝瓜",
+      "translation": {
+        "CN": "窝瓜",
+        "EN": "Pumpkin",
+        "RU": "Тыква"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "纸箱",
+      "translation": {
+        "CN": "纸箱",
+        "EN": "Cardboard Box"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "行李箱",
+      "translation": {
+        "CN": "行李箱",
+        "EN": "Luggage"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "麻袋",
+      "translation": {
+        "CN": "长麻袋",
+        "EN": "Long Bag"
+      }
+    },
+    {
+      "group": "ItemHood",
+      "name": "麻袋",
+      "translation": {
+        "CN": "长麻袋",
+        "EN": "Long Bag"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "尿袋",
+      "translation": {
+        "CN": "尿袋",
+        "EN": "Urine Bag",
+        "RU": "Мочеприемник",
+        "UA": "Сечовий мішок"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "尿袋",
+      "translation": {
+        "CN": "尿袋",
+        "EN": "Urine Bag",
+        "RU": "Мочеприемник",
+        "UA": "Сечовий мішок"
+      }
+    },
+    {
+      "group": "ItemPelvis",
+      "name": "幸运贞操带",
+      "translation": {
+        "CN": "幸运贞操带",
+        "EN": "Fortune Chastity Belt"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "刀",
+      "translation": {
+        "CN": "太刀",
+        "EN": "Tachi",
+        "RU": "Тати"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "分层剑",
+      "translation": {
+        "CN": "长剑道具",
+        "EN": "Longsword Props"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "巧克力",
+      "translation": {
+        "CN": "巧克力",
+        "EN": "Chocolate"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "拐杖",
+      "translation": {
+        "CN": "拐杖",
+        "EN": "Walking Cane"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "拐杖",
+      "translation": {
+        "CN": "拐杖",
+        "EN": "Walking Cane"
+      }
+    },
+    {
+      "group": "ItemHands",
+      "name": "拳击手套",
+      "translation": {
+        "CN": "拳击手套",
+        "EN": "Boxing Gloves"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "电蚊拍",
+      "translation": {
+        "CN": "电蚊拍",
+        "EN": "Electric Fly Swatter"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "书",
+      "translation": {
+        "CN": "书",
+        "EN": "Book"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "奶瓶",
+      "translation": {
+        "CN": "奶瓶",
+        "EN": "Milk Bottle"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "红包",
+      "translation": {
+        "CN": "红包",
+        "EN": "Red Packet"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "伊偶",
+      "translation": {
+        "CN": "伊偶",
+        "EN": "Cyäegha Doll"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "武器组合",
+      "translation": {
+        "CN": "武器道具套装",
+        "EN": "Weapon Props Set"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "杯饮",
+      "translation": {
+        "CN": "玻璃杯饮料",
+        "EN": "Glass Cup Drink"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "电吉他",
+      "translation": {
+        "CN": "电吉他",
+        "EN": "Electric Guitar"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "电吉他",
+      "translation": {
+        "CN": "电吉他",
+        "EN": "Electric Guitar"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "笔记本电脑",
+      "translation": {
+        "CN": "笔记本电脑",
+        "EN": "Laptop"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "糖果手杖",
+      "translation": {
+        "CN": "糖果手杖",
+        "EN": "Candy Cane"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "阿巴阿巴",
+      "translation": {
+        "CN": "阿巴阿巴",
+        "EN": "Aba Aba"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "蛋糕卷",
+      "translation": {
+        "CN": "蛋糕卷",
+        "EN": "Cake Roll",
+        "RU": "Рулет"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "棒棒糖",
+      "translation": {
+        "CN": "棒棒糖",
+        "EN": "Lollipop",
+        "RU": "Леденец"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "烤鱼",
+      "translation": {
+        "CN": "烤鱼",
+        "EN": "Grilled Fish",
+        "RU": "Запечённая рыба"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "鸡腿",
+      "translation": {
+        "CN": "烤鸡腿",
+        "EN": "Roasted Chicken Leg",
+        "RU": "Запечённая куриная нога"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "煎包",
+      "translation": {
+        "CN": "煎包",
+        "EN": "Fried Bun"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "曲奇",
+      "translation": {
+        "CN": "曲奇",
+        "EN": "Cookie"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "吐司",
+      "translation": {
+        "CN": "吐司",
+        "EN": "Toast"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "蛋挞",
+      "translation": {
+        "CN": "蛋挞",
+        "EN": "Egg Tart"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "月饼",
+      "translation": {
+        "CN": "月饼",
+        "EN": "Mooncake"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "汉堡",
+      "translation": {
+        "CN": "汉堡",
+        "EN": "Hamburger",
+        "RU": "Гамбургер"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "奶茶",
+      "translation": {
+        "CN": "奶茶",
+        "EN": "Milk Tea",
+        "RU": "чай с молоком"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "棒棒糖",
+      "translation": {
+        "CN": "棒棒糖",
+        "EN": "Lollipop",
+        "RU": "Леденец"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "烤鱼",
+      "translation": {
+        "CN": "烤鱼",
+        "EN": "Grilled Fish",
+        "RU": "Запечённая рыба"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "鸡腿",
+      "translation": {
+        "CN": "烤鸡腿",
+        "EN": "Roasted Chicken Leg",
+        "RU": "Запечённая куриная нога"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "曲奇",
+      "translation": {
+        "CN": "曲奇",
+        "EN": "Cookie"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "吐司",
+      "translation": {
+        "CN": "吐司",
+        "EN": "Toast"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "蛋挞",
+      "translation": {
+        "CN": "蛋挞",
+        "EN": "Egg Tart"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "月饼",
+      "translation": {
+        "CN": "月饼",
+        "EN": "Mooncake"
+      }
+    },
+    {
+      "group": "ItemHood",
+      "name": "汉堡",
+      "translation": {
+        "CN": "汉堡",
+        "EN": "Hamburger",
+        "RU": "Гамбургер"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "香肠",
+      "translation": {
+        "CN": "烤香肠",
+        "EN": "Grilled Sausage"
+      }
+    },
+    {
+      "group": "ItemArms",
+      "name": "举手杆",
+      "translation": {
+        "CN": "举手杆",
+        "EN": "Hand raised bar"
+      }
+    },
+    {
+      "group": "ItemArms",
+      "name": "乳胶宠物拘束服",
+      "translation": {
+        "CN": "乳胶宠物拘束服",
+        "EN": "Latex Pet Restraint Suit",
+        "RU": "Латексный комбинезон для ограничения питомца",
+        "UA": "Латексний комбінезон-обмежувач"
+      }
+    },
+    {
+      "group": "ItemDevices",
+      "name": "充气式拘束袋",
+      "translation": {
+        "CN": "充气式拘束袋",
+        "EN": "Inflatable Restraint Bag",
+        "UA": "Надувна сумка для обмеження",
+        "RU": "Надувной мешок для сдерживания"
+      }
+    },
+    {
+      "group": "ItemArms",
+      "name": "充气式拘束袋",
+      "translation": {
+        "CN": "充气式拘束袋",
+        "EN": "Inflatable Restraint Bag",
+        "UA": "Надувна сумка для обмеження",
+        "RU": "Надувной мешок для сдерживания"
+      }
+    },
+    {
+      "group": "ItemArms",
+      "name": "全身条带拘束",
+      "translation": {
+        "CN": "全身条带",
+        "EN": "Full Body Straps"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "全身条带拘束",
+      "translation": {
+        "CN": "全身条带",
+        "EN": "Full Body Straps"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "全身条带拘束",
+      "translation": {
+        "CN": "全身条带",
+        "EN": "Full Body Straps"
+      }
+    },
+    {
+      "group": "ItemLegs",
+      "name": "分膝杆",
+      "translation": {
+        "CN": "分膝杆",
+        "EN": "Knee Spreader"
+      }
+    },
+    {
+      "group": "ItemArms",
+      "name": "宠物服上",
+      "translation": {
+        "CN": "宠物服上",
+        "EN": "Pet Upper Suit",
+        "RU": "Верхний костюм для питомца",
+        "UA": "Верхній костюм для вихованця"
+      }
+    },
+    {
+      "group": "ItemLegs",
+      "name": "宠物服下",
+      "translation": {
+        "CN": "宠物服下",
+        "EN": "Pet Lower Suit",
+        "RU": "Нижний костюм для питомца",
+        "UA": "Нижній костюм для вихованця"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "拘束套装",
+      "translation": {
+        "CN": "拘束套装",
+        "EN": "Restraint Set"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "拘束套装",
+      "translation": {
+        "CN": "拘束套装",
+        "EN": "Restraint Set"
+      }
+    },
+    {
+      "group": "ItemArms",
+      "name": "拘束抱枕",
+      "translation": {
+        "CN": "拘束抱枕",
+        "EN": "Restraint Pillow",
+        "RU": "удерживающая подушка",
+        "UA": "утримувальна подушка"
+      }
+    },
+    {
+      "group": "ItemArms",
+      "name": "简单绳",
+      "translation": {
+        "CN": "简单绳缚",
+        "EN": "Simple Rope Bondage"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "绳子",
+      "translation": {
+        "CN": "复杂麻绳",
+        "EN": "Sophisticated Hemp Rope"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "绳子",
+      "translation": {
+        "CN": "复杂麻绳",
+        "EN": "Sophisticated Hemp Rope"
+      }
+    },
+    {
+      "group": "ItemLegs",
+      "name": "绳子",
+      "translation": {
+        "CN": "复杂麻绳",
+        "EN": "Sophisticated Hemp Rope"
+      }
+    },
+    {
+      "group": "ItemPelvis",
+      "name": "绳子",
+      "translation": {
+        "CN": "复杂麻绳",
+        "EN": "Sophisticated Hemp Rope"
+      }
+    },
+    {
+      "group": "ItemLegs",
+      "name": "膝上过夜束缚器",
+      "translation": {
+        "CN": "膝上过夜束缚器",
+        "EN": "Over Knee Overnighter"
+      }
+    },
+    {
+      "group": "ItemArms",
+      "name": "花边手环",
+      "translation": {
+        "CN": "花边手环",
+        "EN": "Lace Wrist Cuffs"
+      }
+    },
+    {
+      "group": "Bracelet",
+      "name": "花边手环",
+      "translation": {
+        "CN": "花边手环",
+        "EN": "Lace Wrist Cuffs"
+      }
+    },
+    {
+      "group": "ItemLegs",
+      "name": "花边大腿环",
+      "translation": {
+        "CN": "花边大腿环",
+        "EN": "Lace Thigh Cuffs"
+      }
+    },
+    {
+      "group": "Garters",
+      "name": "花边大腿环",
+      "translation": {
+        "CN": "花边大腿环",
+        "EN": "Lace Thigh Cuffs"
+      }
+    },
+    {
+      "group": "ItemArms",
+      "name": "鬼手",
+      "translation": {
+        "CN": "鬼手",
+        "EN": "Ghost Hand"
+      }
+    },
+    {
+      "group": "ItemFeet",
+      "name": "鬼手",
+      "translation": {
+        "CN": "鬼手",
+        "EN": "Ghost Hand"
+      }
+    },
+    {
+      "group": "ItemLegs",
+      "name": "鬼手",
+      "translation": {
+        "CN": "鬼手",
+        "EN": "Ghost Hand"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "鬼手",
+      "translation": {
+        "CN": "鬼手",
+        "EN": "Ghost Hand"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "鬼手",
+      "translation": {
+        "CN": "鬼手",
+        "EN": "Ghost Hand"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "鬼手",
+      "translation": {
+        "CN": "鬼手",
+        "EN": "Ghost Hand"
+      }
+    },
+    {
+      "group": "ItemHead",
+      "name": "鬼手",
+      "translation": {
+        "CN": "鬼手",
+        "EN": "Ghost Hand"
+      }
+    },
+    {
+      "group": "ItemVulva",
+      "name": "鬼手",
+      "translation": {
+        "CN": "鬼手",
+        "EN": "Ghost Hand"
+      }
+    },
+    {
+      "group": "ItemBreast",
+      "name": "鬼手",
+      "translation": {
+        "CN": "鬼手",
+        "EN": "Ghost Hand"
+      }
+    },
+    {
+      "group": "ItemNeckRestraints",
+      "name": "鬼手",
+      "translation": {
+        "CN": "鬼手",
+        "EN": "Ghost Hand"
+      }
+    },
+    {
+      "group": "ItemAddon",
+      "name": "鬼手",
+      "translation": {
+        "CN": "鬼手",
+        "EN": "Ghost Hand"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "托盘",
+      "translation": {
+        "CN": "托盘",
+        "EN": "Tray"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "托盘",
+      "translation": {
+        "CN": "托盘",
+        "EN": "Tray"
+      }
+    },
+    {
+      "group": "ItemAddon",
+      "name": "扫帚悬挂",
+      "translation": {
+        "CN": "女巫扫帚",
+        "EN": "Witch Broom"
+      }
+    },
+    {
+      "group": "ItemNeckAccessories",
+      "name": "伊丽莎白圈",
+      "translation": {
+        "CN": "伊丽莎白圈",
+        "EN": "Elizabethan Collar"
+      }
+    },
+    {
+      "group": "ItemMisc",
+      "name": "斩标",
+      "translation": {
+        "CN": "斩标",
+        "EN": "Behead Marking"
+      }
+    },
+    {
+      "group": "ItemVulva",
+      "name": "内套",
+      "translation": {
+        "CN": "用过的套套",
+        "EN": "Used Condom"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "触手服",
+      "translation": {
+        "CN": "触手服",
+        "EN": "Tentacle Suit",
+        "UA": "Щупальцевий костюм",
+        "RU": "Костюм для щупальца"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "触手服",
+      "translation": {
+        "CN": "触手服",
+        "EN": "Tentacle Suit",
+        "UA": "Щупальцевий костюм",
+        "RU": "Костюм для щупальца"
+      }
+    },
+    {
+      "group": "ItemVulva",
+      "name": "赛博护盾",
+      "translation": {
+        "CN": "赛博护盾",
+        "EN": "Cyber Shield"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "X眼罩",
+      "translation": {
+        "CN": "交叉皮革眼罩",
+        "EN": "X Leather Blindfold"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "X眼罩",
+      "translation": {
+        "CN": "交叉皮革眼罩",
+        "EN": "X Leather Blindfold"
+      }
+    },
+    {
+      "group": "ItemHead",
+      "name": "X眼罩",
+      "translation": {
+        "CN": "交叉皮革眼罩",
+        "EN": "X Leather Blindfold"
+      }
+    },
+    {
+      "group": "ItemHood",
+      "name": "乳胶头套",
+      "translation": {
+        "CN": "乳胶头套",
+        "EN": "Latex Hood"
+      }
+    },
+    {
+      "group": "ItemHead",
+      "name": "乳胶眼罩",
+      "translation": {
+        "CN": "乳胶眼罩",
+        "EN": "Latex Blindfold"
+      }
+    },
+    {
+      "group": "ItemHead",
+      "name": "乳胶眼罩2",
+      "translation": {
+        "CN": "乳胶眼罩2",
+        "EN": "Latex Blindfold 2"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "乳胶眼罩",
+      "translation": {
+        "CN": "乳胶眼罩",
+        "EN": "Latex Blindfold"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "乳胶眼罩",
+      "translation": {
+        "CN": "乳胶眼罩",
+        "EN": "Latex Blindfold"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "乳胶眼罩2",
+      "translation": {
+        "CN": "乳胶眼罩2",
+        "EN": "Latex Blindfold 2"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "乳胶眼罩2",
+      "translation": {
+        "CN": "乳胶眼罩2",
+        "EN": "Latex Blindfold 2"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "南瓜马具口塞",
+      "translation": {
+        "CN": "南瓜马具口塞",
+        "EN": "Pumpkin Harness Gag",
+        "RU": "кляп из тыквы",
+        "UA": "гарбуз джгут кляп"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "嘴笼",
+      "translation": {
+        "CN": "修型嘴笼",
+        "EN": "Shaped Mouth Cage"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "嘴笼",
+      "translation": {
+        "CN": "修型嘴笼",
+        "EN": "Shaped Mouth Cage"
+      }
+    },
+    {
+      "group": "ItemMouth2",
+      "name": "嘴笼",
+      "translation": {
+        "CN": "修型嘴笼",
+        "EN": "Shaped Mouth Cage"
+      }
+    },
+    {
+      "group": "ItemMouth3",
+      "name": "嘴笼",
+      "translation": {
+        "CN": "修型嘴笼",
+        "EN": "Shaped Mouth Cage"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "LuziCheekRetractor",
+      "translation": {
+        "CN": "开口器",
+        "EN": "Cheek Retractor"
+      }
+    },
+    {
+      "group": "ItemHood",
+      "name": "狗机仆头套",
+      "translation": {
+        "CN": "乳胶狗机仆头套",
+        "EN": "Latex Dog Drone Hood"
+      }
+    },
+    {
+      "group": "ItemNose",
+      "name": "LuziNoseHook",
+      "translation": {
+        "CN": "扩张鼻钩",
+        "EN": "Expanding Nose Hook"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "尾巴1",
+      "translation": {
+        "CN": "❤尖尾巴1",
+        "EN": "❤ Tip Tail 1"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "尾巴2",
+      "translation": {
+        "CN": "❤尖尾巴2",
+        "EN": "❤ Tip Tail 2"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "尾巴3",
+      "translation": {
+        "CN": "❤尖尾巴3",
+        "EN": "❤ Tip Tail 3"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "雪豹尾巴",
+      "translation": {
+        "CN": "雪豹尾巴",
+        "EN": "Snow Leopard Tail"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "雪豹尾巴镜像",
+      "translation": {
+        "CN": "雪豹尾巴(镜像)",
+        "EN": "Snow Leopard Tail (Mirror)"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "鱼尾1",
+      "translation": {
+        "CN": "鱼尾1",
+        "EN": "Fish Tail 1"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "鱼尾2",
+      "translation": {
+        "CN": "鱼尾2",
+        "EN": "Fish Tail 2"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "蝎子尾巴",
+      "translation": {
+        "CN": "蝎子尾巴",
+        "EN": "Scorpion Tail"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "穿戴式狗尾镜像",
+      "translation": {
+        "CN": "穿戴式狗尾(镜像)",
+        "EN": "Puppy Tail Strap (Mirror)",
+        "RU": "Носимый собачий хвост"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "白色穿戴式狼尾镜像",
+      "translation": {
+        "CN": "白色穿戴式狼尾(镜像)",
+        "EN": "Wolf White Tail Strap (Mirror)",
+        "RU": "Белый носимый волчий хвост"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "穿戴式浅色猫尾镜像",
+      "translation": {
+        "CN": "穿戴式浅色猫尾(镜像)",
+        "EN": "Light Kitten Tail Strap (Mirror)",
+        "RU": "Светлый носимый кошачий хвост"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "穿戴式软小狗尾镜像",
+      "translation": {
+        "CN": "穿戴式软小狗尾(镜像)",
+        "EN": "Puppy Fluffy Tail Strap (Mirror)",
+        "RU": "Мягкий носимый щенячий хвост"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "大型穿戴式狼尾镜像",
+      "translation": {
+        "CN": "大型穿戴式狼尾(镜像)",
+        "EN": "Wolf Large Tail Strap (Mirror)",
+        "RU": "Большой носимый волчий хвост"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "小型穿戴式狼尾镜像",
+      "translation": {
+        "CN": "小型穿戴式狼尾(镜像)",
+        "EN": "Wolf Small Tail Strap (Mirror)",
+        "RU": "Маленький носимый волчий хвост"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "小型穿戴式软猫尾镜像",
+      "translation": {
+        "CN": "小型穿戴式软猫尾(镜像)",
+        "EN": "Small Fluffy Kitten Tail Strap (Mirror)",
+        "RU": "Маленький мягкий носимый кошачий хвост"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "穿戴式浣熊尾镜像",
+      "translation": {
+        "CN": "穿戴式浣熊尾(镜像)",
+        "EN": "Raccoon2 Tail Strap (Mirror)",
+        "RU": "Носимый кошачий хвост"
+      }
+    },
+    {
+      "group": "TailStraps",
+      "name": "穿戴式猫尾镜像",
+      "translation": {
+        "CN": "穿戴式猫尾(镜像)",
+        "EN": "Kitty Tail Strap (Mirror)",
+        "RU": "Носимый кошачий хвост"
+      }
+    },
+    {
+      "group": "Wings",
+      "name": "翅膀1",
+      "translation": {
+        "CN": "翅膀 1",
+        "EN": "Wing 1",
+        "RU": "Крыло 1",
+        "UA": "Крило 1"
+      }
+    },
+    {
+      "group": "Wings",
+      "name": "翅2",
+      "translation": {
+        "CN": "羽翼",
+        "EN": "Feather Wings"
+      }
+    },
+    {
+      "group": "Wings",
+      "name": "翅3",
+      "translation": {
+        "CN": "细鳞翼",
+        "EN": "Fine-Scaled Wings"
+      }
+    },
+    {
+      "group": "HairAccessory2",
+      "name": "黑猫耳镜像",
+      "translation": {
+        "CN": "黑猫耳镜像",
+        "EN": "Black Cat Ears Mirror",
+        "RU": "Зеркальные чёрные кошачьи уши"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "耳朵1",
+      "translation": {
+        "CN": "耳朵 1",
+        "EN": "Ears 1",
+        "RU": "Уши 1"
+      }
+    },
+    {
+      "group": "HairAccessory2",
+      "name": "耳朵1",
+      "translation": {
+        "CN": "耳朵 1",
+        "EN": "Ears 1",
+        "RU": "Уши 1"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "耳朵1",
+      "translation": {
+        "CN": "耳朵 1",
+        "EN": "Ears 1",
+        "RU": "Уши 1"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "耳朵1",
+      "translation": {
+        "CN": "耳朵 1",
+        "EN": "Ears 1",
+        "RU": "Уши 1"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "耳朵2",
+      "translation": {
+        "CN": "耳朵 2",
+        "EN": "Ears 2",
+        "RU": "Уши 2"
+      }
+    },
+    {
+      "group": "HairAccessory2",
+      "name": "耳朵2",
+      "translation": {
+        "CN": "耳朵 2",
+        "EN": "Ears 2",
+        "RU": "Уши 2"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "耳朵2",
+      "translation": {
+        "CN": "耳朵 2",
+        "EN": "Ears 2",
+        "RU": "Уши 2"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "耳朵2",
+      "translation": {
+        "CN": "耳朵 2",
+        "EN": "Ears 2",
+        "RU": "Уши 2"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "角7",
+      "translation": {
+        "CN": "卷羊角",
+        "EN": "Curled Horn"
+      }
+    },
+    {
+      "group": "HairAccessory2",
+      "name": "角7",
+      "translation": {
+        "CN": "卷羊角",
+        "EN": "Curled Horn"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "角7",
+      "translation": {
+        "CN": "卷羊角",
+        "EN": "Curled Horn"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "角7",
+      "translation": {
+        "CN": "卷羊角",
+        "EN": "Curled Horn"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "精灵耳2",
+      "translation": {
+        "CN": "精灵耳 2",
+        "EN": "Elf Ears 2"
+      }
+    },
+    {
+      "group": "HairAccessory2",
+      "name": "精灵耳2",
+      "translation": {
+        "CN": "精灵耳 2",
+        "EN": "Elf Ears 2"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "精灵耳2",
+      "translation": {
+        "CN": "精灵耳 2",
+        "EN": "Elf Ears 2"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "精灵耳2",
+      "translation": {
+        "CN": "精灵耳 2",
+        "EN": "Elf Ears 2"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "小马耳2",
+      "translation": {
+        "CN": "小马耳 2",
+        "EN": "Pony Ears 2"
+      }
+    },
+    {
+      "group": "HairAccessory2",
+      "name": "小马耳2",
+      "translation": {
+        "CN": "小马耳 2",
+        "EN": "Pony Ears 2"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "小马耳2",
+      "translation": {
+        "CN": "小马耳 2",
+        "EN": "Pony Ears 2"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "小马耳2",
+      "translation": {
+        "CN": "小马耳 2",
+        "EN": "Pony Ears 2"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "鱼鳍耳朵",
+      "translation": {
+        "CN": "鱼鳍耳朵",
+        "EN": "Fish Fin Ears"
+      }
+    },
+    {
+      "group": "HairAccessory2",
+      "name": "鱼鳍耳朵",
+      "translation": {
+        "CN": "鱼鳍耳朵",
+        "EN": "Fish Fin Ears"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "鱼鳍耳朵",
+      "translation": {
+        "CN": "鱼鳍耳朵",
+        "EN": "Fish Fin Ears"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "鱼鳍耳朵",
+      "translation": {
+        "CN": "鱼鳍耳朵",
+        "EN": "Fish Fin Ears"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "耷拉下来的耳朵",
+      "translation": {
+        "CN": "耷拉兔耳",
+        "EN": "Droopy Bunny Ears"
+      }
+    },
+    {
+      "group": "HairAccessory2",
+      "name": "耷拉下来的耳朵",
+      "translation": {
+        "CN": "耷拉兔耳",
+        "EN": "Droopy Bunny Ears"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "耷拉下来的耳朵",
+      "translation": {
+        "CN": "耷拉兔耳",
+        "EN": "Droopy Bunny Ears"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "耷拉下来的耳朵",
+      "translation": {
+        "CN": "耷拉兔耳",
+        "EN": "Droopy Bunny Ears"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "角8",
+      "translation": {
+        "CN": "角8",
+        "EN": "角8",
+        "RU": "角8"
+      }
+    },
+    {
+      "group": "HairAccessory2",
+      "name": "角8",
+      "translation": {
+        "CN": "角8",
+        "EN": "角8",
+        "RU": "角8"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "角8",
+      "translation": {
+        "CN": "角8",
+        "EN": "角8",
+        "RU": "角8"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "角8",
+      "translation": {
+        "CN": "角8",
+        "EN": "角8",
+        "RU": "角8"
+      }
+    },
+    {
+      "group": "身体痕迹_Luzi",
+      "name": "口红",
+      "translation": {
+        "CN": "口红",
+        "EN": "Lipstick",
+        "RU": "Помада",
+        "UA": "Помада"
+      }
+    },
+    {
+      "group": "额外头发_Luzi",
+      "name": "呆毛",
+      "translation": {
+        "CN": "呆毛",
+        "EN": "Ahoge",
+        "RU": "Ахоге",
+        "UA": "Ахоге"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "呆毛",
+      "translation": {
+        "CN": "呆毛",
+        "EN": "Ahoge",
+        "RU": "Ахоге",
+        "UA": "Ахоге"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "呆毛",
+      "translation": {
+        "CN": "呆毛",
+        "EN": "Ahoge",
+        "RU": "Ахоге",
+        "UA": "Ахоге"
+      }
+    },
+    {
+      "group": "BodyMarkings",
+      "name": "咬痕",
+      "translation": {
+        "CN": "咬痕",
+        "EN": "Bite Mark"
+      }
+    },
+    {
+      "group": "BodyMarkings",
+      "name": "大纹身",
+      "translation": {
+        "CN": "大纹身",
+        "EN": "Large Tattoo"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发1",
+      "translation": {
+        "CN": "前发 1",
+        "EN": "Front Hair 1"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发2",
+      "translation": {
+        "CN": "前发 2",
+        "EN": "Front Hair 2"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发3",
+      "translation": {
+        "CN": "前发 3",
+        "EN": "Front Hair 3"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发4",
+      "translation": {
+        "CN": "前发 4",
+        "EN": "Front Hair 4"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发5",
+      "translation": {
+        "CN": "前发 5",
+        "EN": "Front Hair 5"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发6",
+      "translation": {
+        "CN": "前发 6",
+        "EN": "Front Hair 6"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发7",
+      "translation": {
+        "CN": "前发 7",
+        "EN": "Front Hair 7"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发8",
+      "translation": {
+        "CN": "前发 8",
+        "EN": "Front Hair 8"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发9",
+      "translation": {
+        "CN": "前发 9",
+        "EN": "Front Hair 9"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发10",
+      "translation": {
+        "CN": "前发 10",
+        "EN": "Front Hair 10"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发11",
+      "translation": {
+        "CN": "前发 11",
+        "EN": "Front Hair 11"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发12",
+      "translation": {
+        "CN": "前发 12",
+        "EN": "Front Hair 12"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发13",
+      "translation": {
+        "CN": "前发 13",
+        "EN": "Front Hair 13"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发14",
+      "translation": {
+        "CN": "前发 14",
+        "EN": "Front Hair 14"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发15",
+      "translation": {
+        "CN": "前发 15",
+        "EN": "Front Hair 15"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发16",
+      "translation": {
+        "CN": "前发 16",
+        "EN": "Front Hair 16"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发17",
+      "translation": {
+        "CN": "前发 17",
+        "EN": "Front Hair 17"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发18",
+      "translation": {
+        "CN": "前发 18",
+        "EN": "Front Hair 18"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发19",
+      "translation": {
+        "CN": "前发 19",
+        "EN": "Front Hair 19"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发20",
+      "translation": {
+        "CN": "前发 20",
+        "EN": "Front Hair 20"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发21",
+      "translation": {
+        "CN": "前发 21",
+        "EN": "Front Hair 21"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发22",
+      "translation": {
+        "CN": "前发 22",
+        "EN": "Front Hair 22"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发23",
+      "translation": {
+        "CN": "前发 23",
+        "EN": "Front Hair 23"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发24",
+      "translation": {
+        "CN": "前发 24",
+        "EN": "Front Hair 24"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发25",
+      "translation": {
+        "CN": "前发 25",
+        "EN": "Front Hair 25"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发26",
+      "translation": {
+        "CN": "前发 26",
+        "EN": "Front Hair 26"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发27",
+      "translation": {
+        "CN": "前发 27",
+        "EN": "Front Hair 27"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "卷发1",
+      "translation": {
+        "CN": "前发 1",
+        "EN": "Front Hair 1"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "卷发2",
+      "translation": {
+        "CN": "前发 2",
+        "EN": "Front Hair 2"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "卷发3",
+      "translation": {
+        "CN": "前发 3",
+        "EN": "Front Hair 3"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发28",
+      "translation": {
+        "CN": "前发 28",
+        "EN": "Front Hair 28"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发29",
+      "translation": {
+        "CN": "前发 29",
+        "EN": "Front Hair 29"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发30",
+      "translation": {
+        "CN": "前发 30",
+        "EN": "Front Hair 30"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发31",
+      "translation": {
+        "CN": "前发 31",
+        "EN": "Front Hair 31"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发32",
+      "translation": {
+        "CN": "前发 32",
+        "EN": "Front Hair 32"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发33_L",
+      "translation": {
+        "CN": "前发 33A",
+        "EN": "Front Hair 33A"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发33_R",
+      "translation": {
+        "CN": "前发 33B",
+        "EN": "Front Hair 33B"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发34A",
+      "translation": {
+        "CN": "前发 34A",
+        "EN": "Front Hair 34A"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发34B",
+      "translation": {
+        "CN": "前发 34B",
+        "EN": "Front Hair 34B"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发35",
+      "translation": {
+        "CN": "前发 35",
+        "EN": "Front Hair 35"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发36",
+      "translation": {
+        "CN": "前发 36",
+        "EN": "Front Hair 36"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发37A",
+      "translation": {
+        "CN": "前发 37A",
+        "EN": "Front Hair 37A"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发37B",
+      "translation": {
+        "CN": "前发 37B",
+        "EN": "Front Hair 37B"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发38",
+      "translation": {
+        "CN": "前发 38",
+        "EN": "Front Hair 38"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发39",
+      "translation": {
+        "CN": "前发 39",
+        "EN": "Front Hair 39"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发40",
+      "translation": {
+        "CN": "前发 40",
+        "EN": "Front Hair 40"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发41",
+      "translation": {
+        "CN": "前发 41",
+        "EN": "Front Hair 41"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发42",
+      "translation": {
+        "CN": "前发 42",
+        "EN": "Front Hair 42"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发43",
+      "translation": {
+        "CN": "前发 43",
+        "EN": "Front Hair 43"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发44",
+      "translation": {
+        "CN": "前发 44",
+        "EN": "Front Hair 44"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发45",
+      "translation": {
+        "CN": "前发 45",
+        "EN": "Front Hair 45"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发46",
+      "translation": {
+        "CN": "前发 46",
+        "EN": "Front Hair 46"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发47",
+      "translation": {
+        "CN": "前发 47",
+        "EN": "Front Hair 47"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发48",
+      "translation": {
+        "CN": "前发 48",
+        "EN": "Front Hair 48"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发49",
+      "translation": {
+        "CN": "前发 49",
+        "EN": "Front Hair 49"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发50",
+      "translation": {
+        "CN": "前发 50",
+        "EN": "Front Hair 50"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发51",
+      "translation": {
+        "CN": "前发 51",
+        "EN": "Front Hair 51"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发52",
+      "translation": {
+        "CN": "前发 52",
+        "EN": "Front Hair 52"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发53",
+      "translation": {
+        "CN": "前发 53",
+        "EN": "Front Hair 53"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发54",
+      "translation": {
+        "CN": "前发 54",
+        "EN": "Front Hair 54"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发55",
+      "translation": {
+        "CN": "前发 55",
+        "EN": "Front Hair 55"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发56",
+      "translation": {
+        "CN": "前发 56",
+        "EN": "Front Hair 56"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发57",
+      "translation": {
+        "CN": "前发 57",
+        "EN": "Front Hair 57"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发58",
+      "translation": {
+        "CN": "前发 58",
+        "EN": "Front Hair 58"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发59",
+      "translation": {
+        "CN": "前发 59",
+        "EN": "Front Hair 59"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发60",
+      "translation": {
+        "CN": "前发 60",
+        "EN": "Front Hair 60"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发61",
+      "translation": {
+        "CN": "前发 61",
+        "EN": "Front Hair 61"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发62",
+      "translation": {
+        "CN": "前发 62",
+        "EN": "Front Hair 62"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发63",
+      "translation": {
+        "CN": "前发 63",
+        "EN": "Front Hair 63"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发64",
+      "translation": {
+        "CN": "前发 64",
+        "EN": "Front Hair 64"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发65",
+      "translation": {
+        "CN": "前发 65",
+        "EN": "Front Hair 65"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发66",
+      "translation": {
+        "CN": "前发 66",
+        "EN": "Front Hair 66"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发67",
+      "translation": {
+        "CN": "前发 67",
+        "EN": "Front Hair 67"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发68",
+      "translation": {
+        "CN": "前发 68",
+        "EN": "Front Hair 68"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发69",
+      "translation": {
+        "CN": "前发 69",
+        "EN": "Front Hair 69"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发70",
+      "translation": {
+        "CN": "前发 70",
+        "EN": "Front Hair 70"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发71",
+      "translation": {
+        "CN": "前发 71",
+        "EN": "Front Hair 71"
+      }
+    },
+    {
+      "group": "新前发_Luzi",
+      "name": "前发72",
+      "translation": {
+        "CN": "前发 72",
+        "EN": "Front Hair 72"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "侧马尾1",
+      "translation": {
+        "CN": "侧马尾1",
+        "EN": "Side Ponytail 1"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "侧马尾2",
+      "translation": {
+        "CN": "侧马尾2",
+        "EN": "Side Ponytail 2"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "侧马尾3",
+      "translation": {
+        "CN": "侧马尾3",
+        "EN": "Side Ponytail 3"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "侧马尾4",
+      "translation": {
+        "CN": "侧马尾4",
+        "EN": "Side Ponytail 4"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "低双马尾1",
+      "translation": {
+        "CN": "低双马尾1",
+        "EN": "Low Double Ponytail 1"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "低双马尾2",
+      "translation": {
+        "CN": "低双马尾2",
+        "EN": "Low Double Ponytail 2"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "低双马尾3",
+      "translation": {
+        "CN": "低双马尾3",
+        "EN": "Low Double Ponytail 3"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "低双马尾4",
+      "translation": {
+        "CN": "低双马尾4",
+        "EN": "Low Double Ponytail 4"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "低双马尾5",
+      "translation": {
+        "CN": "低双马尾5",
+        "EN": "Low Double Ponytail 5"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "低双马尾6",
+      "translation": {
+        "CN": "低双马尾6",
+        "EN": "Low Double Ponytail 6"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "双马尾1",
+      "translation": {
+        "CN": "双马尾1",
+        "EN": "Double Ponytail 1"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "双马尾2",
+      "translation": {
+        "CN": "双马尾2",
+        "EN": "Double Ponytail 2"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "双马尾3",
+      "translation": {
+        "CN": "双马尾3",
+        "EN": "Double Ponytail 3"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "双马尾4",
+      "translation": {
+        "CN": "双马尾4",
+        "EN": "Double Ponytail 4"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "双马尾5",
+      "translation": {
+        "CN": "双马尾5",
+        "EN": "Double Ponytail 5"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "双马尾6",
+      "translation": {
+        "CN": "双马尾6",
+        "EN": "Double Ponytail 6"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "卷发后1",
+      "translation": {
+        "CN": "卷发后1",
+        "EN": "Curly Hair Back 1"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "卷发后2",
+      "translation": {
+        "CN": "卷发后2",
+        "EN": "Curly Hair Back 2"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "卷发后3",
+      "translation": {
+        "CN": "卷发后3",
+        "EN": "Curly Hair Back 3"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "卷发后3b",
+      "translation": {
+        "CN": "卷发后3b",
+        "EN": "Curly Hair Back 3b"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "卷发后4",
+      "translation": {
+        "CN": "卷发后4",
+        "EN": "Curly Hair Back 4"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "单马尾1",
+      "translation": {
+        "CN": "单马尾1",
+        "EN": "Single Ponytail 1"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "单马尾1b",
+      "translation": {
+        "CN": "单马尾1b",
+        "EN": "Single Ponytail 1b"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "单马尾2",
+      "translation": {
+        "CN": "单马尾2",
+        "EN": "Single Ponytail 2"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "后发髻1",
+      "translation": {
+        "CN": "后发髻1",
+        "EN": "Back Bun 1"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "后发髻2",
+      "translation": {
+        "CN": "后发髻2",
+        "EN": "Back Bun 2"
+      }
+    },
+    {
+      "group": "新后发_Luzi",
+      "name": "双马尾7",
+      "translation": {
+        "CN": "双马尾7",
+        "EN": "Double Ponytail 7"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛1",
+      "translation": {
+        "CN": "红宝石",
+        "EN": "Ruby"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛1",
+      "translation": {
+        "CN": "红宝石",
+        "EN": "Ruby"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛2",
+      "translation": {
+        "CN": "天狐",
+        "EN": "Celestial Vixen"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛2",
+      "translation": {
+        "CN": "天狐",
+        "EN": "Celestial Vixen"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛3",
+      "translation": {
+        "CN": "青玉",
+        "EN": "Jade"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛3",
+      "translation": {
+        "CN": "青玉",
+        "EN": "Jade"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛3微调",
+      "translation": {
+        "CN": "青玉(微调)",
+        "EN": "Jade(Fine-tuning)"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛3微调",
+      "translation": {
+        "CN": "青玉(微调)",
+        "EN": "Jade(Fine-tuning)"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛4",
+      "translation": {
+        "CN": "水晶",
+        "EN": "Crystal"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛4",
+      "translation": {
+        "CN": "水晶",
+        "EN": "Crystal"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛5",
+      "translation": {
+        "CN": "水晶（长睫毛）",
+        "EN": "Crystal (Long Lash)"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛5",
+      "translation": {
+        "CN": "水晶（长睫毛）",
+        "EN": "Crystal (Long Lash)"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛6",
+      "translation": {
+        "CN": "黄玉",
+        "EN": "Topaz"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛6",
+      "translation": {
+        "CN": "黄玉",
+        "EN": "Topaz"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛7",
+      "translation": {
+        "CN": "水晶（锐利）",
+        "EN": "Crystal (Sharp)"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛7",
+      "translation": {
+        "CN": "水晶（锐利）",
+        "EN": "Crystal (Sharp)"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛8",
+      "translation": {
+        "CN": "青玉（睁大）",
+        "EN": "Jade (Wide Open)"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛8",
+      "translation": {
+        "CN": "青玉（睁大）",
+        "EN": "Jade (Wide Open)"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛9",
+      "translation": {
+        "CN": "青玉（眼影）",
+        "EN": "Jade (Eyeshadow)"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛9",
+      "translation": {
+        "CN": "青玉（眼影）",
+        "EN": "Jade (Eyeshadow)"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛10",
+      "translation": {
+        "CN": "青玉（眼影2）",
+        "EN": "Jade (Eyeshadow 2)"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛10",
+      "translation": {
+        "CN": "青玉（眼影2）",
+        "EN": "Jade (Eyeshadow 2)"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛12",
+      "translation": {
+        "CN": "異國短毛猫",
+        "EN": "Exotic Shorthair"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛12",
+      "translation": {
+        "CN": "異國短毛猫",
+        "EN": "Exotic Shorthair"
+      }
+    },
+    {
+      "group": "左眼_Luzi",
+      "name": "眼睛13",
+      "translation": {
+        "CN": "缅甸猫",
+        "EN": "Burmese"
+      }
+    },
+    {
+      "group": "右眼_Luzi",
+      "name": "眼睛13",
+      "translation": {
+        "CN": "缅甸猫",
+        "EN": "Burmese"
+      }
+    },
+    {
+      "group": "BodyMarkings",
+      "name": "标志纹饰",
+      "translation": {
+        "CN": "标志纹饰",
+        "EN": "Icon Markings"
+      }
+    },
+    {
+      "group": "额外头发_Luzi",
+      "name": "渐变叠加",
+      "translation": {
+        "CN": "渐变叠加",
+        "EN": "Gradient Overlay"
+      }
+    },
+    {
+      "group": "额外头发_Luzi",
+      "name": "双渐变叠加",
+      "translation": {
+        "CN": "双渐变叠加",
+        "EN": "Double Gradient Overlay"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "脚趾甲",
+      "translation": {
+        "CN": "脚趾美甲",
+        "EN": "Toe Nails"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "脚趾甲",
+      "translation": {
+        "CN": "脚趾美甲",
+        "EN": "Toe Nails"
+      }
+    },
+    {
+      "group": "BodyMarkings",
+      "name": "脚趾甲",
+      "translation": {
+        "CN": "脚趾美甲",
+        "EN": "Toe Nails"
+      }
+    },
+    {
+      "group": "BodyMarkings2_Luzi",
+      "name": "身体论文",
+      "translation": {
+        "CN": "身体论文",
+        "EN": "Body Treatise",
+        "UA": "Трактат про тіло"
+      }
+    },
+    {
+      "group": "EyeShadow",
+      "name": "面部妆容",
+      "translation": {
+        "CN": "泪痕仪轨",
+        "EN": "Tear Track Ritual",
+        "RU": "Ритуал слезной дорожки"
+      }
+    },
+    {
+      "group": "FaceMarkings",
+      "name": "面部妆容",
+      "translation": {
+        "CN": "泪痕仪轨",
+        "EN": "Tear Track Ritual",
+        "RU": "Ритуал слезной дорожки"
+      }
+    },
+    {
+      "group": "EyeShadow",
+      "name": "面部妆容1",
+      "translation": {
+        "CN": "五星显相",
+        "EN": "Five-Star Manifestation",
+        "RU": "Пятизвездочное проявление"
+      }
+    },
+    {
+      "group": "FaceMarkings",
+      "name": "面部妆容1",
+      "translation": {
+        "CN": "五星显相",
+        "EN": "Five-Star Manifestation",
+        "RU": "Пятизвездочное проявление"
+      }
+    },
+    {
+      "group": "EyeShadow",
+      "name": "小丑面妆",
+      "translation": {
+        "CN": "小丑",
+        "EN": "The Clown",
+        "RU": "Клоун"
+      }
+    },
+    {
+      "group": "FaceMarkings",
+      "name": "小丑面妆",
+      "translation": {
+        "CN": "小丑",
+        "EN": "The Clown",
+        "RU": "Клоун"
+      }
+    },
+    {
+      "group": "BodyMarkings",
+      "name": "番茄酱",
+      "translation": {
+        "CN": "病娇的证据",
+        "EN": "Evidence of Yandere",
+        "RU": "Доказательства яндера"
+      }
+    },
+    {
+      "group": "FaceMarkings",
+      "name": "番茄酱",
+      "translation": {
+        "CN": "病娇的证据",
+        "EN": "Evidence of Yandere",
+        "RU": "Доказательства яндера"
+      }
+    },
+    {
+      "group": "BodyMarkings",
+      "name": "花钿",
+      "translation": {
+        "CN": "花钿",
+        "EN": "Huadian"
+      }
+    },
+    {
+      "group": "FaceMarkings",
+      "name": "花钿",
+      "translation": {
+        "CN": "花钿",
+        "EN": "Huadian"
+      }
+    },
+    {
+      "group": "身体痕迹_Luzi",
+      "name": "鞭痕",
+      "translation": {
+        "CN": "鞭痕",
+        "EN": "Whip marks",
+        "RU": "След удар плет",
+        "UA": "Знаки від батога"
+      }
+    },
+    {
+      "group": "动物身体_Luzi",
+      "name": "人偶",
+      "translation": {
+        "CN": "人偶",
+        "EN": "Ball Joint Doll",
+        "RU": "Кукла на шарнирах"
+      }
+    },
+    {
+      "group": "动物身体_Luzi",
+      "name": "幽灵人形",
+      "translation": {
+        "CN": "幽灵人形",
+        "EN": "Ghost Body"
+      }
+    },
+    {
+      "group": "动物身体_Luzi",
+      "name": "生化人体",
+      "translation": {
+        "CN": "生化人体",
+        "EN": "Android Body"
+      }
+    },
+    {
+      "group": "动物身体_Luzi",
+      "name": "蛇身",
+      "translation": {
+        "CN": "蛇身",
+        "EN": "Snake",
+        "RU": "Змея"
+      }
+    },
+    {
+      "group": "Wings",
+      "name": "蛇身",
+      "translation": {
+        "CN": "蛇身",
+        "EN": "Snake",
+        "RU": "Змея"
+      }
+    },
+    {
+      "group": "动物身体_Luzi",
+      "name": "蜘蛛",
+      "translation": {
+        "CN": "蜘蛛",
+        "EN": "Spider",
+        "RU": "Паук"
+      }
+    },
+    {
+      "group": "Wings",
+      "name": "蜘蛛",
+      "translation": {
+        "CN": "蜘蛛",
+        "EN": "Spider",
+        "RU": "Паук"
+      }
+    },
+    {
+      "group": "动物身体_Luzi",
+      "name": "透明身体",
+      "translation": {
+        "CN": "透明身体",
+        "EN": "Transparent body"
+      }
+    },
+    {
+      "group": "动物身体_Luzi",
+      "name": "鱼鱼尾",
+      "translation": {
+        "CN": "鱼鱼尾",
+        "EN": "Fishy Tail",
+        "RU": "Рыбий хвост"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "一块布",
+      "translation": {
+        "CN": "诱惑侧开迷你裙",
+        "EN": "Allure Sidecut"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "两侧镂空瑜伽裤",
+      "translation": {
+        "CN": "两侧镂空瑜伽裤",
+        "EN": "Side Cutout Yoga Pants"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "半开百褶裙",
+      "translation": {
+        "CN": "半开百褶裙",
+        "EN": "Half Pleated Skirt"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "牛仔裤",
+      "translation": {
+        "CN": "宽松牛仔裤",
+        "EN": "Baggy Jeans"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "瑜伽裤",
+      "translation": {
+        "CN": "瑜伽裤",
+        "EN": "Yoga Pants"
+      }
+    },
+    {
+      "group": "SuitLower",
+      "name": "瑜伽裤",
+      "translation": {
+        "CN": "瑜伽裤",
+        "EN": "Yoga Pants"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "皮革中空短裙",
+      "translation": {
+        "CN": "皮革中空短裙",
+        "EN": "Leather Sideway Skirt"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "蕾丝裤",
+      "translation": {
+        "CN": "蕾丝裤",
+        "EN": "Lace Pants",
+        "RU": "Рюнорные штанишки"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "裙",
+      "translation": {
+        "CN": "开叉半身直筒裙",
+        "EN": "Slit Column Skirt"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "裙子",
+      "translation": {
+        "CN": "呢子高腰裙子",
+        "EN": "Woolen High Waist Skirt"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "裙子2",
+      "translation": {
+        "CN": "呢子短裙",
+        "EN": "Woolen Short Skirt"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "迷你裤",
+      "translation": {
+        "CN": "迷你热裤",
+        "EN": "Mini Hotpants"
+      }
+    },
+    {
+      "group": "Panties",
+      "name": "迷你裤",
+      "translation": {
+        "CN": "迷你热裤",
+        "EN": "Mini Hotpants"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "铅笔裙2",
+      "translation": {
+        "CN": "铅笔裙 2",
+        "EN": "PencilSkirt 2"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "黑曜蝶翼裙",
+      "translation": {
+        "CN": "黑曜蝶翼裙",
+        "EN": "Black Butterfly Skirt"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "绛云墨韵旗袍裙",
+      "translation": {
+        "CN": "绛云墨韵旗袍裙",
+        "EN": "Crimson Clouds & Ink Rhyme Qipao Dress"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "锦云绣雪旗袍",
+      "translation": {
+        "CN": "锦云绣雪旗袍",
+        "EN": "Brocade Clouds & Snow Embroidery Qipao"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "长旗袍",
+      "translation": {
+        "CN": "长旗袍",
+        "EN": "Long Qipao Dress"
+      }
+    },
+    {
+      "group": "Suit",
+      "name": "乳胶紧身衣",
+      "translation": {
+        "CN": "乳胶紧身衣",
+        "EN": "Latex Bodysuit"
+      }
+    },
+    {
+      "group": "Suit",
+      "name": "乳胶衣",
+      "translation": {
+        "CN": "乳胶衣(上)",
+        "EN": "Latex Top",
+        "RU": "Латексный верх"
+      }
+    },
+    {
+      "group": "SuitLower",
+      "name": "乳胶衣",
+      "translation": {
+        "CN": "乳胶衣(下)",
+        "EN": "Latex Bottom",
+        "RU": "Латексный низ"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "塑身衣1",
+      "translation": {
+        "CN": "束身衣 1",
+        "EN": "Shapewear 1"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "塑身衣2",
+      "translation": {
+        "CN": "塑身衣 2",
+        "EN": "Shapewear 2"
+      }
+    },
+    {
+      "group": "Suit",
+      "name": "黑白泳装",
+      "translation": {
+        "CN": "复古泳装",
+        "EN": "Retro Swimsuit"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "黑白泳装",
+      "translation": {
+        "CN": "复古泳装",
+        "EN": "Retro Swimsuit"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "黑白泳装",
+      "translation": {
+        "CN": "复古泳装",
+        "EN": "Retro Swimsuit"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "时韵S",
+      "translation": {
+        "CN": "时韵（肩部）",
+        "EN": "Chrono Pattern (Shoulder)"
+      }
+    },
+    {
+      "group": "Suit",
+      "name": "时韵S",
+      "translation": {
+        "CN": "时韵（肩部）",
+        "EN": "Chrono Pattern (Shoulder)"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "时韵S",
+      "translation": {
+        "CN": "时韵（肩部）",
+        "EN": "Chrono Pattern (Shoulder)"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "时韵B",
+      "translation": {
+        "CN": "时韵（身体）",
+        "EN": "Chrono Pattern (Body)"
+      }
+    },
+    {
+      "group": "Suit",
+      "name": "时韵B",
+      "translation": {
+        "CN": "时韵（身体）",
+        "EN": "Chrono Pattern (Body)"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "时韵B",
+      "translation": {
+        "CN": "时韵（身体）",
+        "EN": "Chrono Pattern (Body)"
+      }
+    },
+    {
+      "group": "Suit",
+      "name": "马油袜",
+      "translation": {
+        "CN": "油光全身袜",
+        "EN": "Glossy Bodystocking"
+      }
+    },
+    {
+      "group": "SuitLower",
+      "name": "马油袜下",
+      "translation": {
+        "CN": "油光全身袜",
+        "EN": "Glossy Bodystocking"
+      }
+    },
+    {
+      "group": "SocksLeft",
+      "name": "绷带",
+      "translation": {
+        "CN": "绷带",
+        "EN": "Bandage",
+        "RU": "Повязка"
+      }
+    },
+    {
+      "group": "SocksRight",
+      "name": "绷带",
+      "translation": {
+        "CN": "绷带",
+        "EN": "Bandage",
+        "RU": "Повязка"
+      }
+    },
+    {
+      "group": "Gloves",
+      "name": "绷带",
+      "translation": {
+        "CN": "绷带",
+        "EN": "Bandage",
+        "RU": "Повязка"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "绷带",
+      "translation": {
+        "CN": "绷带",
+        "EN": "Bandage",
+        "RU": "Повязка"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "绷带全身",
+      "translation": {
+        "CN": "绷带",
+        "EN": "Bandage",
+        "RU": "Повязка"
+      }
+    },
+    {
+      "group": "ItemHood",
+      "name": "绷带头部",
+      "translation": {
+        "CN": "绷带头部",
+        "EN": "Head Bandage",
+        "RU": "Бинтование головы",
+        "UA": "Обв'язка голови бинтами"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "绷带全身",
+      "translation": {
+        "CN": "绷带全身",
+        "EN": "Full Body Bandage",
+        "RU": "Бинты на всё тело",
+        "UA": "Обв'язка бинтами на все тіло"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "绷带全身",
+      "translation": {
+        "CN": "绷带全身",
+        "EN": "Full Body Bandage",
+        "RU": "Бинты на всё тело",
+        "UA": "Обв'язка бинтами на все тіло"
+      }
+    },
+    {
+      "group": "Suit",
+      "name": "连体衣",
+      "translation": {
+        "CN": "战斗服",
+        "EN": "Plugsuit"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "连体衣",
+      "translation": {
+        "CN": "战斗服",
+        "EN": "Plugsuit"
+      }
+    },
+    {
+      "group": "Suit",
+      "name": "透明兔女郎",
+      "translation": {
+        "CN": "透明兔女郎",
+        "EN": "Transparent Bunny Girl"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "透明兔女郎",
+      "translation": {
+        "CN": "透明兔女郎",
+        "EN": "Transparent Bunny Girl"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "透明兔女郎",
+      "translation": {
+        "CN": "透明兔女郎",
+        "EN": "Transparent Bunny Girl"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "露胸胶衣",
+      "translation": {
+        "CN": "露胸胶衣",
+        "EN": "Open-Chest Leotard",
+        "RU": "Открытый леотард"
+      }
+    },
+    {
+      "group": "Suit",
+      "name": "露胸胶衣",
+      "translation": {
+        "CN": "露胸胶衣",
+        "EN": "Open-Chest Leotard",
+        "RU": "Открытый леотард"
+      }
+    },
+    {
+      "group": "Corset",
+      "name": "露胸胶衣",
+      "translation": {
+        "CN": "露胸胶衣",
+        "EN": "Open-Chest Leotard",
+        "RU": "Открытый леотард"
+      }
+    },
+    {
+      "group": "ItemTorso",
+      "name": "露胸胶衣",
+      "translation": {
+        "CN": "露胸胶衣",
+        "EN": "Open-Chest Leotard",
+        "RU": "Открытый леотард"
+      }
+    },
+    {
+      "group": "ItemTorso2",
+      "name": "露胸胶衣",
+      "translation": {
+        "CN": "露胸胶衣",
+        "EN": "Open-Chest Leotard",
+        "RU": "Открытый леотард"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "圣诞25",
+      "translation": {
+        "CN": "圣诞 2025",
+        "EN": "Xmas 2025"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "大衣",
+      "translation": {
+        "CN": "呢子大衣",
+        "EN": "Wool Coat"
+      }
+    },
+    {
+      "group": "ClothOuter",
+      "name": "大衣",
+      "translation": {
+        "CN": "呢子大衣",
+        "EN": "Wool Coat"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "插兜雨衣",
+      "translation": {
+        "CN": "插兜雨衣",
+        "EN": "Transparent raincoat"
+      }
+    },
+    {
+      "group": "ClothOuter",
+      "name": "插兜雨衣",
+      "translation": {
+        "CN": "插兜雨衣",
+        "EN": "Transparent raincoat"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "白大褂",
+      "translation": {
+        "CN": "白大褂",
+        "EN": "Lab Coat"
+      }
+    },
+    {
+      "group": "ClothOuter",
+      "name": "白大褂",
+      "translation": {
+        "CN": "白大褂",
+        "EN": "Lab Coat"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "白布",
+      "translation": {
+        "CN": "白布",
+        "EN": "Ghost Cloak"
+      }
+    },
+    {
+      "group": "ClothOuter",
+      "name": "白布",
+      "translation": {
+        "CN": "白布",
+        "EN": "Ghost Cloak"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "围裙",
+      "translation": {
+        "CN": "猫爪围裙",
+        "EN": "Cat Paw Apron"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "女仆围裙",
+      "translation": {
+        "CN": "女仆围裙",
+        "EN": "Maid Apron"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "女仆围裙",
+      "translation": {
+        "CN": "女仆围裙",
+        "EN": "Maid Apron"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "女仆围裙2",
+      "translation": {
+        "CN": "女仆围裙 2",
+        "EN": "Maid Apron 2"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "女仆围裙2",
+      "translation": {
+        "CN": "女仆围裙 2",
+        "EN": "Maid Apron 2"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "女仆胸罩",
+      "translation": {
+        "CN": "女仆胸罩",
+        "EN": "Maid Bra"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "女仆装",
+      "translation": {
+        "CN": "女仆装",
+        "EN": "Maid Dress",
+        "RU": "Костюм горничной"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "女仆装2",
+      "translation": {
+        "CN": "女仆装 2",
+        "EN": "Maid Dress 2",
+        "RU": "Костюм горничной 2"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "女仆装3",
+      "translation": {
+        "CN": "女仆装 3",
+        "EN": "Maid Dress 3"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "女仆装4",
+      "translation": {
+        "CN": "女仆装4",
+        "EN": "Maid Dress 4"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "奶牛",
+      "translation": {
+        "CN": "奶牛",
+        "EN": "Cow",
+        "RU": "Корова"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "斜肩上衣",
+      "translation": {
+        "CN": "斜肩上衣",
+        "EN": "Off-the-shoulder Top",
+        "RU": "Топ с открытым плечом"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "露胸短袖",
+      "translation": {
+        "CN": "沙滩衬衫",
+        "EN": "Beach Shirt"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "洋装",
+      "translation": {
+        "CN": "洛丽塔小洋装",
+        "EN": "Lolita Short Dress"
+      }
+    },
+    {
+      "group": "Panties",
+      "name": "珍珠带",
+      "translation": {
+        "CN": "珍珠带内裤",
+        "EN": "Pearl Strap Panties"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "白色礼服",
+      "translation": {
+        "CN": "白色礼服",
+        "EN": "White Dress"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "白色礼服丝巾",
+      "translation": {
+        "CN": "白色礼服丝巾",
+        "EN": "White Dress Scarf"
+      }
+    },
+    {
+      "group": "长袖子_Luzi",
+      "name": "白色礼服丝巾",
+      "translation": {
+        "CN": "白色礼服丝巾",
+        "EN": "White Dress Scarf"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "皮革兔女郎镂空内衣",
+      "translation": {
+        "CN": "皮革兔女郎镂空内衣",
+        "EN": "Leather Bunny Hollow Bra"
+      }
+    },
+    {
+      "group": "ClothOuter",
+      "name": "系腰外套小",
+      "translation": {
+        "CN": "系腰外套小",
+        "EN": "Small Waist-Tied Outerwear"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "系腰外套小",
+      "translation": {
+        "CN": "系腰外套小",
+        "EN": "Small Waist-Tied Outerwear"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "系腰外套小",
+      "translation": {
+        "CN": "系腰外套小",
+        "EN": "Small Waist-Tied Outerwear"
+      }
+    },
+    {
+      "group": "ClothOuter",
+      "name": "系腰外套大",
+      "translation": {
+        "CN": "系腰外套大",
+        "EN": "Large Waist-Tied Outerwear"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "系腰外套大",
+      "translation": {
+        "CN": "系腰外套大",
+        "EN": "Large Waist-Tied Outerwear"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "系腰外套大",
+      "translation": {
+        "CN": "系腰外套大",
+        "EN": "Large Waist-Tied Outerwear"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "蕾丝文胸睡裙",
+      "translation": {
+        "CN": "蕾丝文胸睡裙",
+        "EN": "Lace Bra Nightgown"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "蕾丝文胸睡裙",
+      "translation": {
+        "CN": "蕾丝文胸睡裙",
+        "EN": "Lace Bra Nightgown"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "运动套装top",
+      "translation": {
+        "CN": "运动套装上衣",
+        "EN": "Sporty Set-up Top"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "运动套装top",
+      "translation": {
+        "CN": "运动套装上衣",
+        "EN": "Sporty Set-up Top"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "运动套装bottom",
+      "translation": {
+        "CN": "运动套装内裤",
+        "EN": "Sporty Set-up Bottom"
+      }
+    },
+    {
+      "group": "Panties",
+      "name": "运动套装bottom",
+      "translation": {
+        "CN": "运动套装内裤",
+        "EN": "Sporty Set-up Bottom"
+      }
+    },
+    {
+      "group": "ClothLower",
+      "name": "运动套装skirt",
+      "translation": {
+        "CN": "运动套装裙子",
+        "EN": "Sporty Set-up Skirt"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "运动套装ha",
+      "translation": {
+        "CN": "运动套装纱布",
+        "EN": "Sporty Set-up Gauze"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "运动套装ha",
+      "translation": {
+        "CN": "运动套装纱布",
+        "EN": "Sporty Set-up Gauze"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "运动套装nl",
+      "translation": {
+        "CN": "运动套装项链",
+        "EN": "Sporty Set-up Necklace"
+      }
+    },
+    {
+      "group": "Necklace",
+      "name": "运动套装nl",
+      "translation": {
+        "CN": "运动套装项链",
+        "EN": "Sporty Set-up Necklace"
+      }
+    },
+    {
+      "group": "Jewelry",
+      "name": "运动套装nl",
+      "translation": {
+        "CN": "运动套装项链",
+        "EN": "Sporty Set-up Necklace"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "花园连衣裙",
+      "translation": {
+        "CN": "花园连衣裙",
+        "EN": "Garden Dress"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "花边连衣裙",
+      "translation": {
+        "CN": "褶边连衣裙",
+        "EN": "Ruffled Dress"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "连衣裙",
+      "translation": {
+        "CN": "交叉吊带连衣裙",
+        "EN": "Cross Strap Dress"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "书包",
+      "translation": {
+        "CN": "书包",
+        "EN": "School Bag"
+      }
+    },
+    {
+      "group": "ItemArms",
+      "name": "书包",
+      "translation": {
+        "CN": "拘束书包",
+        "EN": "Restraint School Bag"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "乳胶口罩",
+      "translation": {
+        "CN": "乳胶口罩",
+        "EN": "Latex Mask"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "乳胶口罩",
+      "translation": {
+        "CN": "乳胶口罩",
+        "EN": "Latex Mask"
+      }
+    },
+    {
+      "group": "ItemMouth2",
+      "name": "乳胶口罩",
+      "translation": {
+        "CN": "乳胶口罩",
+        "EN": "Latex Mask"
+      }
+    },
+    {
+      "group": "ItemMouth3",
+      "name": "乳胶口罩",
+      "translation": {
+        "CN": "乳胶口罩",
+        "EN": "Latex Mask"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "乳贴1",
+      "translation": {
+        "CN": "乳贴1",
+        "EN": "Pasties 1"
+      }
+    },
+    {
+      "group": "ItemNipples",
+      "name": "乳贴1",
+      "translation": {
+        "CN": "乳贴1",
+        "EN": "Pasties 1"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "乳贴2",
+      "translation": {
+        "CN": "乳贴2",
+        "EN": "Pasties 2"
+      }
+    },
+    {
+      "group": "ItemNipples",
+      "name": "乳贴2",
+      "translation": {
+        "CN": "乳贴2",
+        "EN": "Pasties 2"
+      }
+    },
+    {
+      "group": "Suit",
+      "name": "创口贴",
+      "translation": {
+        "CN": "创口贴",
+        "EN": "BandAid"
+      }
+    },
+    {
+      "group": "Bra",
+      "name": "创口贴",
+      "translation": {
+        "CN": "创口贴",
+        "EN": "BandAid"
+      }
+    },
+    {
+      "group": "Panties",
+      "name": "创口贴",
+      "translation": {
+        "CN": "创口贴",
+        "EN": "BandAid"
+      }
+    },
+    {
+      "group": "ItemNipples",
+      "name": "创口贴",
+      "translation": {
+        "CN": "创口贴",
+        "EN": "BandAid"
+      }
+    },
+    {
+      "group": "ItemVulva",
+      "name": "创口贴",
+      "translation": {
+        "CN": "创口贴",
+        "EN": "BandAid"
+      }
+    },
+    {
+      "group": "ItemVulvaPiercings",
+      "name": "创口贴",
+      "translation": {
+        "CN": "创口贴",
+        "EN": "BandAid"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "医用眼罩左",
+      "translation": {
+        "CN": "医用眼罩左",
+        "EN": "Medical Eye Mask Left"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "医用眼罩左",
+      "translation": {
+        "CN": "医用眼罩左",
+        "EN": "Medical Eye Mask Left"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "医用眼罩右",
+      "translation": {
+        "CN": "医用眼罩右",
+        "EN": "Medical Eye Mask Right"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "医用眼罩右",
+      "translation": {
+        "CN": "医用眼罩右",
+        "EN": "Medical Eye Mask Right"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "天线",
+      "translation": {
+        "CN": "天线耳机",
+        "EN": "Antenna Headphone"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "天线",
+      "translation": {
+        "CN": "天线耳机",
+        "EN": "Antenna Headphone"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "NPC气泡",
+      "translation": {
+        "CN": "NPC气泡",
+        "EN": "NPC Balloon"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "女巫帽子",
+      "translation": {
+        "CN": "女巫帽子",
+        "EN": "Witch Hat",
+        "RU": "Шляпа ведьмы"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "冕旒",
+      "translation": {
+        "CN": "冕旒",
+        "EN": "Mian Liu"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "狐狸面具",
+      "translation": {
+        "CN": "狐狸面具",
+        "EN": "Fox Mask"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "帽子2",
+      "translation": {
+        "CN": "邦尼特帽",
+        "EN": "Bonnet Colonial Hat"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "斗笠1",
+      "translation": {
+        "CN": "斗笠 1",
+        "EN": "Bamboo hat 1",
+        "RU": "DouLi 1"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "斗笠2",
+      "translation": {
+        "CN": "斗笠 2",
+        "EN": "Bamboo hat 2",
+        "RU": "DouLi 2"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "桂冠",
+      "translation": {
+        "CN": "桂冠",
+        "EN": "Laurel Crown"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "桂冠",
+      "translation": {
+        "CN": "桂冠",
+        "EN": "Laurel Crown"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "桂冠",
+      "translation": {
+        "CN": "桂冠",
+        "EN": "Laurel Crown"
+      }
+    },
+    {
+      "group": "Gloves",
+      "name": "袖手套",
+      "translation": {
+        "CN": "袖手套",
+        "EN": "Sleeve Gloves"
+      }
+    },
+    {
+      "group": "Gloves",
+      "name": "丝手套2",
+      "translation": {
+        "CN": "丝手套 2",
+        "EN": "Silk Gloves 2"
+      }
+    },
+    {
+      "group": "Gloves",
+      "name": "手套渐变",
+      "translation": {
+        "CN": "渐变手套",
+        "EN": "Gradient Gloves"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "二胡",
+      "translation": {
+        "CN": "二胡",
+        "EN": "Erhu"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "折扇",
+      "translation": {
+        "CN": "折扇",
+        "EN": "Folding fan",
+        "RU": "Складной веер",
+        "UA": "Розкладний вентилятор"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "油纸伞",
+      "translation": {
+        "CN": "油纸伞",
+        "EN": "Oil-paper umbrella"
+      }
+    },
+    {
+      "group": "ItemMisc",
+      "name": "玩偶",
+      "translation": {
+        "CN": "玩偶",
+        "EN": "Plushies"
+      }
+    },
+    {
+      "group": "ItemHandheld",
+      "name": "玩偶",
+      "translation": {
+        "CN": "玩偶",
+        "EN": "Plushies"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "MMelodia",
+      "translation": {
+        "CN": "旋律的主人",
+        "EN": "Master of Melodia"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "MMelodia",
+      "translation": {
+        "CN": "旋律的主人",
+        "EN": "Master of Melodia"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "MMelodia",
+      "translation": {
+        "CN": "旋律的主人",
+        "EN": "Master of Melodia"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "时尚口罩",
+      "translation": {
+        "CN": "时尚口罩",
+        "EN": "Fashion Mask"
+      }
+    },
+    {
+      "group": "ItemMouth",
+      "name": "时尚口罩",
+      "translation": {
+        "CN": "时尚口罩",
+        "EN": "Fashion Mask"
+      }
+    },
+    {
+      "group": "ItemMouth2",
+      "name": "时尚口罩",
+      "translation": {
+        "CN": "时尚口罩",
+        "EN": "Fashion Mask"
+      }
+    },
+    {
+      "group": "ItemMouth3",
+      "name": "时尚口罩",
+      "translation": {
+        "CN": "时尚口罩",
+        "EN": "Fashion Mask"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "把手",
+      "translation": {
+        "CN": "玩偶把手",
+        "EN": "Doll Handle"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "假领子",
+      "translation": {
+        "CN": "假领子",
+        "EN": "Fake Collar"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "假领子",
+      "translation": {
+        "CN": "假领子",
+        "EN": "Fake Collar"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "茉莉花钿1",
+      "translation": {
+        "CN": "茉莉花钿 1",
+        "EN": "Jasmine Hairpin 1"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "茉莉花钿1",
+      "translation": {
+        "CN": "茉莉花钿 1",
+        "EN": "Jasmine Hairpin 1"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "茉莉花钿2",
+      "translation": {
+        "CN": "茉莉花钿 2",
+        "EN": "Jasmine Hairpin 2"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "茉莉花钿2",
+      "translation": {
+        "CN": "茉莉花钿 2",
+        "EN": "Jasmine Hairpin 2"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "发卡1",
+      "translation": {
+        "CN": "发卡1",
+        "EN": "Basic Hair Clip 1"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "发卡1",
+      "translation": {
+        "CN": "发卡1",
+        "EN": "Basic Hair Clip 1"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "发卡2",
+      "translation": {
+        "CN": "发卡2",
+        "EN": "Basic Hair Clip 2"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "发卡2",
+      "translation": {
+        "CN": "发卡2",
+        "EN": "Basic Hair Clip 2"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "X发卡",
+      "translation": {
+        "CN": "X发卡",
+        "EN": "X Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "X发卡",
+      "translation": {
+        "CN": "X发卡",
+        "EN": "X Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "心型发卡",
+      "translation": {
+        "CN": "心型发卡",
+        "EN": "Heart Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "心型发卡",
+      "translation": {
+        "CN": "心型发卡",
+        "EN": "Heart Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "星星发卡",
+      "translation": {
+        "CN": "星星发卡",
+        "EN": "Star Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "星星发卡",
+      "translation": {
+        "CN": "星星发卡",
+        "EN": "Star Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "星星发卡2",
+      "translation": {
+        "CN": "星星发卡2",
+        "EN": "Star Hair Clip 2"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "星星发卡2",
+      "translation": {
+        "CN": "星星发卡2",
+        "EN": "Star Hair Clip 2"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "月亮发饰",
+      "translation": {
+        "CN": "月亮发饰",
+        "EN": "Moon Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "月亮发饰",
+      "translation": {
+        "CN": "月亮发饰",
+        "EN": "Moon Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "蝴蝶",
+      "translation": {
+        "CN": "蝴蝶",
+        "EN": "Butterfly Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "蝴蝶",
+      "translation": {
+        "CN": "蝴蝶",
+        "EN": "Butterfly Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "蝴蝶2",
+      "translation": {
+        "CN": "蝴蝶2",
+        "EN": "Butterfly Hair Clip 2"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "蝴蝶2",
+      "translation": {
+        "CN": "蝴蝶2",
+        "EN": "Butterfly Hair Clip 2"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "蝙蝠翼发卡",
+      "translation": {
+        "CN": "蝙蝠翼发卡",
+        "EN": "Bat Wing Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "蝙蝠翼发卡",
+      "translation": {
+        "CN": "蝙蝠翼发卡",
+        "EN": "Bat Wing Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "N四叶草",
+      "translation": {
+        "CN": "天然四叶草发卡",
+        "EN": "Natural Clover Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "N四叶草",
+      "translation": {
+        "CN": "天然四叶草发卡",
+        "EN": "Natural Clover Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "E四叶草",
+      "translation": {
+        "CN": "珠宝四叶草发卡",
+        "EN": "Jeweled Clover Hair Clip"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "E四叶草",
+      "translation": {
+        "CN": "珠宝四叶草发卡",
+        "EN": "Jeweled Clover Hair Clip"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "眉心坠",
+      "translation": {
+        "CN": "眉心坠",
+        "EN": "Forehead Jewelry"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "眉心坠",
+      "translation": {
+        "CN": "眉心坠",
+        "EN": "Forehead Jewelry"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "眉心坠",
+      "translation": {
+        "CN": "眉心坠",
+        "EN": "Forehead Jewelry"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "眉心坠",
+      "translation": {
+        "CN": "眉心坠",
+        "EN": "Forehead Jewelry"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "脚趾戒指",
+      "translation": {
+        "CN": "脚趾戒指",
+        "EN": "Toe Ring",
+        "RU": "Кольцо на пальце ноги"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "蝴蝶结头饰小",
+      "translation": {
+        "CN": "蝴蝶结头饰小",
+        "EN": "Small Bow Hair Accessory"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "蝴蝶结头饰小",
+      "translation": {
+        "CN": "蝴蝶结头饰小",
+        "EN": "Small Bow Hair Accessory"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "蝴蝶结头饰小",
+      "translation": {
+        "CN": "蝴蝶结头饰小",
+        "EN": "Small Bow Hair Accessory"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "蝴蝶结头饰小",
+      "translation": {
+        "CN": "蝴蝶结头饰小",
+        "EN": "Small Bow Hair Accessory"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "蝴蝶结头饰大",
+      "translation": {
+        "CN": "蝴蝶结头饰大",
+        "EN": "Large Bow Hair Accessory"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "蝴蝶结头饰大",
+      "translation": {
+        "CN": "蝴蝶结头饰大",
+        "EN": "Large Bow Hair Accessory"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "蝴蝶结头饰大",
+      "translation": {
+        "CN": "蝴蝶结头饰大",
+        "EN": "Large Bow Hair Accessory"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "蝴蝶结头饰大",
+      "translation": {
+        "CN": "蝴蝶结头饰大",
+        "EN": "Large Bow Hair Accessory"
+      }
+    },
+    {
+      "group": "Jewelry",
+      "name": "踝链A",
+      "translation": {
+        "CN": "踝链A",
+        "EN": "Anklet A"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "踝链A",
+      "translation": {
+        "CN": "踝链A",
+        "EN": "Anklet A"
+      }
+    },
+    {
+      "group": "Jewelry",
+      "name": "踝链B",
+      "translation": {
+        "CN": "踝链B",
+        "EN": "Anklet B"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "踝链B",
+      "translation": {
+        "CN": "踝链B",
+        "EN": "Anklet B"
+      }
+    },
+    {
+      "group": "Jewelry",
+      "name": "踝链C",
+      "translation": {
+        "CN": "手镯/踝链C",
+        "EN": "Wristlet/Anklet C"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "踝链C",
+      "translation": {
+        "CN": "手镯/踝链C",
+        "EN": "Wristlet/Anklet C"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "铜钱簪",
+      "translation": {
+        "CN": "铜钱簪",
+        "EN": "Tongqian Hairpin"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "铜钱簪",
+      "translation": {
+        "CN": "铜钱簪",
+        "EN": "Tongqian Hairpin"
+      }
+    },
+    {
+      "group": "Jewelry",
+      "name": "项链A",
+      "translation": {
+        "CN": "三曲枝项链",
+        "EN": "Triskelion Necklace"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "项链A",
+      "translation": {
+        "CN": "三曲枝项链",
+        "EN": "Triskelion Necklace"
+      }
+    },
+    {
+      "group": "Necklace",
+      "name": "项链A",
+      "translation": {
+        "CN": "三曲枝项链",
+        "EN": "Triskelion Necklace"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "单边眼镜左",
+      "translation": {
+        "CN": "单边眼镜左",
+        "EN": "Monocle Left"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "单边眼镜右",
+      "translation": {
+        "CN": "单边眼镜右",
+        "EN": "Monocle Right"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "眼镜卡",
+      "translation": {
+        "CN": "眼镜卡",
+        "EN": "Nose Clip Glasses"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "爱心眼镜",
+      "translation": {
+        "CN": "爱心眼镜",
+        "EN": "Heart-shaped Glasses"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "下半框眼镜",
+      "translation": {
+        "CN": "下半框眼镜",
+        "EN": "Semi-rimless Glasses"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "色散墨镜",
+      "translation": {
+        "CN": "色散墨镜",
+        "EN": "Iridescent Sunglasses"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "墨镜A",
+      "translation": {
+        "CN": "飞行员墨镜",
+        "EN": "Aviator Sunglasses"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "羽翼头饰",
+      "translation": {
+        "CN": "羽翼头饰",
+        "EN": "Feathered Headpiece"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "羽翼头饰",
+      "translation": {
+        "CN": "羽翼头饰",
+        "EN": "Feathered Headpiece"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "羽翼头饰",
+      "translation": {
+        "CN": "羽翼头饰",
+        "EN": "Feathered Headpiece"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "羽翼眼罩",
+      "translation": {
+        "CN": "羽翼眼罩",
+        "EN": "Feathered Eyepatch"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "羽翼眼罩",
+      "translation": {
+        "CN": "羽翼眼罩",
+        "EN": "Feathered Eyepatch"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "羽翼眼罩",
+      "translation": {
+        "CN": "羽翼眼罩",
+        "EN": "Feathered Eyepatch"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "羽翼眼罩",
+      "translation": {
+        "CN": "羽翼眼罩",
+        "EN": "Feathered Eyepatch"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "耳機",
+      "translation": {
+        "CN": "耳機",
+        "EN": "Headphone"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "耳機",
+      "translation": {
+        "CN": "耳機",
+        "EN": "Headphone"
+      }
+    },
+    {
+      "group": "Hat",
+      "name": "耳機",
+      "translation": {
+        "CN": "耳機",
+        "EN": "Headphone"
+      }
+    },
+    {
+      "group": "Garters",
+      "name": "X腿带",
+      "translation": {
+        "CN": "X腿带",
+        "EN": "X-Leg Straps"
+      }
+    },
+    {
+      "group": "Garters",
+      "name": "花边腿环",
+      "translation": {
+        "CN": "花边腿环",
+        "EN": "Lace Leg Ring"
+      }
+    },
+    {
+      "group": "Garters",
+      "name": "蕾丝边",
+      "translation": {
+        "CN": "蕾丝边",
+        "EN": "Lace Leg Strap"
+      }
+    },
+    {
+      "group": "Garters",
+      "name": "袜子蝴蝶结",
+      "translation": {
+        "CN": "袜子蝴蝶结",
+        "EN": "Socks Bow"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "交领右衽",
+      "translation": {
+        "CN": "交领右衽",
+        "EN": "Cross-collar Right Overlap"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "袖子",
+      "translation": {
+        "CN": "分离羊腿袖",
+        "EN": "Detached Gigot Sleeve"
+      }
+    },
+    {
+      "group": "长袖子_Luzi",
+      "name": "袖子",
+      "translation": {
+        "CN": "分离羊腿袖",
+        "EN": "Detached Gigot Sleeve"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "围脖",
+      "translation": {
+        "CN": "围脖",
+        "EN": "Scarf"
+      }
+    },
+    {
+      "group": "Bracelet",
+      "name": "女仆手镯",
+      "translation": {
+        "CN": "女仆手镯",
+        "EN": "Maid Bracelet"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "女巫小披肩",
+      "translation": {
+        "CN": "女巫小披肩",
+        "EN": "Witch Small Shawl",
+        "DE": "Hexen kleine Stola"
+      }
+    },
+    {
+      "group": "Cloth",
+      "name": "披肩",
+      "translation": {
+        "CN": "天主披肩",
+        "EN": "Christian Shawl",
+        "RU": "Палантин",
+        "UA": "Палантин"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "披肩短",
+      "translation": {
+        "CN": "圣诞披肩短",
+        "EN": "Xmas Short Shawl",
+        "RU": "Короткий палантин",
+        "UA": "Короткий палантин"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "披肩长",
+      "translation": {
+        "CN": "圣诞披肩长",
+        "EN": "Xmas Long Shawl",
+        "RU": "Длинный палантин",
+        "UA": "Довгий палантин"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "立领披肩",
+      "translation": {
+        "CN": "血族斗篷",
+        "EN": "Vampiric Cloak"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "肩章",
+      "translation": {
+        "CN": "肩章",
+        "EN": "Epaulet"
+      }
+    },
+    {
+      "group": "Corset",
+      "name": "束腰",
+      "translation": {
+        "CN": "普通束腰",
+        "EN": "Regular Corset"
+      }
+    },
+    {
+      "group": "Wings",
+      "name": "蝴蝶结背饰",
+      "translation": {
+        "CN": "大蝴蝶结装饰",
+        "EN": "Large Bow Accessory"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "蝴蝶结背饰",
+      "translation": {
+        "CN": "大蝴蝶结装饰",
+        "EN": "Large Bow Accessory"
+      }
+    },
+    {
+      "group": "ClothAccessory",
+      "name": "蝴蝶结装饰",
+      "translation": {
+        "CN": "蝴蝶结装饰",
+        "EN": "Bow Accessory"
+      }
+    },
+    {
+      "group": "长袖子_Luzi",
+      "name": "广袖",
+      "translation": {
+        "CN": "广袖",
+        "EN": "Wide Sleeve"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "丝袜",
+      "translation": {
+        "CN": "丝袜",
+        "EN": "Silk Stockings",
+        "RU": "Шелковые чулки"
+      }
+    },
+    {
+      "group": "SuitLower",
+      "name": "丝袜",
+      "translation": {
+        "CN": "丝袜",
+        "EN": "Silk Stockings",
+        "RU": "Шелковые чулки"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "丝袜2",
+      "translation": {
+        "CN": "丝袜 2",
+        "EN": "Silk Stockings 2",
+        "RU": "Шелковые чулки 2"
+      }
+    },
+    {
+      "group": "SocksLeft",
+      "name": "丝袜2",
+      "translation": {
+        "CN": "丝袜 2",
+        "EN": "Silk Stockings 2",
+        "RU": "Шелковые чулки 2"
+      }
+    },
+    {
+      "group": "SocksRight",
+      "name": "丝袜2",
+      "translation": {
+        "CN": "丝袜 2",
+        "EN": "Silk Stockings 2",
+        "RU": "Шелковые чулки 2"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "丝袜3",
+      "translation": {
+        "CN": "丝袜 3",
+        "EN": "Silk Stockings 3",
+        "RU": "Шелковые чулки 3"
+      }
+    },
+    {
+      "group": "SocksLeft",
+      "name": "丝袜3",
+      "translation": {
+        "CN": "丝袜 3",
+        "EN": "Silk Stockings 3",
+        "RU": "Шелковые чулки 3"
+      }
+    },
+    {
+      "group": "SocksRight",
+      "name": "丝袜3",
+      "translation": {
+        "CN": "丝袜 3",
+        "EN": "Silk Stockings 3",
+        "RU": "Шелковые чулки 3"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "条纹袜",
+      "translation": {
+        "CN": "条纹袜",
+        "EN": "Striped Socks",
+        "RU": "Полосатые носки"
+      }
+    },
+    {
+      "group": "SocksLeft",
+      "name": "条纹袜",
+      "translation": {
+        "CN": "条纹袜",
+        "EN": "Striped Socks",
+        "RU": "Полосатые носки"
+      }
+    },
+    {
+      "group": "SocksRight",
+      "name": "条纹袜",
+      "translation": {
+        "CN": "条纹袜",
+        "EN": "Striped Socks",
+        "RU": "Полосатые носки"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "条纹袜2",
+      "translation": {
+        "CN": "条纹袜 2",
+        "EN": "Striped Socks 2",
+        "RU": "Полосатые носки 2"
+      }
+    },
+    {
+      "group": "SocksLeft",
+      "name": "条纹袜2",
+      "translation": {
+        "CN": "条纹袜 2",
+        "EN": "Striped Socks 2",
+        "RU": "Полосатые носки 2"
+      }
+    },
+    {
+      "group": "SocksRight",
+      "name": "条纹袜2",
+      "translation": {
+        "CN": "条纹袜 2",
+        "EN": "Striped Socks 2",
+        "RU": "Полосатые носки 2"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "猫袜",
+      "translation": {
+        "CN": "可爱猫咪印花袜",
+        "EN": "Cute Kitten Printed Socks"
+      }
+    },
+    {
+      "group": "SuitLower",
+      "name": "猫袜",
+      "translation": {
+        "CN": "可爱猫咪印花袜",
+        "EN": "Cute Kitten Printed Socks"
+      }
+    },
+    {
+      "group": "SocksLeft",
+      "name": "猫袜",
+      "translation": {
+        "CN": "可爱猫咪印花袜",
+        "EN": "Cute Kitten Printed Socks"
+      }
+    },
+    {
+      "group": "SocksRight",
+      "name": "猫袜",
+      "translation": {
+        "CN": "可爱猫咪印花袜",
+        "EN": "Cute Kitten Printed Socks"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "网袜",
+      "translation": {
+        "CN": "网袜",
+        "EN": "Net Socks",
+        "RU": "Носки-сетка"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "荷叶边袜",
+      "translation": {
+        "CN": "荷叶边袜",
+        "EN": "Ruffled socks"
+      }
+    },
+    {
+      "group": "SocksLeft",
+      "name": "荷叶边袜",
+      "translation": {
+        "CN": "荷叶边袜",
+        "EN": "Ruffled socks"
+      }
+    },
+    {
+      "group": "SocksRight",
+      "name": "荷叶边袜",
+      "translation": {
+        "CN": "荷叶边袜",
+        "EN": "Ruffled socks"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "袜套",
+      "translation": {
+        "CN": "袜套",
+        "EN": "Leg Warmers"
+      }
+    },
+    {
+      "group": "SocksLeft",
+      "name": "袜套",
+      "translation": {
+        "CN": "袜套",
+        "EN": "Leg Warmers"
+      }
+    },
+    {
+      "group": "SocksRight",
+      "name": "袜套",
+      "translation": {
+        "CN": "袜套",
+        "EN": "Leg Warmers"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "踩脚袜",
+      "translation": {
+        "CN": "踩脚袜",
+        "EN": "Footstep Socks",
+        "RU": "Носки для шагов"
+      }
+    },
+    {
+      "group": "SocksLeft",
+      "name": "踩脚袜",
+      "translation": {
+        "CN": "踩脚袜",
+        "EN": "Footstep Socks",
+        "RU": "Носки для шагов"
+      }
+    },
+    {
+      "group": "SocksRight",
+      "name": "踩脚袜",
+      "translation": {
+        "CN": "踩脚袜",
+        "EN": "Footstep Socks",
+        "RU": "Носки для шагов"
+      }
+    },
+    {
+      "group": "Socks",
+      "name": "露趾袜",
+      "translation": {
+        "CN": "露趾袜",
+        "EN": "Stirrup Thigh High Socks",
+        "RU": "Чулки с открытыми пальцами"
+      }
+    },
+    {
+      "group": "SocksLeft",
+      "name": "露趾袜",
+      "translation": {
+        "CN": "露趾袜",
+        "EN": "Stirrup Thigh High Socks",
+        "RU": "Чулки с открытыми пальцами"
+      }
+    },
+    {
+      "group": "SocksRight",
+      "name": "露趾袜",
+      "translation": {
+        "CN": "露趾袜",
+        "EN": "Stirrup Thigh High Socks",
+        "RU": "Чулки с открытыми пальцами"
+      }
+    },
+    {
+      "group": "Mask",
+      "name": "面具",
+      "translation": {
+        "CN": "面具",
+        "EN": "Mask"
+      }
+    },
+    {
+      "group": "Glasses",
+      "name": "面具",
+      "translation": {
+        "CN": "面具",
+        "EN": "Mask"
+      }
+    },
+    {
+      "group": "HairAccessory1",
+      "name": "面具",
+      "translation": {
+        "CN": "面具",
+        "EN": "Mask"
+      }
+    },
+    {
+      "group": "HairAccessory3",
+      "name": "面具",
+      "translation": {
+        "CN": "面具",
+        "EN": "Mask"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "兽蹄鞋",
+      "translation": {
+        "CN": "兽蹄鞋",
+        "EN": "Hoof Shoe"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "凉鞋",
+      "translation": {
+        "CN": "凉鞋",
+        "EN": "Sandals"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "洞洞鞋",
+      "translation": {
+        "CN": "印花洞洞鞋",
+        "EN": "Printed Crocs"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "厚拖",
+      "translation": {
+        "CN": "厚底拖鞋",
+        "EN": "Thick Slippers"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "拖鞋",
+      "translation": {
+        "CN": "拖鞋",
+        "EN": "Slippers"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "灰姑娘",
+      "translation": {
+        "CN": "灰姑娘高跟鞋",
+        "EN": "Cinderella Heels"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "玛丽珍皮鞋",
+      "translation": {
+        "CN": "玛丽珍皮鞋",
+        "EN": "Mary Jane Shoes"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "绑带鞋",
+      "translation": {
+        "CN": "绑带鞋",
+        "EN": "Lace-up shoes"
+      }
+    },
+    {
+      "group": "Shoes",
+      "name": "鱼嘴高跟鞋",
+      "translation": {
+        "CN": "鱼嘴高跟鞋",
+        "EN": "Peep-toe Heels"
+      }
+    }
+  ],
+  "mirrors": [
+    {
+      "group": "新前发_Luzi_stack",
+      "from": "新前发_Luzi"
+    },
+    {
+      "group": "新后发_Luzi_stack",
+      "from": "新后发_Luzi"
+    },
+    {
+      "group": "BodyMarkings2_Luzi",
+      "from": "BodyMarkings"
+    },
+    {
+      "group": "Cloth_笨笨蛋Luzi",
+      "from": "Cloth"
+    },
+    {
+      "group": "Cloth_笨笨笨蛋Luzi2",
+      "from": "Cloth"
+    },
+    {
+      "group": "ClothLower_笨笨蛋Luzi",
+      "from": "ClothLower"
+    },
+    {
+      "group": "ClothLower_笨笨笨蛋Luzi2",
+      "from": "ClothLower"
+    },
+    {
+      "group": "Bra_笨笨蛋Luzi",
+      "from": "Bra"
+    },
+    {
+      "group": "Panties_笨笨蛋Luzi",
+      "from": "Panties"
+    },
+    {
+      "group": "Suit_笨笨蛋Luzi",
+      "from": "Suit"
+    },
+    {
+      "group": "SuitLower_笨笨蛋Luzi",
+      "from": "SuitLower"
+    },
+    {
+      "group": "ClothAccessory_笨笨蛋Luzi",
+      "from": "ClothAccessory"
+    },
+    {
+      "group": "ClothAccessory_笨笨笨蛋Luzi2",
+      "from": "ClothAccessory"
+    },
+    {
+      "group": "Necklace_笨笨蛋Luzi",
+      "from": "Necklace"
+    },
+    {
+      "group": "Luzi_Jewelry_0",
+      "from": "Jewelry"
+    },
+    {
+      "group": "Shoes_笨笨蛋Luzi",
+      "from": "Shoes"
+    },
+    {
+      "group": "Hat_笨笨蛋Luzi",
+      "from": "Hat"
+    },
+    {
+      "group": "HairAccessory3_笨笨蛋Luzi",
+      "from": "HairAccessory3"
+    },
+    {
+      "group": "Luzi_HairAccessory3_1",
+      "from": "HairAccessory3"
+    },
+    {
+      "group": "Luzi_HairAccessory3_2",
+      "from": "HairAccessory3"
+    },
+    {
+      "group": "Gloves_笨笨蛋Luzi",
+      "from": "Gloves"
+    },
+    {
+      "group": "Mask_笨笨蛋Luzi",
+      "from": "Mask"
+    },
+    {
+      "group": "Wings_笨笨蛋Luzi",
+      "from": "Wings"
+    },
+    {
+      "group": "Luzi_TailStraps_0",
+      "from": "TailStraps"
+    }
+  ],
+  "aliases": [
+    {
+      "group": "ClothLower",
+      "oldName": "裤子1_Luzi",
+      "name": "裤子1"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "Luzi_DamseletteHA",
+      "name": "DamseletteHA"
+    },
+    {
+      "group": "HairAccessory3",
+      "oldName": "Luzi_DamseletteHA",
+      "name": "DamseletteHA"
+    },
+    {
+      "group": "Mask",
+      "oldName": "Luzi_DamseletteM",
+      "name": "DamseletteM"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "树叶发饰_Luzi",
+      "name": "树叶发饰"
+    },
+    {
+      "group": "HairAccessory3",
+      "oldName": "树叶发饰_Luzi",
+      "name": "树叶发饰"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "金属发卡_Luzi",
+      "name": "金属发卡"
+    },
+    {
+      "group": "HairAccessory3",
+      "oldName": "金属发卡_Luzi",
+      "name": "金属发卡"
+    },
+    {
+      "group": "Garters",
+      "oldName": "枪套_Luzi",
+      "name": "枪套"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "枪套_Luzi",
+      "name": "枪套"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "长裙_Luzi",
+      "name": "长裙"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "西装露肩_Luzi",
+      "name": "西装露肩"
+    },
+    {
+      "group": "ClothOuter",
+      "oldName": "西装露肩_Luzi",
+      "name": "西装露肩"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "西装露肩_Luzi",
+      "name": "西装露肩"
+    },
+    {
+      "group": "ClothOuter",
+      "oldName": "西装露肩_Luzi",
+      "name": "西装露肩"
+    },
+    {
+      "group": "Necklace",
+      "oldName": "SND项链_Luzi",
+      "name": "SND项链"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "SND项链_Luzi",
+      "name": "SND项链"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "乳胶带床_Luzi",
+      "name": "乳胶带床"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "垃圾桶_Luzi",
+      "name": "垃圾桶"
+    },
+    {
+      "group": "ItemAddon",
+      "oldName": "被子左边_Luzi",
+      "name": "被子左边"
+    },
+    {
+      "group": "ItemAddon",
+      "oldName": "被子右边_Luzi",
+      "name": "被子右边"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "床左边_Luzi",
+      "name": "床左边"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "床右边_Luzi",
+      "name": "床右边"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "巨型玩偶_Luzi",
+      "name": "巨型玩偶"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "开腿展示架_Luzi",
+      "name": "开腿展示架"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "拳击袋_Luzi",
+      "name": "拳击袋"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "树_Luzi",
+      "name": "树"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "独角兽玩偶_Luzi",
+      "name": "独角兽玩偶"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "玻璃罐子_Luzi",
+      "name": "玻璃罐子"
+    },
+    {
+      "group": "ItemNeckRestraints",
+      "oldName": "监控机器人_Luzi",
+      "name": "监控机器人"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "单监_Luzi",
+      "name": "单监"
+    },
+    {
+      "group": "ItemAddon",
+      "oldName": "调整高度_Luzi",
+      "name": "调整高度"
+    },
+    {
+      "group": "ItemNipples",
+      "oldName": "乳夹_Luzi",
+      "name": "乳夹"
+    },
+    {
+      "group": "ItemNipplesPiercings",
+      "oldName": "短穿环_Luzi",
+      "name": "短穿环"
+    },
+    {
+      "group": "ItemTorso",
+      "oldName": "缰绳_Luzi",
+      "name": "缰绳"
+    },
+    {
+      "group": "ItemTorso2",
+      "oldName": "缰绳_Luzi",
+      "name": "缰绳"
+    },
+    {
+      "group": "ItemHood",
+      "oldName": "毛毯头部_Luzi",
+      "name": "毛毯头部"
+    },
+    {
+      "group": "ItemTorso",
+      "oldName": "胶带全身_Luzi",
+      "name": "胶带全身"
+    },
+    {
+      "group": "ItemTorso2",
+      "oldName": "胶带全身_Luzi",
+      "name": "胶带全身"
+    },
+    {
+      "group": "ItemTorso",
+      "oldName": "睡袋改_Luzi",
+      "name": "睡袋改"
+    },
+    {
+      "group": "ItemTorso2",
+      "oldName": "睡袋改_Luzi",
+      "name": "睡袋改"
+    },
+    {
+      "group": "ItemTorso",
+      "oldName": "全包毛毯改_Luzi",
+      "name": "全包毛毯改"
+    },
+    {
+      "group": "ItemTorso2",
+      "oldName": "全包毛毯改_Luzi",
+      "name": "全包毛毯改"
+    },
+    {
+      "group": "ItemTorso",
+      "oldName": "全包毛毯_Luzi",
+      "name": "全包毛毯"
+    },
+    {
+      "group": "ItemTorso2",
+      "oldName": "全包毛毯_Luzi",
+      "name": "全包毛毯"
+    },
+    {
+      "group": "ItemVulva",
+      "oldName": "更多有线跳蛋_Luzi",
+      "name": "更多有线跳蛋"
+    },
+    {
+      "group": "ItemLegs",
+      "oldName": "电击器_Luzi",
+      "name": "电击器"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "猪猪_Luzi",
+      "name": "猪猪"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "窝瓜_Luzi",
+      "name": "窝瓜"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "纸箱_Luzi",
+      "name": "纸箱"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "麻袋_Luzi",
+      "name": "麻袋"
+    },
+    {
+      "group": "ItemHood",
+      "oldName": "麻袋_Luzi",
+      "name": "麻袋"
+    },
+    {
+      "group": "ItemHands",
+      "oldName": "拳击手套_Luzi",
+      "name": "拳击手套"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "电蚊拍_Luzi",
+      "name": "电蚊拍"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "书_Luzi",
+      "name": "书"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "奶瓶_Luzi",
+      "name": "奶瓶"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "红包_Luzi",
+      "name": "红包"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "伊偶_Luzi",
+      "name": "伊偶"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "阿巴阿巴_Luzi",
+      "name": "阿巴阿巴"
+    },
+    {
+      "group": "ItemMouth",
+      "oldName": "蛋糕卷_Luzi",
+      "name": "蛋糕卷"
+    },
+    {
+      "group": "ItemMouth",
+      "oldName": "棒棒糖_Luzi",
+      "name": "棒棒糖"
+    },
+    {
+      "group": "ItemMouth",
+      "oldName": "烤鱼_Luzi",
+      "name": "烤鱼"
+    },
+    {
+      "group": "ItemMouth",
+      "oldName": "鸡腿_Luzi",
+      "name": "鸡腿"
+    },
+    {
+      "group": "ItemMouth",
+      "oldName": "煎包_Luzi",
+      "name": "煎包"
+    },
+    {
+      "group": "ItemMouth",
+      "oldName": "曲奇_Luzi",
+      "name": "曲奇"
+    },
+    {
+      "group": "ItemMouth",
+      "oldName": "吐司_Luzi",
+      "name": "吐司"
+    },
+    {
+      "group": "ItemMouth",
+      "oldName": "蛋挞_Luzi",
+      "name": "蛋挞"
+    },
+    {
+      "group": "ItemMouth",
+      "oldName": "月饼_Luzi",
+      "name": "月饼"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "汉堡_Luzi",
+      "name": "汉堡"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "奶茶_Luzi",
+      "name": "奶茶"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "棒棒糖_Luzi",
+      "name": "棒棒糖"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "烤鱼_Luzi",
+      "name": "烤鱼"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "鸡腿_Luzi",
+      "name": "鸡腿"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "曲奇_Luzi",
+      "name": "曲奇"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "吐司_Luzi",
+      "name": "吐司"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "蛋挞_Luzi",
+      "name": "蛋挞"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "月饼_Luzi",
+      "name": "月饼"
+    },
+    {
+      "group": "ItemHood",
+      "oldName": "汉堡_Luzi",
+      "name": "汉堡"
+    },
+    {
+      "group": "ItemArms",
+      "oldName": "乳胶宠物拘束服_Luzi",
+      "name": "乳胶宠物拘束服"
+    },
+    {
+      "group": "ItemDevices",
+      "oldName": "充气式拘束袋_Luzi",
+      "name": "充气式拘束袋"
+    },
+    {
+      "group": "ItemArms",
+      "oldName": "充气式拘束袋_Luzi",
+      "name": "充气式拘束袋"
+    },
+    {
+      "group": "ItemTorso",
+      "oldName": "拘束套装_Luzi",
+      "name": "拘束套装"
+    },
+    {
+      "group": "ItemTorso2",
+      "oldName": "拘束套装_Luzi",
+      "name": "拘束套装"
+    },
+    {
+      "group": "ItemArms",
+      "oldName": "鬼手A",
+      "name": "鬼手"
+    },
+    {
+      "group": "ItemFeet",
+      "oldName": "鬼手L",
+      "name": "鬼手"
+    },
+    {
+      "group": "ItemMouth",
+      "oldName": "鬼手M",
+      "name": "鬼手"
+    },
+    {
+      "group": "ItemHead",
+      "oldName": "鬼手E",
+      "name": "鬼手"
+    },
+    {
+      "group": "ItemVulva",
+      "oldName": "鬼手G",
+      "name": "鬼手"
+    },
+    {
+      "group": "ItemMisc",
+      "oldName": "斩标_Luzi",
+      "name": "斩标"
+    },
+    {
+      "group": "ItemTorso",
+      "oldName": "触手服_Luzi",
+      "name": "触手服"
+    },
+    {
+      "group": "ItemTorso2",
+      "oldName": "触手服_Luzi",
+      "name": "触手服"
+    },
+    {
+      "group": "ItemHood",
+      "oldName": "乳胶头套_Luzi",
+      "name": "乳胶头套"
+    },
+    {
+      "group": "ItemMouth",
+      "oldName": "Luzi_CheekRetractor",
+      "name": "LuziCheekRetractor"
+    },
+    {
+      "group": "ItemNose",
+      "oldName": "Luzi_NoseHook",
+      "name": "LuziNoseHook"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "尾巴1_Luzi",
+      "name": "尾巴1"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "尾巴2_Luzi",
+      "name": "尾巴2"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "尾巴3_Luzi",
+      "name": "尾巴3"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "雪豹尾巴_Luzi",
+      "name": "雪豹尾巴"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "雪豹尾巴镜像_Luzi",
+      "name": "雪豹尾巴镜像"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "鱼尾1_Luzi",
+      "name": "鱼尾1"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "鱼尾2_Luzi",
+      "name": "鱼尾2"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "蝎子尾巴_Luzi",
+      "name": "蝎子尾巴"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "穿戴式狗尾镜像_Luzi",
+      "name": "穿戴式狗尾镜像"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "白色穿戴式狼尾镜像_Luzi",
+      "name": "白色穿戴式狼尾镜像"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "穿戴式浅色猫尾镜像_Luzi",
+      "name": "穿戴式浅色猫尾镜像"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "穿戴式软小狗尾镜像_Luzi",
+      "name": "穿戴式软小狗尾镜像"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "大型穿戴式狼尾镜像_Luzi",
+      "name": "大型穿戴式狼尾镜像"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "小型穿戴式狼尾镜像_Luzi",
+      "name": "小型穿戴式狼尾镜像"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "小型穿戴式软猫尾镜像_Luzi",
+      "name": "小型穿戴式软猫尾镜像"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "穿戴式浣熊尾镜像_Luzi",
+      "name": "穿戴式浣熊尾镜像"
+    },
+    {
+      "group": "TailStraps",
+      "oldName": "穿戴式猫尾镜像_Luzi",
+      "name": "穿戴式猫尾镜像"
+    },
+    {
+      "group": "HairAccessory2",
+      "oldName": "黑猫耳镜像_Luzi",
+      "name": "黑猫耳镜像"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "耳朵1_Luzi",
+      "name": "耳朵1"
+    },
+    {
+      "group": "HairAccessory2",
+      "oldName": "耳朵1_Luzi",
+      "name": "耳朵1"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "耳朵2_Luzi",
+      "name": "耳朵2"
+    },
+    {
+      "group": "HairAccessory2",
+      "oldName": "耳朵2_Luzi",
+      "name": "耳朵2"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "角7_Luzi",
+      "name": "角7"
+    },
+    {
+      "group": "HairAccessory2",
+      "oldName": "角7_Luzi",
+      "name": "角7"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "精灵耳2_Luzi",
+      "name": "精灵耳2"
+    },
+    {
+      "group": "HairAccessory2",
+      "oldName": "精灵耳2_Luzi",
+      "name": "精灵耳2"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "小马耳2_Luzi",
+      "name": "小马耳2"
+    },
+    {
+      "group": "HairAccessory2",
+      "oldName": "小马耳2_Luzi",
+      "name": "小马耳2"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "鱼鳍耳朵_Luzi",
+      "name": "鱼鳍耳朵"
+    },
+    {
+      "group": "HairAccessory2",
+      "oldName": "鱼鳍耳朵_Luzi",
+      "name": "鱼鳍耳朵"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "耷拉下来的耳朵_Luzi",
+      "name": "耷拉下来的耳朵"
+    },
+    {
+      "group": "HairAccessory2",
+      "oldName": "耷拉下来的耳朵_Luzi",
+      "name": "耷拉下来的耳朵"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "角8_Luzi",
+      "name": "角8"
+    },
+    {
+      "group": "HairAccessory2",
+      "oldName": "角8_Luzi",
+      "name": "角8"
+    },
+    {
+      "group": "身体痕迹_Luzi",
+      "oldName": "口红_Luzi",
+      "name": "口红"
+    },
+    {
+      "group": "BodyMarkings",
+      "oldName": "大纹身_Luzi",
+      "name": "大纹身"
+    },
+    {
+      "group": "BodyMarkings",
+      "oldName": "标志纹饰_Luzi",
+      "name": "标志纹饰"
+    },
+    {
+      "group": "BodyMarkings2_Luzi",
+      "oldName": "身体论文_Luzi",
+      "name": "身体论文"
+    },
+    {
+      "group": "EyeShadow",
+      "oldName": "面部妆容_Luzi",
+      "name": "面部妆容"
+    },
+    {
+      "group": "FaceMarkings",
+      "oldName": "面部妆容_Luzi",
+      "name": "面部妆容"
+    },
+    {
+      "group": "EyeShadow",
+      "oldName": "面部妆容1_Luzi",
+      "name": "面部妆容1"
+    },
+    {
+      "group": "FaceMarkings",
+      "oldName": "面部妆容1_Luzi",
+      "name": "面部妆容1"
+    },
+    {
+      "group": "EyeShadow",
+      "oldName": "小丑面妆_Luzi",
+      "name": "小丑面妆"
+    },
+    {
+      "group": "FaceMarkings",
+      "oldName": "小丑面妆_Luzi",
+      "name": "小丑面妆"
+    },
+    {
+      "group": "BodyMarkings",
+      "oldName": "番茄酱_Luzi",
+      "name": "番茄酱"
+    },
+    {
+      "group": "FaceMarkings",
+      "oldName": "番茄酱_Luzi",
+      "name": "番茄酱"
+    },
+    {
+      "group": "BodyMarkings",
+      "oldName": "花钿_Luzi",
+      "name": "花钿"
+    },
+    {
+      "group": "FaceMarkings",
+      "oldName": "花钿_Luzi",
+      "name": "花钿"
+    },
+    {
+      "group": "身体痕迹_Luzi",
+      "oldName": "鞭痕_Luzi",
+      "name": "鞭痕"
+    },
+    {
+      "group": "动物身体_Luzi",
+      "oldName": "人偶_Luzi",
+      "name": "人偶"
+    },
+    {
+      "group": "动物身体_Luzi",
+      "oldName": "幽灵人形_Luzi",
+      "name": "幽灵人形"
+    },
+    {
+      "group": "动物身体_Luzi",
+      "oldName": "蜘蛛_Luzi",
+      "name": "蜘蛛"
+    },
+    {
+      "group": "Wings",
+      "oldName": "蜘蛛_Luzi",
+      "name": "蜘蛛"
+    },
+    {
+      "group": "动物身体_Luzi",
+      "oldName": "鱼鱼尾_Luzi",
+      "name": "鱼鱼尾"
+    },
+    {
+      "group": "ClothLower",
+      "oldName": "半开百褶裙_Luzi",
+      "name": "半开百褶裙"
+    },
+    {
+      "group": "ClothLower",
+      "oldName": "牛仔裤_Luzi",
+      "name": "牛仔裤"
+    },
+    {
+      "group": "ClothLower",
+      "oldName": "瑜伽裤_Luzi",
+      "name": "瑜伽裤"
+    },
+    {
+      "group": "SuitLower",
+      "oldName": "瑜伽裤_Luzi",
+      "name": "瑜伽裤"
+    },
+    {
+      "group": "ClothLower",
+      "oldName": "蕾丝裤_Luzi",
+      "name": "蕾丝裤"
+    },
+    {
+      "group": "ClothLower",
+      "oldName": "裙_Luzi",
+      "name": "裙"
+    },
+    {
+      "group": "ClothLower",
+      "oldName": "裙子_Luzi",
+      "name": "裙子"
+    },
+    {
+      "group": "ClothLower",
+      "oldName": "迷你裤_Luzi",
+      "name": "迷你裤"
+    },
+    {
+      "group": "ClothLower",
+      "oldName": "迷你裤_Luzi",
+      "name": "迷你裤"
+    },
+    {
+      "group": "ClothLower",
+      "oldName": "黑曜蝶翼裙_Luzi",
+      "name": "黑曜蝶翼裙"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "绛云墨韵旗袍裙_Luzi",
+      "name": "绛云墨韵旗袍裙"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "锦云绣雪旗袍_Luzi",
+      "name": "锦云绣雪旗袍"
+    },
+    {
+      "group": "Suit",
+      "oldName": "乳胶衣_Luzi",
+      "name": "乳胶衣"
+    },
+    {
+      "group": "SuitLower",
+      "oldName": "乳胶衣_Luzi",
+      "name": "乳胶衣"
+    },
+    {
+      "group": "Bra",
+      "oldName": "塑身衣1_Luzi",
+      "name": "塑身衣1"
+    },
+    {
+      "group": "ClothLower",
+      "oldName": "塑身衣2_Luzi",
+      "name": "塑身衣2"
+    },
+    {
+      "group": "Gloves",
+      "oldName": "绷带_Luzi",
+      "name": "绷带"
+    },
+    {
+      "group": "Socks",
+      "oldName": "绷带_Luzi",
+      "name": "绷带"
+    },
+    {
+      "group": "Bra",
+      "oldName": "绷带全身_Luzi",
+      "name": "绷带全身"
+    },
+    {
+      "group": "ItemHood",
+      "oldName": "绷带头部_Luzi",
+      "name": "绷带头部"
+    },
+    {
+      "group": "ItemTorso",
+      "oldName": "绷带全身_Luzi",
+      "name": "绷带全身"
+    },
+    {
+      "group": "ItemTorso2",
+      "oldName": "绷带全身_Luzi",
+      "name": "绷带全身"
+    },
+    {
+      "group": "SocksLeft",
+      "oldName": "绷带_Luzi",
+      "name": "绷带"
+    },
+    {
+      "group": "SocksRight",
+      "oldName": "绷带_Luzi",
+      "name": "绷带"
+    },
+    {
+      "group": "Suit",
+      "oldName": "连体衣_Luzi",
+      "name": "连体衣"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "连体衣_Luzi",
+      "name": "连体衣"
+    },
+    {
+      "group": "Suit",
+      "oldName": "透明兔女郎_Luzi",
+      "name": "透明兔女郎"
+    },
+    {
+      "group": "Bra",
+      "oldName": "透明兔女郎_Luzi",
+      "name": "透明兔女郎"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "透明兔女郎_Luzi",
+      "name": "透明兔女郎"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "露胸胶衣_Luzi",
+      "name": "露胸胶衣"
+    },
+    {
+      "group": "Suit",
+      "oldName": "露胸胶衣_Luzi",
+      "name": "露胸胶衣"
+    },
+    {
+      "group": "Corset",
+      "oldName": "露胸胶衣_Luzi",
+      "name": "露胸胶衣"
+    },
+    {
+      "group": "ItemTorso",
+      "oldName": "露胸胶衣_Luzi",
+      "name": "露胸胶衣"
+    },
+    {
+      "group": "ItemTorso2",
+      "oldName": "露胸胶衣_Luzi",
+      "name": "露胸胶衣"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "白布_Luzi",
+      "name": "白布"
+    },
+    {
+      "group": "ClothOuter",
+      "oldName": "白布_Luzi",
+      "name": "白布"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "女仆围裙_Luzi",
+      "name": "女仆围裙"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "女仆围裙_Luzi",
+      "name": "女仆围裙"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "女仆围裙2_Luzi",
+      "name": "女仆围裙2"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "女仆围裙2_Luzi",
+      "name": "女仆围裙2"
+    },
+    {
+      "group": "Bra",
+      "oldName": "女仆胸罩_Luzi",
+      "name": "女仆胸罩"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "女仆装_Luzi",
+      "name": "女仆装"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "女仆装2_Luzi",
+      "name": "女仆装2"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "女仆装3_Luzi",
+      "name": "女仆装3"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "女仆装4_Luzi",
+      "name": "女仆装4"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "奶牛_Luzi",
+      "name": "奶牛"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "斜肩上衣_Luzi",
+      "name": "斜肩上衣"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "连衣裙_Luzi",
+      "name": "连衣裙"
+    },
+    {
+      "group": "Panties",
+      "oldName": "创口贴_下",
+      "name": "创口贴"
+    },
+    {
+      "group": "ItemVulvaPiercings",
+      "oldName": "创口贴_下",
+      "name": "创口贴"
+    },
+    {
+      "group": "Hat",
+      "oldName": "NPC气泡_Luzi",
+      "name": "NPC气泡"
+    },
+    {
+      "group": "Hat",
+      "oldName": "女巫帽子_Luzi",
+      "name": "女巫帽子"
+    },
+    {
+      "group": "Hat",
+      "oldName": "冕旒_Luzi",
+      "name": "冕旒"
+    },
+    {
+      "group": "Hat",
+      "oldName": "狐狸面具_Luzi",
+      "name": "狐狸面具"
+    },
+    {
+      "group": "Hat",
+      "oldName": "帽子2_Luzi",
+      "name": "帽子2"
+    },
+    {
+      "group": "Hat",
+      "oldName": "斗笠1_Luzi",
+      "name": "斗笠1"
+    },
+    {
+      "group": "Hat",
+      "oldName": "斗笠2_Luzi",
+      "name": "斗笠2"
+    },
+    {
+      "group": "Gloves",
+      "oldName": "袖手套_Luzi",
+      "name": "袖手套"
+    },
+    {
+      "group": "Gloves",
+      "oldName": "丝手套2_Luzi",
+      "name": "丝手套2"
+    },
+    {
+      "group": "Gloves",
+      "oldName": "手套渐变_Luzi",
+      "name": "手套渐变"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "折扇_Luzi",
+      "name": "折扇"
+    },
+    {
+      "group": "ItemMisc",
+      "oldName": "玩偶_Luzi",
+      "name": "玩偶"
+    },
+    {
+      "group": "ItemHandheld",
+      "oldName": "玩偶_Luzi",
+      "name": "玩偶"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "Luzi_MMelodia",
+      "name": "MMelodia"
+    },
+    {
+      "group": "HairAccessory3",
+      "oldName": "Luzi_MMelodia",
+      "name": "MMelodia"
+    },
+    {
+      "group": "Hat",
+      "oldName": "Luzi_MMelodia",
+      "name": "MMelodia"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "假领子_Luzi",
+      "name": "假领子"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "假领子_Luzi",
+      "name": "假领子"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "茉莉花钿1_Luzi",
+      "name": "茉莉花钿1"
+    },
+    {
+      "group": "HairAccessory3",
+      "oldName": "茉莉花钿1_Luzi",
+      "name": "茉莉花钿1"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "茉莉花钿2_Luzi",
+      "name": "茉莉花钿2"
+    },
+    {
+      "group": "HairAccessory3",
+      "oldName": "茉莉花钿2_Luzi",
+      "name": "茉莉花钿2"
+    },
+    {
+      "group": "Shoes",
+      "oldName": "脚趾戒指_Luzi",
+      "name": "脚趾戒指"
+    },
+    {
+      "group": "Mask",
+      "oldName": "蝴蝶结头饰小_Luzi",
+      "name": "蝴蝶结头饰小"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "蝴蝶结头饰小_Luzi",
+      "name": "蝴蝶结头饰小"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "蝴蝶结头饰小_Luzi",
+      "name": "蝴蝶结头饰小"
+    },
+    {
+      "group": "HairAccessory3",
+      "oldName": "蝴蝶结头饰小_Luzi",
+      "name": "蝴蝶结头饰小"
+    },
+    {
+      "group": "Mask",
+      "oldName": "蝴蝶结头饰大_Luzi",
+      "name": "蝴蝶结头饰大"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "蝴蝶结头饰大_Luzi",
+      "name": "蝴蝶结头饰大"
+    },
+    {
+      "group": "HairAccessory1",
+      "oldName": "蝴蝶结头饰大_Luzi",
+      "name": "蝴蝶结头饰大"
+    },
+    {
+      "group": "HairAccessory3",
+      "oldName": "蝴蝶结头饰大_Luzi",
+      "name": "蝴蝶结头饰大"
+    },
+    {
+      "group": "Glasses",
+      "oldName": "单边眼镜左_Luzi",
+      "name": "单边眼镜左"
+    },
+    {
+      "group": "Glasses",
+      "oldName": "单边眼镜右_Luzi",
+      "name": "单边眼镜右"
+    },
+    {
+      "group": "Glasses",
+      "oldName": "眼镜卡_Luzi",
+      "name": "眼镜卡"
+    },
+    {
+      "group": "Glasses",
+      "oldName": "爱心眼镜_Luzi",
+      "name": "爱心眼镜"
+    },
+    {
+      "group": "Glasses",
+      "oldName": "下半框眼镜_Luzi",
+      "name": "下半框眼镜"
+    },
+    {
+      "group": "Glasses",
+      "oldName": "色散墨镜_Luzi",
+      "name": "色散墨镜"
+    },
+    {
+      "group": "Glasses",
+      "oldName": "墨镜A_Luzi",
+      "name": "墨镜A"
+    },
+    {
+      "group": "Garters",
+      "oldName": "X腿带_Luzi",
+      "name": "X腿带"
+    },
+    {
+      "group": "Garters",
+      "oldName": "蕾丝边_Luzi",
+      "name": "蕾丝边"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "围脖_Luzi",
+      "name": "围脖"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "女巫小披肩_Luzi",
+      "name": "女巫小披肩"
+    },
+    {
+      "group": "Cloth",
+      "oldName": "披肩_Luzi",
+      "name": "披肩"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "披肩短_Luzi",
+      "name": "披肩短"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "披肩长_Luzi",
+      "name": "披肩长"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "立领披肩_Luzi",
+      "name": "立领披肩"
+    },
+    {
+      "group": "Wings",
+      "oldName": "蝴蝶结背饰_Luzi",
+      "name": "蝴蝶结背饰"
+    },
+    {
+      "group": "ClothAccessory",
+      "oldName": "蝴蝶结背饰_Luzi",
+      "name": "蝴蝶结背饰"
+    },
+    {
+      "group": "长袖子_Luzi",
+      "oldName": "广袖_Luzi",
+      "name": "广袖"
+    },
+    {
+      "group": "Socks",
+      "oldName": "丝袜_Luzi",
+      "name": "丝袜"
+    },
+    {
+      "group": "SuitLower",
+      "oldName": "丝袜_Luzi",
+      "name": "丝袜"
+    },
+    {
+      "group": "Socks",
+      "oldName": "丝袜2_Luzi",
+      "name": "丝袜2"
+    },
+    {
+      "group": "SocksLeft",
+      "oldName": "丝袜2_Luzi",
+      "name": "丝袜2"
+    },
+    {
+      "group": "SocksRight",
+      "oldName": "丝袜2_Luzi",
+      "name": "丝袜2"
+    },
+    {
+      "group": "Socks",
+      "oldName": "丝袜3_Luzi",
+      "name": "丝袜3"
+    },
+    {
+      "group": "SocksLeft",
+      "oldName": "丝袜3_Luzi",
+      "name": "丝袜3"
+    },
+    {
+      "group": "SocksRight",
+      "oldName": "丝袜3_Luzi",
+      "name": "丝袜3"
+    },
+    {
+      "group": "Socks",
+      "oldName": "条纹袜_Luzi",
+      "name": "条纹袜"
+    },
+    {
+      "group": "SocksLeft",
+      "oldName": "条纹袜_Luzi",
+      "name": "条纹袜"
+    },
+    {
+      "group": "SocksRight",
+      "oldName": "条纹袜_Luzi",
+      "name": "条纹袜"
+    },
+    {
+      "group": "Socks",
+      "oldName": "条纹袜2_Luzi",
+      "name": "条纹袜2"
+    },
+    {
+      "group": "SocksLeft",
+      "oldName": "条纹袜2_Luzi",
+      "name": "条纹袜2"
+    },
+    {
+      "group": "SocksRight",
+      "oldName": "条纹袜2_Luzi",
+      "name": "条纹袜2"
+    },
+    {
+      "group": "Socks",
+      "oldName": "网袜_Luzi",
+      "name": "网袜"
+    },
+    {
+      "group": "Socks",
+      "oldName": "踩脚袜_Luzi",
+      "name": "踩脚袜"
+    },
+    {
+      "group": "SocksLeft",
+      "oldName": "踩脚袜_Luzi",
+      "name": "踩脚袜"
+    },
+    {
+      "group": "SocksRight",
+      "oldName": "踩脚袜_Luzi",
+      "name": "踩脚袜"
+    },
+    {
+      "group": "Socks",
+      "oldName": "露趾袜_Luzi",
+      "name": "露趾袜"
+    },
+    {
+      "group": "SocksLeft",
+      "oldName": "露趾袜_Luzi",
+      "name": "露趾袜"
+    },
+    {
+      "group": "SocksRight",
+      "oldName": "露趾袜_Luzi",
+      "name": "露趾袜"
+    },
+    {
+      "group": "Shoes",
+      "oldName": "兽蹄鞋_Luzi",
+      "name": "兽蹄鞋"
+    },
+    {
+      "group": "Shoes",
+      "oldName": "凉鞋_Luzi",
+      "name": "凉鞋"
+    },
+    {
+      "group": "Shoes",
+      "oldName": "拖鞋_Luzi",
+      "name": "拖鞋"
+    },
+    {
+      "group": "Shoes",
+      "oldName": "绑带鞋_Luzi",
+      "name": "绑带鞋"
+    },
+    {
+      "group": "Shoes",
+      "oldName": "鱼嘴高跟鞋_Luzi",
+      "name": "鱼嘴高跟鞋"
+    }
+  ]
+}

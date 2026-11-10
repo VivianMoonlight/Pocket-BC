@@ -1,0 +1,527 @@
+{
+  "format": 1,
+  "version": 30,
+  "bcVersion": "R133",
+  "echoRevision": "4478e33044a6d87a4d1b0c6ed8d38a549e1d4204",
+  "adapters": [
+    {
+      "id": "echo-lab-coat",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/衣服/外套/白大褂.js",
+      "sourceHash": "f49741f7bc6ea0663fc6807d2bec18ea0ac56a28",
+      "groups": [
+        "Cloth",
+        "ClothOuter"
+      ],
+      "name": "白大褂",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-wool-coat",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/衣服/外套/呢子大衣.js",
+      "sourceHash": "f75a0a4308217fb272679769dfa12afa4918cd43",
+      "groups": [
+        "Cloth",
+        "ClothOuter"
+      ],
+      "name": "大衣",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-white-dress",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/衣服/白色礼服.js",
+      "sourceHash": "efaf40625ef621882783f4e6f2a91902a11943bc",
+      "groups": [
+        "Cloth"
+      ],
+      "name": "白色礼服",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-mary-jane",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/饰品/鞋子/玛丽珍皮鞋.js",
+      "sourceHash": "4316a5e789bc6e6554354414f93b8065d321ae05",
+      "groups": [
+        "Shoes"
+      ],
+      "name": "玛丽珍皮鞋",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-icon-markings",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/化妆美发/标志纹饰.js",
+      "sourceHash": "fc71b1ee28c03d046e24ac0113b51b24e14ab605",
+      "groups": [
+        "BodyMarkings"
+      ],
+      "name": "标志纹饰",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-sports-top",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/衣服/运动套装.js",
+      "sourceHash": "3ad58304999f83ab998b41f164462f36070922b0",
+      "groups": [
+        "Cloth",
+        "Bra"
+      ],
+      "name": "运动套装top",
+      "mode": "AfterDraw",
+      "hookPath": [
+        "Modules",
+        1,
+        "Options",
+        0,
+        "ArchetypeConfig"
+      ]
+    },
+    {
+      "id": "echo-body-text",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/化妆美发/身体论文.js",
+      "sourceHash": "9a48bbf954a87e0a703c34745852a4a4d17de7eb",
+      "groups": [
+        "BodyMarkings2_Luzi"
+      ],
+      "name": "身体论文",
+      "mode": "AfterDraw",
+      "hookPaths": [
+        [
+          "Modules",
+          0,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          1,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          2,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          3,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          4,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          5,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          6,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          7,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          8,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          9,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          10,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          11,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          12,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          13,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          14,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ]
+      ]
+    },
+    {
+      "id": "echo-gradient",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/化妆美发/渐变叠加.js",
+      "sourceHash": "20a739f286711b4b98ab4ad39a0f51d73fe8f507",
+      "groups": [
+        "额外头发_Luzi"
+      ],
+      "name": "渐变叠加",
+      "mode": "AfterDraw",
+      "hookPath": []
+    },
+    {
+      "id": "echo-double-gradient",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/化妆美发/渐变叠加.js",
+      "sourceHash": "20a739f286711b4b98ab4ad39a0f51d73fe8f507",
+      "groups": [
+        "额外头发_Luzi"
+      ],
+      "name": "双渐变叠加",
+      "mode": "AfterDraw",
+      "hookPath": []
+    },
+    {
+      "id": "echo-cross-collar",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/饰品/衣服零件/交领右衽.js",
+      "sourceHash": "01437930d2c562e168ba4cc7bcab25a2a67eebf0",
+      "groups": [
+        "ClothAccessory"
+      ],
+      "name": "交领右衽",
+      "mode": "AfterDraw",
+      "hookPath": []
+    },
+    {
+      "id": "bc-steampunk-wings",
+      "source": "bc",
+      "path": "Screens/Inventory/Wings/SteampunkWings/SteampunkWings.js",
+      "sourceHash": "8de66f1319cd8118c7c2f5e09a22bec2c8006812387f3c9c3a4f617b788996dd",
+      "groups": [
+        "Wings"
+      ],
+      "name": "SteampunkWings",
+      "mode": "frozen-frame"
+    },
+    {
+      "id": "echo-drone-hood",
+      "source": "echo",
+      "path": "src/components/束缚与玩具/面部/狗机仆头套.js",
+      "sourceHash": "717065a025baddd746319e97f83623c4539302c2",
+      "groups": [
+        "ItemHood"
+      ],
+      "name": "狗机仆头套",
+      "mode": "AfterDraw",
+      "hookPath": [
+        "Modules",
+        0,
+        "Options",
+        0,
+        "ArchetypeConfig"
+      ]
+    },
+    {
+      "id": "echo-evening-gown",
+      "source": "echo",
+      "path": "src/components/套装/落落/礼服裙.js",
+      "sourceHash": "7b4db279b83246d57598e4b1d24eb6445d4f1bf3",
+      "groups": [
+        "Cloth"
+      ],
+      "name": "长裙",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-laptop",
+      "source": "echo",
+      "path": "src/components/束缚与玩具/手持物/笔记本电脑.js",
+      "sourceHash": "4caaf66f26811b13ba41fc8f151146168baf304f",
+      "groups": [
+        "ItemHandheld"
+      ],
+      "name": "笔记本电脑",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-marking-sign",
+      "source": "echo",
+      "path": "src/components/束缚与玩具/装饰物/斩标.js",
+      "sourceHash": "aa25393d539989985b81144af5976a7c7a62e0b1",
+      "groups": [
+        "ItemMisc"
+      ],
+      "name": "斩标",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-dog-house",
+      "source": "echo",
+      "path": "src/components/家具及摆设/木狗屋.js",
+      "sourceHash": "6e6b86acb355661e841af1f13185414bca93679e",
+      "groups": [
+        "ItemDevices"
+      ],
+      "name": "木狗屋",
+      "mode": "AfterDraw",
+      "hookPaths": [
+        [
+          "Modules",
+          2,
+          "Options",
+          0,
+          "ArchetypeConfig"
+        ],
+        [
+          "Modules",
+          2,
+          "Options",
+          1,
+          "ArchetypeConfig"
+        ]
+      ]
+    },
+    {
+      "id": "echo-large-beads",
+      "source": "echo",
+      "path": "src/components/束缚与玩具/刺激/大号拉珠.js",
+      "sourceHash": "db833076ded79f7b57f7d9bda044cd888c57c3d1",
+      "groups": [
+        "ItemButt"
+      ],
+      "name": "大号拉珠",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-tentacle-suit",
+      "source": "echo",
+      "path": "src/components/束缚与玩具/触手服.js",
+      "sourceHash": "a58f9b2fb68e9ae7a7247edaef6e7504c709f622",
+      "groups": [
+        "ItemTorso",
+        "ItemTorso2"
+      ],
+      "name": "触手服",
+      "mode": "BeforeDraw",
+      "frozenFrame": true
+    },
+    {
+      "id": "echo-ruler",
+      "source": "echo",
+      "path": "src/components/工具/刻度尺.js",
+      "sourceHash": "6fffe02dce1edf5d1a5e9169568dd59202d2d50c",
+      "groups": [
+        "BodyMarkings"
+      ],
+      "name": "刻度尺",
+      "mode": "AfterDraw",
+      "hookPath": []
+    },
+    {
+      "id": "echo-cardboard-box",
+      "source": "echo",
+      "path": "src/components/束缚与玩具/包装/纸箱.js",
+      "sourceHash": "d7bb9550cd1e0fc501b114ff4d865c0269001f5b",
+      "groups": [
+        "ItemDevices"
+      ],
+      "name": "纸箱",
+      "mode": "AfterDraw",
+      "hookPath": [
+        "Modules",
+        1,
+        "Options",
+        1,
+        "ArchetypeConfig"
+      ]
+    },
+    {
+      "id": "echo-evilfall-glass",
+      "source": "echo",
+      "path": "src/components/套装/Yaoki/EFGlass.js",
+      "sourceHash": "94f08b0f9f574a9904db62822c1ebc09c3da8311",
+      "groups": [
+        "Glasses",
+        "Mask",
+        "ItemHead"
+      ],
+      "name": "EFGlass",
+      "mode": "AfterDraw",
+      "hookPath": []
+    },
+    {
+      "id": "echo-evilfall-mask",
+      "source": "echo",
+      "path": "src/components/套装/Yaoki/EFMask.js",
+      "sourceHash": "c42d1d71768a74e4046fd4bbe9177e0b1d123b62",
+      "groups": [
+        "Mask",
+        "ItemMouth",
+        "ItemMouth2",
+        "ItemMouth3"
+      ],
+      "name": "EFMask",
+      "mode": "AfterDraw",
+      "hookPath": []
+    },
+    {
+      "id": "echo-one-bar-prison",
+      "source": "echo",
+      "path": "src/components/家具及摆设/镣铐单竖杠监狱.js",
+      "sourceHash": "689f0880918ddf592facf50498ca690a7e19c628",
+      "groups": [
+        "ItemDevices"
+      ],
+      "name": "单监",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-cyber-shield",
+      "source": "echo",
+      "path": "src/components/束缚与玩具/赛博护盾.js",
+      "sourceHash": "d69c609976bb173616d1845558086b2afe1eb7eb",
+      "groups": [
+        "ItemVulva"
+      ],
+      "name": "赛博护盾",
+      "mode": "AfterDraw",
+      "hookPath": []
+    },
+    {
+      "id": "echo-liquid-bag",
+      "source": "echo",
+      "path": "src/components/束缚与玩具/尿袋.js",
+      "sourceHash": "3720d258ea196187e3e3ee3dea2ec2340da2830c",
+      "groups": [
+        "ItemTorso",
+        "ItemTorso2"
+      ],
+      "name": "尿袋",
+      "mode": "AfterDraw",
+      "hookPath": []
+    },
+    {
+      "id": "echo-surveillance-robot",
+      "source": "echo",
+      "path": "src/components/家具及摆设/监控机器人.js",
+      "sourceHash": "67955248ae38ce65fa2ec2bb368d6580325254b9",
+      "groups": [
+        "ItemNeckRestraints"
+      ],
+      "name": "监控机器人",
+      "mode": "BeforeAfterDraw"
+    },
+    {
+      "id": "echo-doll-body",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/替换身体/人偶.js",
+      "sourceHash": "6cd2b56b5627e569c15e4d1de73753d495ed1e69",
+      "groups": [
+        "动物身体_Luzi"
+      ],
+      "name": "人偶",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-ghost-body",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/替换身体/幽灵.js",
+      "sourceHash": "eea12a636469e3c9aa276b57d17166a24621b38d",
+      "groups": [
+        "动物身体_Luzi"
+      ],
+      "name": "幽灵人形",
+      "mode": "AfterDraw",
+      "hookPath": []
+    },
+    {
+      "id": "echo-android-body",
+      "source": "echo",
+      "path": "src/components/衣服和装饰/替换身体/生化人体.js",
+      "sourceHash": "c8e8fb1bbf5a8c957063cd04c57065d3819223c7",
+      "groups": [
+        "动物身体_Luzi"
+      ],
+      "name": "生化人体",
+      "mode": "AfterDraw",
+      "hookPath": []
+    },
+    {
+      "id": "echo-tray",
+      "source": "echo",
+      "path": "src/components/束缚与玩具/托盘.js",
+      "sourceHash": "f4a261a93da3a72536adb93629eac079da2429ba",
+      "groups": [
+        "ItemTorso",
+        "ItemTorso2"
+      ],
+      "name": "托盘",
+      "mode": "AfterDraw",
+      "hookPath": []
+    },
+    {
+      "id": "echo-chocolate",
+      "source": "echo",
+      "path": "src/components/束缚与玩具/手持物/巧克力.js",
+      "sourceHash": "f30e96e88e3551915fa0f076a95d59635d0d3dc7",
+      "groups": [
+        "ItemHandheld"
+      ],
+      "name": "巧克力",
+      "mode": "BeforeDraw"
+    },
+    {
+      "id": "echo-hard-luggage",
+      "source": "echo",
+      "path": "src/components/束缚与玩具/包装/硬壳行李箱.js",
+      "sourceHash": "a12a5478a8a7ba45124b0df5f2554805015e22d9",
+      "groups": [
+        "ItemDevices"
+      ],
+      "name": "硬壳行李箱",
+      "mode": "BeforeDraw"
+    }
+  ]
+}

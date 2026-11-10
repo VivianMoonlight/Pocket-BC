@@ -1,0 +1,8 @@
+{
+  "sender": 1001,
+  "senderName": "Alice",
+  "type": "Whisper",
+  "target": 2002,
+  "targetName": "Bob",
+  "content": "hello quietly"
+}

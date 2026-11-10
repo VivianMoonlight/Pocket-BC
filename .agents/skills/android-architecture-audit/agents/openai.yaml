@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Architecture Audit"
+  short_description: "Audit Android architecture and state ownership"
+  default_prompt: "Use $android-architecture-audit to review this repository architecture and report evidence-backed findings."

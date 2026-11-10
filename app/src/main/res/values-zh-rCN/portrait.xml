@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="portrait_title">立绘预览</string>
+    <string name="portrait_show">查看立绘</string>
+    <string name="portrait_hide">收起立绘</string>
+    <string name="portrait_loading">正在加载立绘…</string>
+    <string name="portrait_failed">未能完成立绘预览，请重试。</string>
+    <string name="portrait_unsupported">此外观包含预览暂不支持的物品。</string>
+    <string name="portrait_partial">部分外观未能显示：%1$s。上方仅展示可预览的部分。</string>
+    <string name="portrait_partial_images">部分图片未能加载，已显示其余可用图层。</string>
+    <string name="portrait_version">立绘预览目前支持 BC R133，当前会话使用 %1$s。</string>
+    <string name="portrait_retry">重试</string>
+    <string name="portrait_description">%1$s 的角色外观</string>
+    <string name="portrait_static">单人静态预览 · 支持部分 Echo 服饰与叠加槽位</string>
+    <string name="portrait_hide_all">隐藏立绘</string>
+    <string name="portrait_slider_hidden">隐藏服装</string>
+    <string name="portrait_slider_show">显示服装</string>
+    <string name="portrait_slide_to_show">按住并下拉显示立绘</string>
+    <string name="portrait_part_list">部位列表</string>
+    <string name="portrait_choose_part">选择身体部位</string>
+    <string name="portrait_tap_part">轻点身体部位，或打开部位列表。</string>
+    <string name="portrait_part_loading">身体区域正在准备，请先使用下方列表。</string>
+</resources>

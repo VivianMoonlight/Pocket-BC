@@ -1,0 +1,56 @@
+<resources>
+    <string name="notification_matrix">身份 × 消息类型</string>
+    <string name="notification_matrix_help">多重身份取最高档；关闭只关闭该身份的触发。点击身份或类型可批量设置整行或整列；横向滑动查看所有类型。配置按当前账号保存。</string>
+    <string name="notification_identity_type">身份 / 类型</string>
+    <string name="notification_system_level">系统事件等级</string>
+    <string name="notification_reset_matrix">恢复矩阵默认值（保留自定义规则）</string>
+    <string name="notification_custom_rules">自定义规则</string>
+    <string name="notification_custom_help">长按拖动或使用上移、下移调整顺序。第一条命中的规则覆盖矩阵，包括关闭。空白条件不参与判断。涉及自己指明确以你为目标的消息或收到的悄悄话、私聊，不匹配名字。</string>
+    <string name="notification_edit">编辑</string>
+    <string name="notification_delete">删除</string>
+    <string name="notification_move_up">上移</string>
+    <string name="notification_move_down">下移</string>
+    <string name="notification_add_rule">新增规则</string>
+    <string name="notification_test">测试规则</string>
+    <string name="notification_any">不限</string>
+    <string name="notification_self_yes">涉及自己</string>
+    <string name="notification_self_no">不涉及自己</string>
+    <string name="notification_rule_name">规则名称</string>
+    <string name="notification_match_all">全部条件满足</string>
+    <string name="notification_match_any">任一条件满足</string>
+    <string name="notification_member">成员编号（可留空）</string>
+    <string name="notification_identity">身份</string>
+    <string name="notification_type">消息类型</string>
+    <string name="notification_keyword">包含关键词（不区分大小写）</string>
+    <string name="notification_result">通知等级</string>
+    <string name="notification_condition_required">请至少设置一个判断条件。</string>
+    <string name="notification_save">保存</string>
+    <string name="notification_cancel">取消</string>
+    <string name="notification_test_help">仅测试分类结果，不发送通知；前台抑制和系统权限仍独立生效。</string>
+    <string name="notification_sample">示例消息</string>
+    <string name="notification_close">关闭</string>
+    <string-array name="notification_levels">
+        <item>关闭</item>
+        <item>普通</item>
+        <item>重要</item>
+        <item>关键</item>
+    </string-array>
+    <string-array name="notification_identities">
+        <item>陌生人</item>
+        <item>好友</item>
+        <item>恋人</item>
+        <item>主人</item>
+        <item>顺从者</item>
+        <item>身份未知</item>
+    </string-array>
+    <string-array name="notification_types">
+        <item>房间聊天</item>
+        <item>表情动作</item>
+        <item>动作</item>
+        <item>互动</item>
+        <item>悄悄话</item>
+        <item>私聊</item>
+        <item>系统</item>
+        <item>错误</item>
+    </string-array>
+</resources>

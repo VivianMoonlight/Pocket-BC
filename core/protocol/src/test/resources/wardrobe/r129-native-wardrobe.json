@@ -1,0 +1,616 @@
+{
+  "nativeRelease": "R129",
+  "functions": [
+    "CharacterCompressWardrobe",
+    "CharacterDecompressWardrobe",
+    "WardrobeAssetBundle",
+    "InventoryDataBuild",
+    "InventoryLoadCompressedData"
+  ],
+  "savedAppearance": {
+    "sourceAppearance": [
+      {
+        "Asset": {
+          "Name": "StarDress",
+          "Group": {
+            "Name": "Cloth"
+          }
+        },
+        "Color": [
+          "#FE80AE",
+          "Default",
+          "#abcdef"
+        ],
+        "Property": {
+          "Expression": "Smile",
+          "TypeRecord": {
+            "button": 1
+          },
+          "Future": {
+            "label": "星空💫",
+            "values": [
+              false,
+              null,
+              {
+                "Color": "#123456"
+              }
+            ]
+          }
+        },
+        "Craft": {
+          "Name": "Personal dress",
+          "MemberNumber": 42
+        },
+        "Difficulty": 17
+      },
+      {
+        "Asset": {
+          "Name": "Eyes1",
+          "Group": {
+            "Name": "Eyes"
+          }
+        },
+        "Color": "Default",
+        "Property": {
+          "Expression": "Closed"
+        }
+      },
+      {
+        "Asset": {
+          "Name": "FrontHair1",
+          "Group": {
+            "Name": "HairFront"
+          }
+        },
+        "Color": [
+          "#334455",
+          "#778899"
+        ],
+        "Property": {}
+      },
+      {
+        "Asset": {
+          "Name": "Normal",
+          "Group": {
+            "Name": "BodyUpper"
+          }
+        }
+      }
+    ],
+    "legacyAppearance": [
+      {
+        "Name": "StarDress",
+        "Group": "Cloth",
+        "Color": [
+          "#FE80AE",
+          "Default",
+          "#abcdef"
+        ],
+        "Property": {
+          "TypeRecord": {
+            "button": 1
+          },
+          "Future": {
+            "label": "星空💫",
+            "values": [
+              false,
+              null,
+              {
+                "Color": "#123456"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Name": "Eyes1",
+        "Group": "Eyes",
+        "Color": "Default"
+      },
+      {
+        "Name": "FrontHair1",
+        "Group": "HairFront",
+        "Color": [
+          "#334455",
+          "#778899"
+        ]
+      },
+      {
+        "Name": "Normal",
+        "Group": "BodyUpper"
+      }
+    ],
+    "compressedCodeUnits": [
+      7012,
+      4390,
+      10283,
+      16684,
+      1280,
+      4472,
+      2688,
+      13227,
+      8237,
+      5158,
+      2086,
+      24731,
+      9248,
+      11606,
+      2592,
+      25120,
+      25122,
+      17440,
+      28704,
+      24624,
+      11654,
+      20994,
+      8249,
+      23073,
+      11994,
+      9628,
+      23072,
+      4512,
+      12704,
+      2503,
+      10272,
+      23852,
+      254,
+      20512,
+      10785,
+      7712,
+      3688,
+      180,
+      18535,
+      29411,
+      3360,
+      1519,
+      5211,
+      21060,
+      15904,
+      15139,
+      172,
+      222,
+      11444,
+      10203,
+      4159,
+      19948,
+      5303,
+      264,
+      8348,
+      6592,
+      6071,
+      20559,
+      912,
+      3443,
+      23936,
+      475,
+      8593,
+      23752,
+      896,
+      5966,
+      1321,
+      430,
+      13829,
+      25064,
+      29200,
+      1232,
+      12178,
+      5536,
+      2464,
+      3296,
+      384,
+      720,
+      249,
+      8278,
+      10555,
+      1382,
+      3258,
+      17610,
+      17109,
+      12789,
+      8913,
+      27772,
+      24222,
+      8850,
+      9836,
+      18795,
+      212,
+      16416,
+      9664,
+      182,
+      22630,
+      22096,
+      27791,
+      20570,
+      8387,
+      26167,
+      2730,
+      544,
+      30261,
+      27981,
+      51,
+      18909,
+      4877,
+      25344,
+      31584,
+      146,
+      7456,
+      11736,
+      13728,
+      1103,
+      17202,
+      10274,
+      21620,
+      27321,
+      15796,
+      21150,
+      27239,
+      23059,
+      11038,
+      285,
+      32734,
+      255,
+      20543,
+      31011,
+      8368,
+      13317,
+      4384,
+      32
+    ],
+    "compactWardrobe": [
+      [
+        [
+          "StarDress",
+          "Cloth",
+          [
+            "#FE80AE",
+            "Default",
+            "#abcdef"
+          ],
+          {
+            "TypeRecord": {
+              "button": 1
+            },
+            "Future": {
+              "label": "星空💫",
+              "values": [
+                false,
+                null,
+                {
+                  "Color": "#123456"
+                }
+              ]
+            }
+          }
+        ],
+        [
+          "Eyes1",
+          "Eyes",
+          "Default",
+          null
+        ],
+        [
+          "FrontHair1",
+          "HairFront",
+          [
+            "#334455",
+            "#778899"
+          ],
+          null
+        ],
+        [
+          "Normal",
+          "BodyUpper",
+          null,
+          null
+        ]
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "decompressedWardrobe": [
+      [
+        {
+          "Name": "StarDress",
+          "Group": "Cloth",
+          "Color": [
+            "#FE80AE",
+            "Default",
+            "#abcdef"
+          ],
+          "Property": {
+            "TypeRecord": {
+              "button": 1
+            },
+            "Future": {
+              "label": "星空💫",
+              "values": [
+                false,
+                null,
+                {
+                  "Color": "#123456"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Name": "Eyes1",
+          "Group": "Eyes",
+          "Color": "Default",
+          "Property": null
+        },
+        {
+          "Name": "FrontHair1",
+          "Group": "HairFront",
+          "Color": [
+            "#334455",
+            "#778899"
+          ],
+          "Property": null
+        },
+        {
+          "Name": "Normal",
+          "Group": "BodyUpper",
+          "Color": null,
+          "Property": null
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  "legacyWithMetadata": {
+    "legacyWardrobe": [
+      [
+        {
+          "Name": "Shirt",
+          "Group": "Cloth",
+          "Color": [
+            "#123456",
+            "Default"
+          ],
+          "Property": {
+            "Future": {
+              "tags": [
+                "夜",
+                "💫"
+              ]
+            }
+          },
+          "Craft": {
+            "Name": "Ignored native metadata"
+          },
+          "Difficulty": 12
+        }
+      ],
+      null,
+      []
+    ],
+    "compressedCodeUnits": [
+      7012,
+      4390,
+      10277,
+      16716,
+      1280,
+      6000,
+      874,
+      420,
+      464,
+      7934,
+      19288,
+      20524,
+      8241,
+      16435,
+      134,
+      76,
+      376,
+      467,
+      5408,
+      2208,
+      21280,
+      26146,
+      3109,
+      15304,
+      16509,
+      4643,
+      15712,
+      424,
+      15328,
+      30116,
+      27168,
+      2992,
+      15931,
+      147,
+      135,
+      13596,
+      16472,
+      19866,
+      16604,
+      3552,
+      27325,
+      26686,
+      222,
+      15708,
+      32163,
+      3386,
+      32,
+      32
+    ],
+    "compactWardrobe": [
+      [
+        [
+          "Shirt",
+          "Cloth",
+          [
+            "#123456",
+            "Default"
+          ],
+          {
+            "Future": {
+              "tags": [
+                "夜",
+                "💫"
+              ]
+            }
+          }
+        ]
+      ],
+      [],
+      []
+    ],
+    "decompressedWardrobe": [
+      [
+        {
+          "Name": "Shirt",
+          "Group": "Cloth",
+          "Color": [
+            "#123456",
+            "Default"
+          ],
+          "Property": {
+            "Future": {
+              "tags": [
+                "夜",
+                "💫"
+              ]
+            }
+          }
+        }
+      ],
+      [],
+      []
+    ]
+  },
+  "inventory": {
+    "dataCodeUnits": [
+      1,
+      101,
+      58,
+      104,
+      1000,
+      55357
+    ],
+    "ids": [
+      1,
+      101,
+      102,
+      103,
+      104,
+      1000,
+      55357
+    ],
+    "nativeItems": [
+      {
+        "Group": "Cloth",
+        "Name": "Asset1"
+      },
+      {
+        "Group": "Cloth",
+        "Name": "Asset101"
+      },
+      {
+        "Group": "Cloth",
+        "Name": "Asset102"
+      },
+      {
+        "Group": "Cloth",
+        "Name": "Asset103"
+      },
+      {
+        "Group": "Cloth",
+        "Name": "Asset104"
+      },
+      {
+        "Group": "Cloth",
+        "Name": "Asset1000"
+      },
+      {
+        "Group": "Cloth",
+        "Name": "Asset55357"
+      }
+    ],
+    "compressedLegacyCodeUnits": [
+      7032,
+      4390,
+      10277,
+      16716,
+      1280,
+      6000,
+      874,
+      420,
+      464,
+      7934,
+      19104,
+      23876,
+      25135,
+      17236,
+      1541,
+      29751,
+      16856,
+      6855,
+      15546,
+      11408,
+      2112,
+      6369,
+      16582,
+      445,
+      11915,
+      111,
+      16025,
+      32,
+      32
+    ],
+    "legacyTuples": [
+      [
+        "Shirt",
+        "Cloth"
+      ],
+      [
+        "星空💫",
+        "ClothAccessory"
+      ]
+    ]
+  }
+}

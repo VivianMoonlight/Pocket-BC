@@ -1,0 +1,14 @@
+<resources>
+    <string name="appearance_mode">明暗模式</string>
+    <string name="appearance_system">跟随系统</string>
+    <string name="appearance_light">浅色</string>
+    <string name="appearance_dark">深色</string>
+    <string name="appearance_black">纯黑</string>
+    <string name="appearance_palette">主题配色</string>
+    <string name="appearance_rose">玫瑰 · 经典</string>
+    <string name="appearance_ocean">海蓝</string>
+    <string name="appearance_forest">森林</string>
+    <string name="appearance_lavender">薰衣草</string>
+    <string name="appearance_graphite">石墨</string>
+    <string name="appearance_dynamic">壁纸动态配色</string>
+</resources>

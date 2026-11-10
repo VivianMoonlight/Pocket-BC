@@ -1,0 +1,4 @@
+interface:
+  display_name: "Device Validation"
+  short_description: "Validate Android behavior on devices and emulators"
+  default_prompt: "Use $device-validation to validate this behavior on an available Android device or emulator."

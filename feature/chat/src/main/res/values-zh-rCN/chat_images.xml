@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chat_image_attach">图片</string>
+    <string name="chat_image_upload_title">上传图片</string>
+    <string name="chat_image_upload_help">选择图床，再选择图片上传（JPG、PNG、GIF、WebP 或 BMP，最大 %1$d MB）。获得链接的人都可查看。</string>
+    <string name="chat_image_host_litterbox">Litterbox · 保存 12 小时</string>
+    <string name="chat_image_host_catbox">Catbox · 不设过期时间</string>
+    <string name="chat_image_host_tmpfiles">TmpFiles · 保存 1 小时</string>
+    <string name="chat_image_host_imgbb">ImgBB · 需要 API Key</string>
+    <string name="chat_image_host_imgur">Imgur · 需要 Client ID</string>
+    <string name="chat_image_too_large">图片超过 %1$d MB，请选择更小的图片。</string>
+    <string name="chat_image_invalid">无法读取图片，请选择 JPG、PNG、GIF、WebP 或 BMP 文件。</string>
+    <string name="chat_image_upload_failed">上传失败。请检查网络和凭据后重试，或选择其他图床。</string>
+    <string name="chat_image_uploading">正在上传…</string>
+    <string name="chat_image_uploaded">上传成功。将链接插入草稿后即可发送。</string>
+    <string name="chat_image_choose">选择图片并上传</string>
+    <string name="chat_image_insert">插入链接</string>
+    <string name="chat_image_cancel">取消</string>
+    <string name="chat_image_credentials_help">上传时会加密保存在此设备上。</string>
+    <string name="chat_image_credentials_get">获取凭据</string>
+    <string name="chat_image_credentials_clear">清除已保存的凭据</string>
+</resources>

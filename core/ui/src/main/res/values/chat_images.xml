@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="core_ui_image_load">Load image</string>
+    <string name="core_ui_image_retry">Image unavailable. Tap to retry</string>
+    <string name="core_ui_image_expand">View larger image</string>
+    <string name="core_ui_image">Chat image</string>
+    <string name="core_ui_image_close">Close</string>
+</resources>

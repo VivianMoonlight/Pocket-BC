@@ -1,0 +1,7 @@
+[
+  {"id":"sighted-edit-paste-delete","blind":false,"clumsiness":0,"random":[],"edits":[{"value":"0123","expected":"0123"},{"value":"0193","expected":"0193"},{"value":"019","expected":"019"},{"value":"19","expected":"19"}]},
+  {"id":"blind-fixed-offset","blind":true,"clumsiness":0,"random":[0.3],"edits":[{"value":"0123","expected":"3456"},{"value":"345","expected":"345"},{"value":"395","expected":"325"},{"value":"0123","expected":"3456"}]},
+  {"id":"clumsy-range-and-deletion","blind":false,"clumsiness":5,"random":[0,0.9,0.2,0.7,0.4],"edits":[{"value":"0123","expected":"5595"},{"value":"559","expected":"559"},{"value":"509","expected":"599"}]},
+  {"id":"blind-clumsy-shared-inputs","blind":true,"clumsiness":3,"random":[0.8,0,0.999,0.5,0.2,0.25,0.75,0],"edits":[{"value":"0123","expected":"5109"},{"value":"510","expected":"510"},{"value":"0000","expected":"6950"}]},
+  {"id":"unchanged-and-non-ascii","blind":true,"clumsiness":1,"random":[0.1,0.5,0.5],"edits":[{"value":"00","expected":"11"},{"value":"11","expected":"11"},{"value":"１２","expected":"１２"},{"value":"","expected":""}]}
+]

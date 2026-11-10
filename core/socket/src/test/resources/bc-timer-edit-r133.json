@@ -1,0 +1,18 @@
+[
+  {"id":"owner-adjust","lock":"OwnerTimerPadlock","owner":true,"action":"adjust","amount":5,"unit":0,"seconds":300,"now":1000,"before":2000,"maximum":3600,"after":302000},
+  {"id":"lover-lock-owner-can-adjust","lock":"LoversTimerPadlock","owner":true,"action":"adjust","amount":5,"unit":0,"seconds":300,"now":1000,"before":2000,"maximum":3600,"after":302000},
+  {"id":"stranger-limited-decrease","lock":"OwnerTimerPadlock","random":true,"action":"decrease","seconds":-7200,"now":1000,"before":8000000,"maximum":3024000,"after":800000,"members":[10]},
+  {"id":"limited-random-positive-cap","lock":"OwnerTimerPadlock","random":true,"action":"random","positive":true,"seconds":14400,"now":1000,"before":1000000,"maximum":3600,"after":3601000,"members":[10]},
+  {"id":"password-limited-random-negative","lock":"TimerPasswordPadlock","random":true,"action":"random","seconds":-1200,"now":1000,"before":2000000,"maximum":14400,"after":800000,"members":[10]},
+  {"id":"club-mistress-can-adjust","lock":"MistressTimerPadlock","club":true,"action":"adjust","amount":5,"unit":0,"seconds":300,"now":1000,"before":2000,"maximum":14400,"after":302000},
+  {"id":"club-mistress-cannot-change-flags","lock":"MistressTimerPadlock","club":true,"action":"remove-setting","denied":true,"now":1000,"before":2000,"maximum":14400,"after":2000,"removeItem":false},
+  {"id":"mistress-nonclub-cannot-adjust","lock":"MistressTimerPadlock","action":"adjust","amount":5,"unit":0,"denied":true,"now":1000,"before":2000,"maximum":14400,"after":2000},
+  {"id":"already-at-cap","lock":"TimerPasswordPadlock","creator":10,"action":"adjust","amount":5,"unit":0,"seconds":300,"now":1000,"before":3601000,"maximum":3600,"after":3601000},
+  {"id":"used-input-is-rejected","lock":"OwnerTimerPadlock","random":true,"used":[10],"action":"increase","denied":true,"now":1000,"before":2000,"maximum":3600,"after":2000,"members":[10]},
+  {"id":"basic-restart-by-stranger","lock":"TimerPadlock","action":"restart","now":1000,"before":2000,"maximum":3600,"after":301000},
+  {"id":"bound-owner-cannot-adjust","lock":"OwnerTimerPadlock","owner":true,"bound":true,"action":"adjust","amount":5,"unit":0,"denied":true,"now":1000,"before":2000,"maximum":3600,"after":2000},
+  {"id":"target-preference-overrides-asset-maximum","lock":"OwnerTimerPadlock","owner":true,"limit":86400,"action":"adjust","amount":28,"unit":2,"seconds":2419200,"now":1000,"before":1000000,"maximum":3600,"after":86401000},
+  {"id":"password-blocked-group","lock":"TimerPasswordPadlock","creator":10,"blocked":true,"action":"adjust","amount":5,"unit":0,"denied":true,"now":1000,"before":2000,"maximum":14400,"after":2000},
+  {"id":"owner-timer-controls-through-group-block","lock":"OwnerTimerPadlock","owner":true,"blocked":true,"action":"adjust","amount":5,"unit":0,"seconds":300,"now":1000,"before":2000,"maximum":3600,"after":302000},
+  {"id":"basic-remove-setting-by-creator","lock":"TimerPadlock","creator":10,"action":"remove-setting","now":1000,"before":2000,"maximum":3600,"after":2000,"removeItem":true}
+]

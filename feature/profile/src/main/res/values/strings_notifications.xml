@@ -1,0 +1,56 @@
+<resources>
+    <string name="notification_matrix">Identity × message type</string>
+    <string name="notification_matrix_help">Multiple identities use the highest level. Off disables only that identity. Tap an identity or type to set its entire row or column. Scroll horizontally for all types. Settings are saved per account.</string>
+    <string name="notification_identity_type">Identity / type</string>
+    <string name="notification_system_level">System event level</string>
+    <string name="notification_reset_matrix">Reset matrix (keep custom rules)</string>
+    <string name="notification_custom_rules">Custom rules</string>
+    <string name="notification_custom_help">Long press and drag, or use Move up and Move down to reorder. The first matching rule overrides the matrix, including Off. Blank conditions are ignored. Involves you means an explicit target or an incoming whisper or private chat; it does not match names.</string>
+    <string name="notification_edit">Edit</string>
+    <string name="notification_delete">Delete</string>
+    <string name="notification_move_up">Move up</string>
+    <string name="notification_move_down">Move down</string>
+    <string name="notification_add_rule">Add rule</string>
+    <string name="notification_test">Test rules</string>
+    <string name="notification_any">Any</string>
+    <string name="notification_self_yes">Involves you</string>
+    <string name="notification_self_no">Does not involve you</string>
+    <string name="notification_rule_name">Rule name</string>
+    <string name="notification_match_all">Match all conditions</string>
+    <string name="notification_match_any">Match any condition</string>
+    <string name="notification_member">Member number (optional)</string>
+    <string name="notification_identity">Identity</string>
+    <string name="notification_type">Message type</string>
+    <string name="notification_keyword">Contains keyword (case insensitive)</string>
+    <string name="notification_result">Notification level</string>
+    <string name="notification_condition_required">Set at least one condition.</string>
+    <string name="notification_save">Save</string>
+    <string name="notification_cancel">Cancel</string>
+    <string name="notification_test_help">Tests routing only, without sending a notification. Foreground suppression and Android permissions apply separately.</string>
+    <string name="notification_sample">Sample message</string>
+    <string name="notification_close">Close</string>
+    <string-array name="notification_levels">
+        <item>Off</item>
+        <item>Normal</item>
+        <item>Important</item>
+        <item>Critical</item>
+    </string-array>
+    <string-array name="notification_identities">
+        <item>Stranger</item>
+        <item>Friend</item>
+        <item>Lover</item>
+        <item>Owner</item>
+        <item>Submissive</item>
+        <item>Unknown</item>
+    </string-array>
+    <string-array name="notification_types">
+        <item>Room chat</item>
+        <item>Emote</item>
+        <item>Action</item>
+        <item>Activity</item>
+        <item>Whisper</item>
+        <item>Private chat</item>
+        <item>System</item>
+        <item>Error</item>
+    </string-array>
+</resources>

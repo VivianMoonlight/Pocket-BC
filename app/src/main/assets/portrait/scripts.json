@@ -1,0 +1,490 @@
+[
+  {
+    "sha256": "d5d283c31b3a0e9cf8731d8dc1f24c3172b348a46e8288697c08c80eb9771c1a",
+    "path": "Scripts/lib/webgl/resources/m4.js"
+  },
+  {
+    "sha256": "f2d065e9c962c267ef5cd5dd64b6a679027587a8959f3c29909980a168efa68f",
+    "path": "Scripts/lib/LZString.js"
+  },
+  {
+    "sha256": "1f77d15714212cb7b2f0a50ae89b4c5c6d62627eb7945405fcc988f5c801904e",
+    "path": "Scripts/BitString.js"
+  },
+  {
+    "sha256": "0da91d682c9cb92347ea8c99402a22a2c03a3f544e86330536b79d5a43047ab1",
+    "path": "Scripts/lib/bcmodsdk.min.js"
+  },
+  {
+    "sha256": "be2195fd43c243f4f72a1df241c505db521a1ffd4bd1ce9e9de5a1db4ee461c7",
+    "path": "Scripts/Common.js"
+  },
+  {
+    "sha256": "21a6236501c4f141fec94aeeaf9a38d4a7305b3df68630c8f9bd5cd33ab09e94",
+    "path": "Scripts/ImageCache.js"
+  },
+  {
+    "sha256": "92769377512b88c3fe4935fe35e9e5328c55635ceaa7675a33a32646ac2832f4",
+    "path": "Scripts/GLDraw.js"
+  },
+  {
+    "sha256": "b3365c366d608d17d2edbf096d61376e75406cd03d2c44d0ab93aa4354cb855c",
+    "path": "Scripts/DictionaryBuilder.js"
+  },
+  {
+    "sha256": "b7ad36cb9bc8b111392c7dab58ceb1aeccb5ed2f2543b71947512614fc28e480",
+    "path": "Scripts/CommonDraw.js"
+  },
+  {
+    "sha256": "08bf08e7fddbf2b400ef602e4ae28a7efe57de2e00f5b8ba29e89ddcdd4726fe",
+    "path": "Scripts/Animation.js"
+  },
+  {
+    "sha256": "89f1b1f7e171a8247867615ee723758cfeeb4b35a6c97d6bc9bb1ec856e4c4d1",
+    "path": "Scripts/Mouse.js"
+  },
+  {
+    "sha256": "12b258e81cb2e5238d43addb1c5ab5da517e5132736a974b1939411a3b8cb8ea",
+    "path": "Scripts/Drawing.js"
+  },
+  {
+    "sha256": "d145888ec2426478fa7222d0776f18edc1ff50d9484d16ce23136a3b9eeea6e8",
+    "path": "Scripts/Timer.js"
+  },
+  {
+    "sha256": "e00188b8e5096f9793491290e182a0ef492d3c3dcdbbcc895cea5ce3da53adc9",
+    "path": "Scripts/AfkTimer.js"
+  },
+  {
+    "sha256": "c0989c401da5940962ef8731e3a3c70b79df0af024c613f2dfdc91c30aa333bb",
+    "path": "Scripts/GameLog.js"
+  },
+  {
+    "sha256": "ad1d032766284bfc2bfa54757783de00de2a6657f92f3c27793f83eb03100c27",
+    "path": "Scripts/Reputation.js"
+  },
+  {
+    "sha256": "5a808bde3efeb9f35a111352ec51f28b89e7460fd4b7c583ac0d2a4f742742da",
+    "path": "Scripts/Skill.js"
+  },
+  {
+    "sha256": "eb9718973a545ee3b444e73e8d74c203dd0c1b0f35e51c5189bdd13ac0b32dad",
+    "path": "Scripts/Pose.js"
+  },
+  {
+    "sha256": "f652fa3cfb0b3f5b22ff4d96394cc1e1e17536eab2ae7f07edca4f1b1134bb04",
+    "path": "Scripts/Character.js"
+  },
+  {
+    "sha256": "112653fc2b0a5992311bbc36583d267cfb2d83bad1e19e29865442cc1ce29135",
+    "path": "Scripts/CharacterName.js"
+  },
+  {
+    "sha256": "15845518ddaea4aad34438962f9e1457d641367dbdc4f608968885fbbd455a67",
+    "path": "Scripts/ColorPicker.js"
+  },
+  {
+    "sha256": "e6035121e8d1a3701679c6ae0323107d0ceaa86d816e725e72c5b0af394ac707",
+    "path": "Scripts/ControllerSupport.js"
+  },
+  {
+    "sha256": "2f61f7c7194de5fffceec219eb377d736080f477ff77c591fe19c1988a51a52a",
+    "path": "Scripts/Struggle.js"
+  },
+  {
+    "sha256": "7dd0d704a9b272ac497dca7e9f2a342e91a6563f45f4aede56dc1ba78057b4d7",
+    "path": "Scripts/Dialog.js"
+  },
+  {
+    "sha256": "045fccb833fdc333cb9a1acd5d539bb4cc86abd2ad7508ba056745bbcc6214bd",
+    "path": "Scripts/Speech.js"
+  },
+  {
+    "sha256": "e62c382e55aaaf77457fb0dd6a4dd2181c76dc4fd4c609c0891a6ea301243cf8",
+    "path": "Scripts/Text.js"
+  },
+  {
+    "sha256": "6440952a7f7ecf32fd3b8573f9995004cc6fac6d1b69c54708294dfbc5f1d7d2",
+    "path": "Scripts/Inventory.js"
+  },
+  {
+    "sha256": "36d3f568e16483a6417277ad6abdd0896514441e6e194353cbc65589b0f6db26",
+    "path": "Scripts/Asset.js"
+  },
+  {
+    "sha256": "192217b72091b93b6c4cc34ef44bc37aeeae6f47f874f81fc9ea7ffc0ca44cfd",
+    "path": "Scripts/Audio.js"
+  },
+  {
+    "sha256": "1ac46286b60d6a0415a6c4949681570f96656e325826af76d35f9cc410f3b4d1",
+    "path": "Scripts/MiniGame.js"
+  },
+  {
+    "sha256": "d1f370cf79911954f7253bd503c49496dbba128120b5c2d6dbcf5af23ec13266",
+    "path": "Scripts/NPC.js"
+  },
+  {
+    "sha256": "27c76575e5bf6a628681b0840a94293c985fa63724b0acfbbf87ef30baf8b419",
+    "path": "Scripts/Validation.js"
+  },
+  {
+    "sha256": "f0a086de580a07c8f4fbec11670e4c3bd3040357ef291bfc54ac8e350418942e",
+    "path": "Scripts/Element.js"
+  },
+  {
+    "sha256": "d9cda211e5d080606c641fccc024983b103fa8fc87a01d3b677450d7a777cffc",
+    "path": "Scripts/Translation.js"
+  },
+  {
+    "sha256": "89f2dccfc2a4534465f0826af0e0990f4765db3dd434d6615292a9146a9cea12",
+    "path": "Scripts/Activity.js"
+  },
+  {
+    "sha256": "714fe2132e671d13cc4295492448cfe9d8b3ed5a893102bee4379a5bcd063752",
+    "path": "Scripts/ExtendedItem.js"
+  },
+  {
+    "sha256": "94a225d3b15971b7a8a28129f9328d9ced4b72617551201fe943ff65e5faf85e",
+    "path": "Scripts/TightenLoosenItem.js"
+  },
+  {
+    "sha256": "d3f375072d82042ec04a2f35be5b757964939913cbaa424212116f5e85d97219",
+    "path": "Scripts/ModularItem.js"
+  },
+  {
+    "sha256": "291893304495cf43c1f786e15b1e69ef0b0cdb29e6b147303e28dbb34ea150c7",
+    "path": "Scripts/TypedItem.js"
+  },
+  {
+    "sha256": "dfc8777cd83b9b211354d9e043c07acdbc0832ebf6a154c0285bef727debc256",
+    "path": "Screens/Character/ItemColor/ItemColor.js"
+  },
+  {
+    "sha256": "b08e786912928bad1b5d66181d61c6add6aef33f481b9004791de8e1087a210f",
+    "path": "Scripts/VibratorMode.js"
+  },
+  {
+    "sha256": "758761013b95a187afd8d7ee3a55ad2e6bd29b0bedeb647a36544e01420e04be",
+    "path": "Scripts/Property.js"
+  },
+  {
+    "sha256": "c488c2d66053861330234d37cfe8118cb60a3036de51644e1c6cd6d8bc3a2a1b",
+    "path": "Scripts/TextItem.js"
+  },
+  {
+    "sha256": "4aaec3b8eed7f70f9f93849212e2d9e942d9d32175283535938916d887c99b96",
+    "path": "Scripts/NoArch.js"
+  },
+  {
+    "sha256": "7a817f77fcec026731b6513136e33c9280262f3113ff525962b5ee572829c5ed",
+    "path": "Scripts/PortalLink.js"
+  },
+  {
+    "sha256": "cfe29ed164fb98cf8ce4c5fa43c1f783003d510c7fd662c79e55e7bfab27b71e",
+    "path": "Scripts/DynamicDraw.js"
+  },
+  {
+    "sha256": "1fe5f0c818e3e0b291589f7ea1fe0ce01058ebf2720d02d861756a8b1cc0ea1b",
+    "path": "Scripts/Graph.js"
+  },
+  {
+    "sha256": "ede07a7ff8fd8c24c06a31ca903354196ae80babec8e526cabdd4d7fb97c754e",
+    "path": "Scripts/VariableHeight.js"
+  },
+  {
+    "sha256": "5a5c10e60080dfbb8f5d30f94076fe7f99e95591ef334d66bd9257e8f94c96c1",
+    "path": "Assets/Female3DCG.js"
+  },
+  {
+    "sha256": "985db245bc829abe3ff1a4de11621d682ce342abfbbfcfe7c7cadde61a41bad4",
+    "path": "Scripts/Item.js"
+  },
+  {
+    "sha256": "d285dbce05a101ba929d64c1343db7814f438bb158797f3ed2b7734b34dadf41",
+    "path": "Screens/Inventory/Futuristic/Futuristic.js"
+  },
+  {
+    "sha256": "ccfdb75c8442f237f9c986735624fd8034b70fb906b3775d3287f940501a961f",
+    "path": "Screens/Inventory/ItemTorso/FuturisticHarness/FuturisticHarness.js"
+  },
+  {
+    "sha256": "7bbce0731cfa955ae3e3edb989e04b85d2f324b905e87654f87bdeade3ef703c",
+    "path": "Screens/Inventory/ItemNeckAccessories/CollarNameTag/CollarNameTag.js"
+  },
+  {
+    "sha256": "1cd78cf381d3326246a047237f0a287ab3c204563e95180353af093e637ee897",
+    "path": "Screens/Inventory/ItemArms/FullLatexSuit/FullLatexSuit.js"
+  },
+  {
+    "sha256": "dde968d385120c8f5f64fed6b08ec8634f39c425e7ed631a385008747b19359f",
+    "path": "Screens/Inventory/ItemButt/InflVibeButtPlug/InflVibeButtPlug.js"
+  },
+  {
+    "sha256": "d6911cfd43121c4fa284398043e399aabb1999c593afad3f39d4a843837fe405",
+    "path": "Screens/Inventory/ItemDevices/VacBedDeluxe/VacBedDeluxe.js"
+  },
+  {
+    "sha256": "d98a24d9d7e62f2fc24e7b5126f43ad9ded18d287dba5d281f2daa28474b44fd",
+    "path": "Screens/Inventory/ItemDevices/WoodenBox/WoodenBox.js"
+  },
+  {
+    "sha256": "14a3c6c08cfa5a16174f8902990cae550a22cc7d2e176603292e5970bc747233",
+    "path": "Screens/Inventory/ItemPelvis/SciFiPleasurePanties/SciFiPleasurePanties.js"
+  },
+  {
+    "sha256": "e265d41ac26c9f513915a1761ac81b611e9d3b381120be75add1138dab693fb8",
+    "path": "Screens/Inventory/ItemNeckAccessories/CollarShockUnit/CollarShockUnit.js"
+  },
+  {
+    "sha256": "d75ebcfc5d03a009ce60ff1d9c174197219bcb38fc08abe79c6f82ae3bf54ae7",
+    "path": "Screens/Inventory/ItemVulva/ClitAndDildoVibratorbelt/ClitAndDildoVibratorbelt.js"
+  },
+  {
+    "sha256": "e055c1035b7cfdcf314eb9c94278a971610c1065bf2bea93b85305ffb380be2e",
+    "path": "Screens/Inventory/ItemBreast/FuturisticBra/FuturisticBra.js"
+  },
+  {
+    "sha256": "b3ac276c2646d8d78254f1792d46da243716df2f68b12b058f2a59c63b87ecd0",
+    "path": "Screens/Inventory/ItemArms/TransportJacket/TransportJacket.js"
+  },
+  {
+    "sha256": "32caae1636a0eb5b7820844d324bf8f3f4fc54afae96e2a39dff3b4405c45aeb",
+    "path": "Screens/Inventory/ItemMouth/FuturisticPanelGag/FuturisticPanelGag.js"
+  },
+  {
+    "sha256": "b86ad78cef668cdc00f9f2af0421cf70ac2b2a22b44a86f9383fddf657d3f9a7",
+    "path": "Screens/Inventory/ItemNeckAccessories/CollarAutoShockUnit/CollarAutoShockUnit.js"
+  },
+  {
+    "sha256": "ab14ca149d734f3cd26fd1d4d758012113d5cb3e42e0c1d323c9cd66d129618a",
+    "path": "Screens/Inventory/ItemArms/PrisonLockdownSuit/PrisonLockdownSuit.js"
+  },
+  {
+    "sha256": "b247b9f3505db33b41ce2c8eaf0a902d193ae71556abbdeb97a951658a435f81",
+    "path": "Screens/Inventory/ItemPelvis/LoveChastityBelt/LoveChastityBelt.js"
+  },
+  {
+    "sha256": "548dbc3a523ce89c48ad748a692c560b17bd0c6899977e5a753e8066c2fc091f",
+    "path": "Screens/Inventory/ItemButt/AnalBeads2/AnalBeads2.js"
+  },
+  {
+    "sha256": "bc2da607ea03bf606db536e6b88ca12cd57c4e35f2dfbb47a051c23203831051",
+    "path": "Screens/Inventory/ItemDevices/LuckyWheel/LuckyWheel.js"
+  },
+  {
+    "sha256": "23b2f93c4b4571da7174a29307b36d570e4b449c3168d54d30d8ff6ebe891a14",
+    "path": "Screens/Inventory/ItemDevices/FuturisticCrate/FuturisticCrate.js"
+  },
+  {
+    "sha256": "d261f28ab2d5742d0e7131929a19c5f8234cd6e1d522321eba127bbfb405d4be",
+    "path": "Screens/Inventory/Cloth/CheerleaderTop/CheerleaderTop.js"
+  },
+  {
+    "sha256": "3e9653545a4e8124ed4889f0882775bfbf4f040b711fbac7d7b3925a758ba274",
+    "path": "Screens/Inventory/ClothAccessory/Bib/Bib.js"
+  },
+  {
+    "sha256": "849ac3fd70119119af3e4aee1a3abf15f0d894a8838a0e16d2206c837c16f342",
+    "path": "Screens/Inventory/BodyMarkings/BodyWritings/BodyWritings.js"
+  },
+  {
+    "sha256": "efa4ab9fabba8950fe7c70f04d8a9e16be8b43e2f007f753cb5ab0bae853ecbf",
+    "path": "Screens/Inventory/FaceMarkings/FaceWritings/FaceWritings.js"
+  },
+  {
+    "sha256": "a244eb8f898a785240e62f8473749167cd6262331594eed817a89f34b4c66f70",
+    "path": "Screens/Inventory/ItemDevices/DollBox/DollBox.js"
+  },
+  {
+    "sha256": "853a18f198e6ef0eaf3fd529370d3a81e0f408a8039a708ab9e19ff7d9558ff3",
+    "path": "Screens/Inventory/ItemDevices/PetBowl/PetBowl.js"
+  },
+  {
+    "sha256": "b220587ec336cddf76b657fd1923c80b22aa984d4300f735131d75fcf25a8d9b",
+    "path": "Screens/Inventory/ItemHead/DroneMask/DroneMask.js"
+  },
+  {
+    "sha256": "49afe9f740b4660a77392e532c2fa5785810a7943e98d7bd37ee5ac4c5b268c1",
+    "path": "Screens/Inventory/ItemMisc/WoodenSign/WoodenSign.js"
+  },
+  {
+    "sha256": "f59ef8689ecc90ec4d84de49f2642772b71e05753c4e8a28718cbf37a56c2b58",
+    "path": "Screens/Inventory/ItemHood/CanvasHood/CanvasHood.js"
+  },
+  {
+    "sha256": "3179e1f6ad0b90cf912899a99b5c5299c647f259b528a2d004fd0caa3b603f5f",
+    "path": "Screens/Inventory/ItemPelvis/ObedienceBelt/ObedienceBelt.js"
+  },
+  {
+    "sha256": "a1a548e43870b635b0a2548448b46b9e91120cee0c15f76513f3d779e8af79cd",
+    "path": "Screens/Inventory/ItemVulva/TechnoChastityCage/TechnoChastityCage.js"
+  },
+  {
+    "sha256": "7317093f6705b787a15c5ac0991e15adb38ff8b6a40b22afac450f4292a974f1",
+    "path": "Screens/Inventory/ItemPelvis/ModularChastityBelt/ModularChastityBelt.js"
+  },
+  {
+    "sha256": "deeb2a86fbb6359b6b19a1d3548fe96a6d24d38546d20036195fae304fbf0d2a",
+    "path": "Screens/Inventory/ItemNeckAccessories/CustomCollarTag/CustomCollarTag.js"
+  },
+  {
+    "sha256": "dd4a503847c4d0fb579149bb0e35c8d10345137b790c0722c332b3c9c3f9b519",
+    "path": "Screens/Inventory/ItemNeckAccessories/ElectronicTag/ElectronicTag.js"
+  },
+  {
+    "sha256": "d31818f12cbfa0d59cad12db382630bd83299d03f34320a749da15d7b8ccbea7",
+    "path": "Screens/Inventory/ItemNeckRestraints/PetPost/PetPost.js"
+  },
+  {
+    "sha256": "87f568391f6fd340409415a76d396d0fa77462b31fe0141309966dd72455a6f0",
+    "path": "Screens/Inventory/ItemVulva/FuturisticVibrator/FuturisticVibrator.js"
+  },
+  {
+    "sha256": "4434a75e9bbe3ac96de24ce9284bcb770b7679aca95e58ee89dccd37a01cefeb",
+    "path": "Screens/Inventory/ItemPelvis/FuturisticTrainingBelt/FuturisticTrainingBelt.js"
+  },
+  {
+    "sha256": "0d6362320c43e0605b2c1f17fd18a9f64b8f470d70532b88fc75f4d52e98ea47",
+    "path": "Screens/Inventory/ItemDevices/KabeshiriWall/KabeshiriWall.js"
+  },
+  {
+    "sha256": "9fb3d8c6bd1424620708e3d2a4831d8e7bd05aa3de4fa0e0c86202cc7582b8b5",
+    "path": "Screens/Inventory/ItemDevices/FuckMachine/FuckMachine.js"
+  },
+  {
+    "sha256": "e908574d0f6b2f052d367c1cac21e58e74712471fe4d57004f6ff46571b404b0",
+    "path": "Screens/Inventory/ItemDevices/CardBoardBox/CardBoardBox.js"
+  },
+  {
+    "sha256": "cffca1cb27faeced3ad8b1ebbaca11eef020d3586ff6590f92145de32c36c75d",
+    "path": "Screens/Inventory/ItemBreast/ForbiddenChastityBra/ForbiddenChastityBra.js"
+  },
+  {
+    "sha256": "d40822272ba4f9d70c9379ff23cbc5e87300485faf22bbf3c71a56e9a01764c6",
+    "path": "Screens/Inventory/Suit/LatexCatsuit/LatexCatsuit.js"
+  },
+  {
+    "sha256": "02ea8a4fa0000f0b3ac96c74e234ee758fb9a4625680af3327b34f50d67db6e8",
+    "path": "Screens/Inventory/ItemNeck/FuturisticCollar/FuturisticCollar.js"
+  },
+  {
+    "sha256": "0394323e8606ffddbfb4b759cf5df938598780cb571d708a4f3327bcbe96e5eb",
+    "path": "Screens/Inventory/ItemNeck/SlaveCollar/SlaveCollar.js"
+  },
+  {
+    "sha256": "6d9b0e42b4d2b5357392b31b4d1002891744c4bccb925bbff53e3db2bcf0a4f1",
+    "path": "Screens/Inventory/ItemDevices/WheelFortune/WheelFortune.js"
+  },
+  {
+    "sha256": "48e8cd56a4ab86a19ad4c70866786830bd563f3a4c4fc8bdc62c9839ca49029a",
+    "path": "Screens/Inventory/ItemMisc/IntricatePadlock/IntricatePadlock.js"
+  },
+  {
+    "sha256": "00f9e0615f6bc35eecbae9a524d313aeaa3314968ad938cef1c1461dfcee5bc0",
+    "path": "Screens/Inventory/ItemMisc/TimerPadlock/TimerPadlock.js"
+  },
+  {
+    "sha256": "ecf1cc085e6dd373ae9873b0422144649a0de3fae66f39654b9d8b73a241309e",
+    "path": "Screens/Inventory/ItemMisc/CombinationPadlock/CombinationPadlock.js"
+  },
+  {
+    "sha256": "63b987a21821851050d68b1aa9e707b52b2f0db4c0204b46f734a9f1718d03e9",
+    "path": "Screens/Inventory/ItemMisc/HighSecurityPadlock/HighSecurityPadlock.js"
+  },
+  {
+    "sha256": "39ab3ac57d728c106aecb0a031d8c62f5d1cf2c0a3c338915e28dc73e143b767",
+    "path": "Screens/Inventory/ItemMisc/PasswordPadlock/PasswordPadlock.js"
+  },
+  {
+    "sha256": "4ae41f20fd9015353cbde71b78c79d556c0d3e0bf786d7758f8f6aaebdfc9fab",
+    "path": "Screens/Inventory/ItemMisc/SafewordPadlock/SafewordPadlock.js"
+  },
+  {
+    "sha256": "3eedc44106696d569f62b3e49fef84d6b9c7d0233b54dd8d9d8840cf6649ba68",
+    "path": "Screens/Inventory/ItemMisc/TimerPasswordPadlock/TimerPasswordPadlock.js"
+  },
+  {
+    "sha256": "c52f4acbae0710f945bb41e208ef5d72ae52678f6776f56937eb902108e68771",
+    "path": "Screens/Inventory/ItemMisc/MistressTimerPadlock/MistressTimerPadlock.js"
+  },
+  {
+    "sha256": "71a50b3509d91987ccd2049a26468d10f492e743ef6a3714202e50b9ea6d37d1",
+    "path": "Screens/Inventory/ItemMisc/OwnerTimerPadlock/OwnerTimerPadlock.js"
+  },
+  {
+    "sha256": "34b422974bd9ab30d07739bef787e71b06565c8873067d4aec4f182f64b4c82a",
+    "path": "Screens/Inventory/ItemMisc/OwnerPadlock/OwnerPadlock.js"
+  },
+  {
+    "sha256": "2d48328df4a62a9c1d6d632927a5f2b94bf2c443a85469512137aa67ae04dd91",
+    "path": "Screens/Inventory/ItemMisc/LoversTimerPadlock/LoversTimerPadlock.js"
+  },
+  {
+    "sha256": "a2f5a8f3cf9a13ad26ae933fdfb43077caca0c835fa3a9bf5a85200dadda2a1f",
+    "path": "Screens/Inventory/ItemMisc/FamilyPadlock/FamilyPadlock.js"
+  },
+  {
+    "sha256": "d717d6b0312dd6a18234a4c0ea4420cbdbd85fff87547429a01e8b21b682c296",
+    "path": "Screens/Inventory/ItemMisc/MistressPadlock/MistressPadlock.js"
+  },
+  {
+    "sha256": "e92e89a1cb28ec2073352ceef36eb5bd525cb1ef4d79d07c4725d55576962cda",
+    "path": "Screens/Inventory/ItemMisc/ExclusivePadlock/ExclusivePadlock.js"
+  },
+  {
+    "sha256": "9190aaf45a87579c5e690e9e8c95c13582442ccb0121b8d74548bca914ee1328",
+    "path": "Screens/Inventory/ItemNeck/PetSuitShockCollar/PetSuitShockCollar.js"
+  },
+  {
+    "sha256": "712450f953da034f95750aed06ef69bf0f0c2c1cdce3f04ca306464d2b98ad84",
+    "path": "Screens/Inventory/ItemHandheld/Plushies/Plushies.js"
+  },
+  {
+    "sha256": "ea63502ff9f0d29ee865c09eec6e16b474122d543d3c3ebeccbecf6367301e8f",
+    "path": "Assets/Female3DCGExtended.js"
+  },
+  {
+    "sha256": "65b23dd32c5d7e874a444ad3cad0131d6d81a3bcbee4d0a54b0ac199265f2a68",
+    "path": "Scripts/Layering.js"
+  },
+  {
+    "sha256": "9d5340e524f61a6e4ebd74e0e47955784c4507c865447d8b5fc34b6972e57e54",
+    "path": "Screens/Character/Appearance/Appearance.js"
+  },
+  {
+    "sha256": "c295456136eed8ca0d9571e1d8be1266d2ad52aac6e550070ccff2fa1bfb8a2a",
+    "path": "Screens/Inventory/ItemArms/HempRope/HempRope.js"
+  },
+  {
+    "sha256": "0912a2895569258707e863d44c2d8886f46e67050399759fa24541fcf89863fd",
+    "path": "Screens/Inventory/ItemArms/NylonRope/NylonRope.js"
+  },
+  {
+    "sha256": "c117d39bdadf8362469a03f6cc0485bf1e73f6b11bf2b68e50120b94174904e2",
+    "path": "Screens/Inventory/ItemFeet/HempRope/HempRope.js"
+  },
+  {
+    "sha256": "d5294efe88a3a846aa6a6f9d7990e24c3bb8457cc37b8a43ef07399c0232f083",
+    "path": "Screens/Inventory/ItemFeet/NylonRope/NylonRope.js"
+  },
+  {
+    "sha256": "f0d52e4f2cb15c576480ef6608caca5333c5a3b99408901d2391b2aad71b26d9",
+    "path": "Screens/Inventory/ItemPelvis/FuturisticChastityBelt/FuturisticChastityBelt.js"
+  },
+  {
+    "sha256": "d7a3bda5e3b70106ed5241761903abcb7c6e01dadd4cacb395c2f3311d0e5a28",
+    "path": "Screens/Inventory/ItemDevices/Kennel/Kennel.js"
+  },
+  {
+    "sha256": "8de66f1319cd8118c7c2f5e09a22bec2c8006812387f3c9c3a4f617b788996dd",
+    "path": "Screens/Inventory/Wings/SteampunkWings/SteampunkWings.js"
+  },
+  {
+    "sha256": "4130d10daa6626e032fac3020fcf46fef4cb2cf53a37e4aaada77de52405d150",
+    "path": "Screens/Inventory/ItemNipples/LactationPump/LactationPump.js"
+  },
+  {
+    "sha256": "0a8b71f45da2f8846547c0283116c588b8cd3df82873b20fb8073c20f8eb0c9b",
+    "path": "Screens/Inventory/ItemNeckRestraints/CollarLeash/CollarLeash.js"
+  }
+]

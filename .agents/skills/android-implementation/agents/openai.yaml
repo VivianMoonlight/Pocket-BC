@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Implementation"
+  short_description: "Implement scoped Android and Compose changes"
+  default_prompt: "Use $android-implementation to implement this Android change within the existing architecture."

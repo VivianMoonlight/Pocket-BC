@@ -1,0 +1,15 @@
+{
+  "Sender": 1001,
+  "Type": "Action",
+  "Content": "ActionUse",
+  "Dictionary": [
+    { "SourceCharacter": 1001 },
+    { "TargetCharacter": 2002 },
+    { "FocusGroupName": "ItemArms" },
+    {
+      "Tag": "NextAsset",
+      "GroupName": "ItemArms",
+      "AssetName": "HempRope"
+    }
+  ]
+}

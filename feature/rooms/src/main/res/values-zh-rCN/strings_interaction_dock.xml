@@ -1,0 +1,24 @@
+<resources>
+    <string name="dock_speak">说话</string>
+    <string name="dock_layout">布局</string>
+    <string name="dock_list">列表</string>
+    <string name="dock_search_global">全局搜索</string>
+    <string name="dock_search_current_items">搜索%1$s的道具</string>
+    <string name="dock_favorites">收藏</string>
+    <string name="dock_favorite">收藏动作</string>
+    <string name="dock_unfavorite">取消收藏</string>
+    <string name="dock_no_favorites">暂无可用收藏，长按动作即可收藏。</string>
+    <string name="dock_target">与 %1$s 互动</string>
+    <string name="dock_whisper">悄悄话</string>
+    <string name="dock_profile">资料</string>
+    <string name="dock_collapse">收起</string>
+    <string name="dock_all_actions">全部动作</string>
+    <string name="dock_quick_actions">常用动作</string>
+    <string name="dock_search_actions">搜索动作或部位</string>
+    <string name="dock_all_body_parts">所有部位</string>
+    <string name="dock_no_matching_actions">没有匹配的动作，可换个部位或显示不可用动作查看原因。</string>
+    <string name="dock_change_body_part">选择部位</string>
+    <string name="dock_item_catalog">物品目录</string>
+    <string name="dock_body_view">部位布局</string>
+    <string name="dock_list_view">动作列表</string>
+</resources>

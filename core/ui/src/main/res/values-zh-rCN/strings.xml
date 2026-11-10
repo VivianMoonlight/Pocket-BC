@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="core_ui_back">返回</string>
+    <string name="core_ui_avatar">%1$s 的头像</string>
+    <string name="core_ui_locked">已上锁</string>
+    <string name="core_ui_friends_here">好友在此：%1$s</string>
+    <string name="core_ui_beep_to">发给 %1$s 的私聊</string>
+    <string name="core_ui_beep_from">来自 %1$s 的私聊</string>
+    <string name="core_ui_whisper_to">悄悄话给 %1$s</string>
+    <string name="core_ui_whisper_from">来自 %1$s 的悄悄话</string>
+    <string name="core_ui_system">系统</string>
+    <string name="core_ui_protocol">协议</string>
+    <string name="core_ui_sending">正在发送…</string>
+    <string name="core_ui_not_delivered">发送失败</string>
+</resources>

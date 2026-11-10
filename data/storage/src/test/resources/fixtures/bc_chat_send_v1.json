@@ -1,0 +1,9 @@
+{
+  "clientMsgId": "cm_chat_1",
+  "conversationId": "room:current",
+  "kind": "Chat",
+  "transport": "RoomChat",
+  "text": "hello room",
+  "targetMemberNumber": null,
+  "createdAtMillis": 1782460800123
+}

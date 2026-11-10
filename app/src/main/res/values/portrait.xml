@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="portrait_title">Character preview</string>
+    <string name="portrait_show">Show character</string>
+    <string name="portrait_hide">Hide preview</string>
+    <string name="portrait_loading">Loading character…</string>
+    <string name="portrait_failed">Could not complete this preview. Try again.</string>
+    <string name="portrait_unsupported">This appearance contains items the preview does not support yet.</string>
+    <string name="portrait_partial">Could not show: %1$s. The preview above shows the supported parts only.</string>
+    <string name="portrait_partial_images">Some images could not be loaded. Available layers are shown.</string>
+    <string name="portrait_version">Character previews currently support BC R133. Your session uses %1$s.</string>
+    <string name="portrait_retry">Retry</string>
+    <string name="portrait_description">Character appearance for %1$s</string>
+    <string name="portrait_static">Single-character still preview · Selected Echo clothing and extra slots supported</string>
+    <string name="portrait_hide_all">Hide portraits</string>
+    <string name="portrait_slider_hidden">Clothing hidden</string>
+    <string name="portrait_slider_show">Show clothing</string>
+    <string name="portrait_slide_to_show">Press and drag down to show portraits</string>
+    <string name="portrait_part_list">Body parts</string>
+    <string name="portrait_choose_part">Choose a body part</string>
+    <string name="portrait_tap_part">Tap a body part, or open the body parts list.</string>
+    <string name="portrait_part_loading">Body regions are loading. Use the list below for now.</string>
+</resources>

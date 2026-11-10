@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chat_image_attach">Image</string>
+    <string name="chat_image_upload_title">Upload image</string>
+    <string name="chat_image_upload_help">Choose a host, then select an image to upload (JPG, PNG, GIF, WebP or BMP, up to %1$d MB). Anyone with the link can view it.</string>
+    <string name="chat_image_host_litterbox">Litterbox · 12 hours</string>
+    <string name="chat_image_host_catbox">Catbox · no expiry set</string>
+    <string name="chat_image_host_tmpfiles">TmpFiles · 1 hour</string>
+    <string name="chat_image_host_imgbb">ImgBB · API Key required</string>
+    <string name="chat_image_host_imgur">Imgur · Client ID required</string>
+    <string name="chat_image_too_large">Image exceeds %1$d MB. Choose a smaller image.</string>
+    <string name="chat_image_invalid">Cannot read this image. Choose a JPG, PNG, GIF, WebP or BMP.</string>
+    <string name="chat_image_upload_failed">Upload failed. Check your connection and credentials, then retry or choose another host.</string>
+    <string name="chat_image_uploading">Uploading…</string>
+    <string name="chat_image_uploaded">Uploaded. Insert the link into your draft, then send it.</string>
+    <string name="chat_image_choose">Choose and upload</string>
+    <string name="chat_image_insert">Insert link</string>
+    <string name="chat_image_cancel">Cancel</string>
+    <string name="chat_image_credentials_help">Saved encrypted on this device when you upload.</string>
+    <string name="chat_image_credentials_get">Get credentials</string>
+    <string name="chat_image_credentials_clear">Clear saved credentials</string>
+</resources>

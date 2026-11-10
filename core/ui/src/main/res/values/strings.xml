@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="core_ui_back">Back</string>
+    <string name="core_ui_avatar">%1$s avatar</string>
+    <string name="core_ui_locked">Locked</string>
+    <string name="core_ui_friends_here">Friends here: %1$s</string>
+    <string name="core_ui_beep_to">Private chat to %1$s</string>
+    <string name="core_ui_beep_from">Private chat from %1$s</string>
+    <string name="core_ui_whisper_to">Whisper to %1$s</string>
+    <string name="core_ui_whisper_from">Whisper from %1$s</string>
+    <string name="core_ui_system">System</string>
+    <string name="core_ui_protocol">Protocol</string>
+    <string name="core_ui_sending">Sending…</string>
+    <string name="core_ui_not_delivered">Not delivered</string>
+</resources>

@@ -1,0 +1,19 @@
+package bot.inker.bc.razor.protocol.sync
+
+import com.google.gson.JsonElement
+import com.google.gson.annotations.SerializedName
+
+data class ItemSyncMessage(
+    @SerializedName("Source") val source: Int,
+    @SerializedName("Item") val item: ItemSyncData,
+)
+
+data class ItemSyncData(
+    @SerializedName("Target") val target: Int,
+    @SerializedName("Group") val group: String,
+    @SerializedName("Name") val name: String? = null,
+    @SerializedName("Color") val color: JsonElement? = null,
+    @SerializedName("Difficulty") val difficulty: Int? = null,
+    @SerializedName("Property") val property: JsonElement? = null,
+    @SerializedName("Craft") val craft: JsonElement? = null,
+)

@@ -1,0 +1,68 @@
+.gradle/
+build/
+**/build/
+app/debug/
+local.properties
+.idea/
+*.iml
+
+captures/
+.externalNativeBuild/
+.cxx/
+
+*.apk
+*.aab
+*.keystore
+
+docs/**/*.tmp
+
+# Local patch/backup artifacts
+_local-artifacts/
+.patches/
+*.bak
+*.orig
+*.old
+*.rej
+*.backup
+*~
+*-files.zip
+*-patched.zip
+*-patch.zip
+backup-before-*/
+
+# Local reports and backup scratch files
+storage-refactor-*-audit-report.txt
+storage-state-confirmation-report.txt
+*.bak-*
+# Local cleanup / patch artifacts
+_cleanup-trash-*/
+.backup-*/
+.patch-*/
+
+# Local cleanup trash
+/_cleanup-trash-*/
+
+# Local patch / backup artifacts
+/.backup-*/
+/backup-before-*/
+/_local-artifacts/
+
+# Root-level generated patch packages and reports
+/*.zip
+/*-report.txt
+/*-audit-report.txt
+/*-compile-error.txt
+
+# Local tree snapshots
+/clean-tree*.txt
+/filetree*.txt
+
+# Temporary local scripts
+/*.ps1
+
+# Local validation logs and Kotlin cache
+/.codex-*-validation.log
+.kotlin/
+
+# Personal crafting exports belong in local artifacts, not source control.
+/craft*.json

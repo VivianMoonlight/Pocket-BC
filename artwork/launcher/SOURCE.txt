@@ -1,0 +1,8 @@
+BC launcher artwork
+
+Source: https://gitgud.io/BondageProjects/Bondage-College/-/raw/master/BondageClub/Icons/Logo.png
+Referenced by the official BondageClub/index.html favicon link.
+Retrieved: 2026-10-21.
+The original 75×75 artwork is preserved in bc-logo.png; launcher resources are resized copies.
+Adaptive foreground: artwork fits within 60dp of the 108dp layer, centered on #182033.
+Notification artwork uses the same source alpha silhouette as a white vector; the old launcher drawable has been removed.

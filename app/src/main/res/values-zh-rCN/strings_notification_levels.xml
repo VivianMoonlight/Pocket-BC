@@ -1,0 +1,6 @@
+<resources>
+    <string name="notification_level_normal">普通</string>
+    <string name="notification_level_important">重要</string>
+    <string name="notification_level_critical">关键</string>
+    <string name="notification_levels_description">由身份矩阵和自定义规则分类。声音、振动和横幅由 Android 系统设置控制。</string>
+</resources>

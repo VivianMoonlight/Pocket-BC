@@ -1,0 +1,8 @@
+[
+  {"id":"default-tag","type":{"t":0,"x":0},"baseline":{"Text":"Tag"},"options":[{},{}],"expectedText":{"Text":"Tag"}},
+  {"id":"changed-shape-keeps-chinese-text","type":{"t":5,"x":0},"baseline":{"Text":"我的名牌"},"options":[{},{}],"expectedText":{"Text":"我的名牌"}},
+  {"id":"selected-option-overrides-baseline-text","type":{"t":2,"x":0},"baseline":{"Text":"Old","Text2":"保留"},"options":[{"Text":"New"},{}],"expectedText":{"Text":"New","Text2":"保留"}},
+  {"id":"three-fields-keep-blank-values","type":{"t":1},"baseline":{"Text":"","Text2":"第二行","Text3":"123"},"options":[{}],"expectedText":{"Text":"","Text2":"第二行","Text3":"123"}},
+  {"id":"invalid-option-text-is-ignored","type":{"t":1},"baseline":{"Text":"Valid"},"options":[{"Text":"😀","Text2":"line\nbreak"}],"expectedText":{"Text":"Valid"}},
+  {"id":"nonstrings-are-ignored","type":{"t":1},"baseline":{"Text":null,"Text2":123},"options":[{}],"expectedText":{}}
+]

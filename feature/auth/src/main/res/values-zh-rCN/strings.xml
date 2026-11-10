@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_tagline">轻量原生 BC 客户端</string>
+    <string name="back_to_settings">返回设置</string>
+    <string name="new_account">新账号</string>
+    <string name="new_account_named">新账号：%1$s</string>
+    <string name="saved_accounts">已保存账号</string>
+    <string name="account">账号</string>
+    <string name="password">密码</string>
+    <string name="show_password">显示</string>
+    <string name="hide_password">隐藏</string>
+    <string name="bc_version">全局 BC 版本（所有账号共用）</string>
+    <string name="bc_version_hint">请输入 BC 版本，例如 R130、R131Beta2 或 R132Alpha。</string>
+    <string name="account_required">请输入账号。</string>
+    <string name="password_required">请输入密码。</string>
+    <string name="connection_options">连接选项</string>
+    <string name="hide_connection_options">收起连接选项</string>
+    <string name="server_url">服务器地址</string>
+    <string name="server_url_hint">留空时使用默认 BC 服务器。</string>
+    <string name="server_url_invalid">请输入完整的 http 或 https 服务器地址。</string>
+    <string name="use_default_server">使用默认服务器</string>
+    <string name="login_in_progress">正在登录…</string>
+    <string name="delete_in_progress">正在移除已保存账号…</string>
+    <string name="save_account_password">保存账号和密码</string>
+    <string name="delete_saved_account">删除已保存账号</string>
+    <string name="login">登录</string>
+    <string name="status_format">状态：%1$s</string>
+    <string name="delete_saved_account_title">删除已保存账号？</string>
+    <string name="delete_saved_account_message">从本设备移除 %1$s 的已保存账号和密码？</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+</resources>

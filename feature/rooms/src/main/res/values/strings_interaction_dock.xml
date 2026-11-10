@@ -1,0 +1,24 @@
+<resources>
+    <string name="dock_speak">Speak</string>
+    <string name="dock_layout">Layout</string>
+    <string name="dock_list">List</string>
+    <string name="dock_search_global">Search all</string>
+    <string name="dock_search_current_items">Search items for %1$s</string>
+    <string name="dock_favorites">Favorites</string>
+    <string name="dock_favorite">Add to favorites</string>
+    <string name="dock_unfavorite">Remove from favorites</string>
+    <string name="dock_no_favorites">No favorites available. Long-press an action to add it.</string>
+    <string name="dock_target">With %1$s</string>
+    <string name="dock_whisper">Whisper</string>
+    <string name="dock_profile">Profile</string>
+    <string name="dock_collapse">Hide</string>
+    <string name="dock_all_actions">All actions</string>
+    <string name="dock_quick_actions">Quick actions</string>
+    <string name="dock_search_actions">Search actions or body parts</string>
+    <string name="dock_all_body_parts">All parts</string>
+    <string name="dock_no_matching_actions">No matching actions. Try another body part or include unavailable actions.</string>
+    <string name="dock_change_body_part">Body part</string>
+    <string name="dock_item_catalog">Item catalog</string>
+    <string name="dock_body_view">Body layout</string>
+    <string name="dock_list_view">Action list</string>
+</resources>

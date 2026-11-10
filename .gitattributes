@@ -1,0 +1,2 @@
+# Empty final columns are significant in the native wardrobe metadata fixture.
+domain/character/src/test/resources/bc-fixtures/WardrobeMetadata-R129.tsv whitespace=-blank-at-eol

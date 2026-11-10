@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compose UI Review"
+  short_description: "Review Compose UI behavior and accessibility"
+  default_prompt: "Use $compose-ui-review to review this Compose UI change for correctness and regressions."

@@ -1,0 +1,14 @@
+<resources>
+    <string name="appearance_mode">Color mode</string>
+    <string name="appearance_system">Follow system</string>
+    <string name="appearance_light">Light</string>
+    <string name="appearance_dark">Dark</string>
+    <string name="appearance_black">Pure black</string>
+    <string name="appearance_palette">Color palette</string>
+    <string name="appearance_rose">Rose · original</string>
+    <string name="appearance_ocean">Ocean</string>
+    <string name="appearance_forest">Forest</string>
+    <string name="appearance_lavender">Lavender</string>
+    <string name="appearance_graphite">Graphite</string>
+    <string name="appearance_dynamic">Wallpaper colors</string>
+</resources>
